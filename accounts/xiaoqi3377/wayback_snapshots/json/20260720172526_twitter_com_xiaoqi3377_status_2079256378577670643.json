@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2078815104444121135",
+    "created_at": "2026-07-20T17:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T18:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079256378577670643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1738375202168532992",
+          "start": 0,
+          "username": "Wanzi5450"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079256378577670643",
+    "in_reply_to_user_id": "1738375202168532992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078815104444121135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wanzi5450 好可爱呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078815083308937217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlvTeJacAELntY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2078815104444121135",
+        "created_at": "2026-07-20T17:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079256378577670643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079256378577670643",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078815104444121135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 好可爱呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078815083308937217"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2078815104444121135",
+        "created_at": "2026-07-19T12:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078815104444121135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L3WNXVZp1b",
+              "end": 32,
+              "expanded_url": "https://x.com/Wanzi5450/status/2078815104444121135/photo/1",
+              "media_key": "3_2078815083308937217",
+              "start": 9,
+              "url": "https://t.co/L3WNXVZp1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078815104444121135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11864,
+          "like_count": 192,
+          "quote_count": 0,
+          "reply_count": 57,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无意义睡衣照一则 https://t.co/L3WNXVZp1b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 167,
+          "like_count": 723,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 739
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 另一个我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 365,
+          "like_count": 23028,
+          "listed_count": 0,
+          "media_count": 621,
+          "tweet_count": 4859
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

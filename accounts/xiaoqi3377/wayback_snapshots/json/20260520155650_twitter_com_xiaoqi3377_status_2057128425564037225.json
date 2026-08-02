@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2057128425564037225",
+    "created_at": "2026-05-20T15:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T16:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057128425564037225"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoqi3377/sta…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/xiaoqi3377/status/2057127932209070551",
+          "start": 80,
+          "url": "https://t.co/PN5090mczD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057128425564037225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057127932209070551",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吐了一晚上整个人都虚脱了 根本没法上学 结果我爸妈灵机一动把我手机没收了。我崩溃之下拿切肉刀自杀威胁把手机要回来了。在家里昏睡了两天第三天就活蹦乱跳的去学校了 https://t.co/PN5090mczD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2057128425564037225",
+        "created_at": "2026-05-20T15:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057128425564037225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoqi3377/sta…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/xiaoqi3377/status/2057127932209070551",
+              "start": 80,
+              "url": "https://t.co/PN5090mczD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057128425564037225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057127932209070551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吐了一晚上整个人都虚脱了 根本没法上学 结果我爸妈灵机一动把我手机没收了。我崩溃之下拿切肉刀自杀威胁把手机要回来了。在家里昏睡了两天第三天就活蹦乱跳的去学校了 https://t.co/PN5090mczD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2057127932209070551",
+        "created_at": "2026-05-20T15:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057127932209070551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057127932209070551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我高三那会吞药一点事没有 我爹就站在那看着我往嘴里塞药然后让我继续吃 我也是个犟种 就一直往嘴里塞 吃了四盒佐匹克隆两盒舍曲林一盒文拉法辛还有别的乱七八糟的 一大把吃进去没人带我洗胃 我爹撂下一句我服了就回去睡觉了我自己一个人爬到厕所吐了一晚上 第二天他们还想让我去上学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 209,
+          "like_count": 516,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 276
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

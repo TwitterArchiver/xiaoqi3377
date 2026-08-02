@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072850930035499008"
+      ],
+      "media_source_tweet_id": [
+        "2072850934758298012"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2077317476044734645",
+    "created_at": "2026-07-15T09:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077317476044734645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1394223427",
+          "start": 3,
+          "username": "manuhamu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aayDd51GW1",
+          "end": 44,
+          "expanded_url": "https://x.com/manuhamu/status/2072850934758298012/photo/1",
+          "media_key": "3_2072850930035499008",
+          "start": 21,
+          "url": "https://t.co/aayDd51GW1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077317476044734645",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 340
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072850934758298012",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @manuhamu: 何か残せたか https://t.co/aayDd51GW1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072850930035499008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMQ-8D0aoAAGjn8.jpg",
+        "width": 1744
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072850930035499008"
+          ],
+          "media_source_tweet_id": [
+            "2072850934758298012"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2077317476044734645",
+        "created_at": "2026-07-15T09:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077317476044734645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1394223427",
+              "start": 3,
+              "username": "manuhamu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aayDd51GW1",
+              "end": 44,
+              "expanded_url": "https://x.com/manuhamu/status/2072850934758298012/photo/1",
+              "media_key": "3_2072850930035499008",
+              "start": 21,
+              "url": "https://t.co/aayDd51GW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077317476044734645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 340
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072850934758298012",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @manuhamu: 何か残せたか https://t.co/aayDd51GW1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072850930035499008"
+          ]
+        },
+        "author_id": "1394223427",
+        "conversation_id": "2072850934758298012",
+        "created_at": "2026-07-03T01:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072850934758298012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aayDd51GW1",
+              "end": 30,
+              "expanded_url": "https://x.com/manuhamu/status/2072850934758298012/photo/1",
+              "media_key": "3_2072850930035499008",
+              "start": 7,
+              "url": "https://t.co/aayDd51GW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072850934758298012",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 301,
+          "impression_count": 66261,
+          "like_count": 4226,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 340
+        },
+        "reply_settings": "everyone",
+        "text": "何か残せたか https://t.co/aayDd51GW1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 164,
+          "like_count": 710,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 719
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-01T09:34:08.000Z",
+        "description": "好きな絵を描きます。\n⚫︎作品集「風の中」/https://t.co/sCdr3XHjUj\n⚫︎絵本「よるにおばけと」「はるってなんか」/https://t.co/wLBYkF2lNH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pie.co.jp/book/i/5765/",
+                "end": 45,
+                "expanded_url": "https://pie.co.jp/book/i/5765/",
+                "start": 22,
+                "url": "https://t.co/sCdr3XHjUj"
+              },
+              {
+                "display_url": "mishimasha.com/?s=%E3%81%BF%E…",
+                "end": 92,
+                "expanded_url": "https://mishimasha.com/?s=%E3%81%BF%E3%81%AA%E3%81%AF%E3%82%80",
+                "start": 69,
+                "url": "https://t.co/wLBYkF2lNH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minami-no-shima.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://minami-no-shima.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/xAgXU3C5c9"
+              }
+            ]
+          }
+        },
+        "id": "1394223427",
+        "location": "ンキッャヒ",
+        "name": "みなはむ",
+        "pinned_tweet_id": "2052563227826106678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1692331778718220288/2HqIiial_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237685,
+          "following_count": 1361,
+          "like_count": 33166,
+          "listed_count": 1963,
+          "media_count": 4573,
+          "tweet_count": 45120
+        },
+        "url": "https://t.co/xAgXU3C5c9",
+        "username": "manuhamu",
+        "verified": false
+      }
+    ]
+  }
+}

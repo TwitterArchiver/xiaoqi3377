@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2080360989254725801",
+    "created_at": "2026-07-23T18:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T19:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080360989254725801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3242933142",
+          "start": 3,
+          "username": "few7432"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080360989254725801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 341
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079937298288848933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @few7432: 君は僕がいなくても寂しくないんだろうな"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2080360989254725801",
+        "created_at": "2026-07-23T18:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080360989254725801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3242933142",
+              "start": 3,
+              "username": "few7432"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080360989254725801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 341
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079937298288848933",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @few7432: 君は僕がいなくても寂しくないんだろうな"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3242933142",
+        "conversation_id": "2079937298288848933",
+        "created_at": "2026-07-22T14:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079937298288848933"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079937298288848933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 37670,
+          "like_count": 1763,
+          "quote_count": 34,
+          "reply_count": 13,
+          "retweet_count": 341
+        },
+        "reply_settings": "everyone",
+        "text": "君は僕がいなくても寂しくないんだろうな"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2079485954696561008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 173,
+          "like_count": 742,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 777
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-12T06:11:53.000Z",
+        "description": "",
+        "id": "3242933142",
+        "name": "チャーリー",
+        "pinned_tweet_id": "1665992467391594497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/650883758598451200/iUYzPHt3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200685,
+          "following_count": 6243,
+          "like_count": 3893,
+          "listed_count": 516,
+          "media_count": 456,
+          "tweet_count": 53366
+        },
+        "url": "",
+        "username": "few7432",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2067483009411141826",
+    "created_at": "2026-06-18T05:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067483009411141826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2019009645692760064",
+          "start": 3,
+          "username": "bamseng110101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067483009411141826",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 238
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067011139800891804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bamseng110101: 내가 정신병이 없었다면\n내 スㅏ㉭ㅐ  흉터가 옅었다면\n내가 ○D 를 덜 했다면\n내가 트위터를 덜 했다면\n내가 한녀가 아니었다면\n내가 우울전시를 덜했다면\n내가 예뻤다면\n내가 착했다면\n내가 공부를 잘했다면\n내가 눈치가…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2067483009411141826",
+        "created_at": "2026-06-18T05:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067483009411141826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2019009645692760064",
+              "start": 3,
+              "username": "bamseng110101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067483009411141826",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 238
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067011139800891804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bamseng110101: 내가 정신병이 없었다면\n내 スㅏ㉭ㅐ  흉터가 옅었다면\n내가 ○D 를 덜 했다면\n내가 트위터를 덜 했다면\n내가 한녀가 아니었다면\n내가 우울전시를 덜했다면\n내가 예뻤다면\n내가 착했다면\n내가 공부를 잘했다면\n내가 눈치가…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019009645692760064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2067011139800891804",
+        "created_at": "2026-06-16T22:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T23:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067011139800891804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067011139800891804",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 42709,
+          "like_count": 1107,
+          "quote_count": 323,
+          "reply_count": 9,
+          "retweet_count": 238
+        },
+        "reply_settings": "everyone",
+        "text": "내가 정신병이 없었다면\n내 スㅏ㉭ㅐ  흉터가 옅었다면\n내가 ○D 를 덜 했다면\n내가 트위터를 덜 했다면\n내가 한녀가 아니었다면\n내가 우울전시를 덜했다면\n내가 예뻤다면\n내가 착했다면\n내가 공부를 잘했다면\n내가 눈치가 빨랐다면\n내가 다재다능했다면\n\n모두가 나를 좋아했을까?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 165,
+          "like_count": 660,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 567
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T11:26:46.000Z",
+        "description": "10년생 | 우울계 | 정병계 | 자해 전시 | 트위터 잘 몰라요..🥲 | 비계: @bamseng220202 | 정트: @jeongha82173174 | 정지 대비 계정: @bamseng1101011 | https://t.co/qMXiW8NpUn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 46,
+                "username": "bamseng220202"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "jeongha82173174"
+              },
+              {
+                "end": 111,
+                "start": 96,
+                "username": "bamseng1101011"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "asked.kr/bamseng110101",
+                "end": 137,
+                "expanded_url": "http://asked.kr/bamseng110101",
+                "start": 114,
+                "url": "https://t.co/qMXiW8NpUn"
+              }
+            ]
+          }
+        },
+        "id": "2019009645692760064",
+        "location": "모두를 사랑할게",
+        "name": "밤셍",
+        "pinned_tweet_id": "2063992447475343437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019012014396600320/60OrrUpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 852,
+          "like_count": 5234,
+          "listed_count": 4,
+          "media_count": 90,
+          "tweet_count": 1284
+        },
+        "username": "bamseng110101",
+        "verified": false
+      }
+    ]
+  }
+}

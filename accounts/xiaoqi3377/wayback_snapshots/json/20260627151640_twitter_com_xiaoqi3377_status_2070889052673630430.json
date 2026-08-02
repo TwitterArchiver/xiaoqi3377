@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070866147491397632"
+      ],
+      "media_source_tweet_id": [
+        "2070866162246967570"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2070889052673630430",
+    "created_at": "2026-06-27T15:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070889052673630430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1441644889788223490",
+          "start": 3,
+          "username": "yumyumyamq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jhc2jrOv5S",
+          "end": 46,
+          "expanded_url": "https://x.com/yumyumyamq/status/2070866162246967570/photo/1",
+          "media_key": "3_2070866147491397632",
+          "start": 23,
+          "url": "https://t.co/jhc2jrOv5S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070889052673630430",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070866162246967570",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yumyumyamq: ぴゃーーっ！ https://t.co/jhc2jrOv5S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070866147491397632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0xygqbQAACv_A.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070866147491397632"
+          ],
+          "media_source_tweet_id": [
+            "2070866162246967570"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2070889052673630430",
+        "created_at": "2026-06-27T15:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070889052673630430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1441644889788223490",
+              "start": 3,
+              "username": "yumyumyamq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jhc2jrOv5S",
+              "end": 46,
+              "expanded_url": "https://x.com/yumyumyamq/status/2070866162246967570/photo/1",
+              "media_key": "3_2070866147491397632",
+              "start": 23,
+              "url": "https://t.co/jhc2jrOv5S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070889052673630430",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070866162246967570",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yumyumyamq: ぴゃーーっ！ https://t.co/jhc2jrOv5S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070866147491397632"
+          ]
+        },
+        "author_id": "1441644889788223490",
+        "conversation_id": "2070866162246967570",
+        "created_at": "2026-06-27T13:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070866162246967570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jhc2jrOv5S",
+              "end": 30,
+              "expanded_url": "https://x.com/yumyumyamq/status/2070866162246967570/photo/1",
+              "media_key": "3_2070866147491397632",
+              "start": 7,
+              "url": "https://t.co/jhc2jrOv5S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070866162246967570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5618,
+          "like_count": 464,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "ぴゃーーっ！ https://t.co/jhc2jrOv5S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 619
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-25T06:06:09.000Z",
+        "description": "やまだ やむ・絵と漫画とたまに音楽（ソロ＆バンド）\n【漫画】@yumyumyamq2 【お仕事・ご連絡】yumyumyamq@dotlabel.jp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "yumyumyamq2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yumyamq",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@yumyamq",
+                "start": 0,
+                "url": "https://t.co/Q9sV49CCo2"
+              }
+            ]
+          }
+        },
+        "id": "1441644889788223490",
+        "name": "山田yum",
+        "pinned_tweet_id": "2068544611002495366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855520437486436352/f7ejUnQ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60582,
+          "following_count": 449,
+          "like_count": 10146,
+          "listed_count": 282,
+          "media_count": 2093,
+          "tweet_count": 4299
+        },
+        "url": "https://t.co/Q9sV49CCo2",
+        "username": "yumyumyamq",
+        "verified": true
+      }
+    ]
+  }
+}

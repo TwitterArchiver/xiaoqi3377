@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056690701388431360"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2056690709546373216",
+    "created_at": "2026-05-19T10:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T11:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056690709546373216"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tjfOl6RiwI",
+          "end": 140,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2056690709546373216/photo/1",
+          "media_key": "3_2056690701388431360",
+          "start": 117,
+          "url": "https://t.co/tjfOl6RiwI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056690709546373216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🔝我是七  此账号为垃圾桶账号 有大量发泄负面情绪和欲望的言论 偶尔会画一些g图血图色图 可以和我聊天但是我语言能力比较低下 精力很低可能会突然消失 请不要找我聊骚 聊黄 我会很难过 欢迎互fo 我会查成分选择性回关。很高兴认识你们 https://t.co/tjfOl6RiwI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 412,
+        "media_key": "3_2056690701388431360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrVS80bQAAtHui.jpg",
+        "width": 440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056690701388431360"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2056690709546373216",
+        "created_at": "2026-05-19T10:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056690709546373216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tjfOl6RiwI",
+              "end": 140,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2056690709546373216/photo/1",
+              "media_key": "3_2056690701388431360",
+              "start": 117,
+              "url": "https://t.co/tjfOl6RiwI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056690709546373216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔝我是七  此账号为垃圾桶账号 有大量发泄负面情绪和欲望的言论 偶尔会画一些g图血图色图 可以和我聊天但是我语言能力比较低下 精力很低可能会突然消失 请不要找我聊骚 聊黄 我会很难过 欢迎互fo 我会查成分选择性回关。很高兴认识你们 https://t.co/tjfOl6RiwI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056288615995728241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 198,
+          "like_count": 488,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 203
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

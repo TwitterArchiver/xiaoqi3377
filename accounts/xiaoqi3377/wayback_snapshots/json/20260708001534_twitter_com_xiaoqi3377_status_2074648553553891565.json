@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2074648553553891565",
+    "created_at": "2026-07-08T00:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T01:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074648553553891565"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074648553553891565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "。。我咋掉了这么多粉丝。你们能不能宽容一下期末周的大学生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2074648553553891565",
+        "created_at": "2026-07-08T00:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074648553553891565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074648553553891565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。。我咋掉了这么多粉丝。你们能不能宽容一下期末周的大学生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073831418564849664/WAOIjmQ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 163,
+          "like_count": 696,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 700
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

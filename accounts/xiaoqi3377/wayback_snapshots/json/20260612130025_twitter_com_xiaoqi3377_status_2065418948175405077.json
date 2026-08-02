@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2065095283361681672",
+    "created_at": "2026-06-12T13:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T14:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065418948175405077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2059640160766345217",
+          "start": 0,
+          "username": "Thanatosbz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065418948175405077",
+    "in_reply_to_user_id": "2059640160766345217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065311845867725137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thanatosbz 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2065095283361681672",
+        "created_at": "2026-06-12T13:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065418948175405077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2059640160766345217",
+              "start": 0,
+              "username": "Thanatosbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065418948175405077",
+        "in_reply_to_user_id": "2059640160766345217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065311845867725137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thanatosbz 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059640160766345217",
+        "conversation_id": "2065095283361681672",
+        "created_at": "2026-06-12T05:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065311845867725137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065311845867725137",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065095283361681672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 美术生加油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 164,
+          "like_count": 647,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 524
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-27T14:18:34.000Z",
+        "description": "嗯墙内也叫这个。主页媒体都是自己的画。非盈利使用均可\n在休学治疗中。骚扰大欢迎❤️愿望是周围的人能幸福",
+        "id": "2059640160766345217",
+        "name": "白渚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064708731989045249/_RBs6Igf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 20,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 109
+        },
+        "username": "Thanatosbz",
+        "verified": false
+      }
+    ]
+  }
+}

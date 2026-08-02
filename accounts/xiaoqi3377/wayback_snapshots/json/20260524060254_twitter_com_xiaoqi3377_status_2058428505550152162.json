@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058428483043528704"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2058428505550152162",
+    "created_at": "2026-05-24T06:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T07:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058428505550152162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eFhdSfSguM",
+          "end": 23,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2058428505550152162/photo/1",
+          "media_key": "3_2058428483043528704",
+          "start": 0,
+          "url": "https://t.co/eFhdSfSguM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058428505550152162",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/eFhdSfSguM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2058428505550152162].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2058428505550152162",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058428505550152162"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058428483043528704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEBzJ9bEAA7EQp.jpg",
+        "width": 1423
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 205,
+          "like_count": 541,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 307
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

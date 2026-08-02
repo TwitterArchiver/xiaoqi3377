@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2054752168960540695",
+    "created_at": "2026-05-19T15:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056763739295330779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2042728144298201088",
+          "start": 0,
+          "username": "FengLu56073"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056763739295330779",
+    "in_reply_to_user_id": "2042728144298201088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056763117716279428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FengLu56073 有好朋友 但是只有三四个。 不擅长交流。不擅长相处。谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2054752168960540695",
+        "created_at": "2026-05-19T15:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056763739295330779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2042728144298201088",
+              "start": 0,
+              "username": "FengLu56073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056763739295330779",
+        "in_reply_to_user_id": "2042728144298201088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056763117716279428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FengLu56073 有好朋友 但是只有三四个。 不擅长交流。不擅长相处。谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042728144298201088",
+        "conversation_id": "2054752168960540695",
+        "created_at": "2026-05-19T15:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056763117716279428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056763117716279428",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054752168960540695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 人是社会动物，有几个朋友还是很重要的，线下的没有，线上的也可以，关键是要辨别清楚，把握好尺度。\n至少我是很喜欢漂亮小姐你的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 202,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 218
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T22:15:30.000Z",
+        "description": "",
+        "id": "2042728144298201088",
+        "name": "feng lu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056669373868441600/jS6xDnTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 83,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 93
+        },
+        "username": "FengLu56073",
+        "verified": false
+      }
+    ]
+  }
+}

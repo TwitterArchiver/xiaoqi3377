@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063796858003324928"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2063796867448852591",
+    "created_at": "2026-06-08T01:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T02:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063796867448852591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T0t6E6WjwX",
+          "end": 30,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2063796867448852591/photo/1",
+          "media_key": "3_2063796858003324928",
+          "start": 7,
+          "url": "https://t.co/T0t6E6WjwX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063796867448852591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可怜又不是爱 https://t.co/T0t6E6WjwX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1566,
+        "media_key": "3_2063796858003324928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQUTtHbAAAqBn8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063796858003324928"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2063796867448852591",
+        "created_at": "2026-06-08T01:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063796867448852591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T0t6E6WjwX",
+              "end": 30,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2063796867448852591/photo/1",
+              "media_key": "3_2063796858003324928",
+              "start": 7,
+              "url": "https://t.co/T0t6E6WjwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063796867448852591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可怜又不是爱 https://t.co/T0t6E6WjwX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 167,
+          "like_count": 631,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 461
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

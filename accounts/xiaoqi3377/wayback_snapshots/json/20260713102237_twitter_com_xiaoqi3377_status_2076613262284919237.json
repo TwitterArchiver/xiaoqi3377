@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076310085412986881"
+      ],
+      "media_source_tweet_id": [
+        "2076310090035143022"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2076613262284919237",
+    "created_at": "2026-07-13T10:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T11:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076613262284919237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1594714373314187265",
+          "start": 3,
+          "username": "gay_dara_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bCs60sBIz1",
+          "end": 38,
+          "expanded_url": "https://x.com/gay_dara_/status/2076310090035143022/photo/1",
+          "media_key": "3_2076310085412986881",
+          "start": 15,
+          "url": "https://t.co/bCs60sBIz1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076613262284919237",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076310090035143022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gay_dara_: https://t.co/bCs60sBIz1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1261,
+        "media_key": "3_2076310085412986881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCJBZyaIAERvq4.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076310085412986881"
+          ],
+          "media_source_tweet_id": [
+            "2076310090035143022"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2076613262284919237",
+        "created_at": "2026-07-13T10:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076613262284919237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1594714373314187265",
+              "start": 3,
+              "username": "gay_dara_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bCs60sBIz1",
+              "end": 38,
+              "expanded_url": "https://x.com/gay_dara_/status/2076310090035143022/photo/1",
+              "media_key": "3_2076310085412986881",
+              "start": 15,
+              "url": "https://t.co/bCs60sBIz1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076613262284919237",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076310090035143022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gay_dara_: https://t.co/bCs60sBIz1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076310085412986881"
+          ]
+        },
+        "author_id": "1594714373314187265",
+        "conversation_id": "2076310090035143022",
+        "created_at": "2026-07-12T14:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076310090035143022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bCs60sBIz1",
+              "end": 23,
+              "expanded_url": "https://x.com/gay_dara_/status/2076310090035143022/photo/1",
+              "media_key": "3_2076310085412986881",
+              "start": 0,
+              "url": "https://t.co/bCs60sBIz1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076310090035143022",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 997,
+          "impression_count": 79064,
+          "like_count": 14112,
+          "quote_count": 48,
+          "reply_count": 7,
+          "retweet_count": 3103
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bCs60sBIz1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073831418564849664/WAOIjmQ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 163,
+          "like_count": 696,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 713
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T15:28:44.000Z",
+        "description": "빻음",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/gay_dara_",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/gay_dara_",
+                "start": 0,
+                "url": "https://t.co/WqcZpmiEdz"
+              }
+            ]
+          }
+        },
+        "id": "1594714373314187265",
+        "name": "사무뮴",
+        "pinned_tweet_id": "2039742478740533751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980525887310159873/y83LUMzy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2548,
+          "following_count": 151,
+          "like_count": 10381,
+          "listed_count": 6,
+          "media_count": 553,
+          "tweet_count": 4359
+        },
+        "url": "https://t.co/WqcZpmiEdz",
+        "username": "gay_dara_",
+        "verified": false
+      }
+    ]
+  }
+}

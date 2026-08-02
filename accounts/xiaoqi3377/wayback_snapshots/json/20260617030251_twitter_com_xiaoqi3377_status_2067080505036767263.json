@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2066909478969331768",
+    "created_at": "2026-06-17T03:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067080505036767263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2039922986119991296",
+          "start": 0,
+          "username": "sugar_supe99889"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067080505036767263",
+    "in_reply_to_user_id": "2039922986119991296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066948930903167325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sugar_supe99889 这帮傻逼营销号天天引流。那家里两位怎么办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2066909478969331768",
+        "created_at": "2026-06-17T03:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067080505036767263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039922986119991296",
+              "start": 0,
+              "username": "sugar_supe99889"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067080505036767263",
+        "in_reply_to_user_id": "2039922986119991296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066948930903167325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugar_supe99889 这帮傻逼营销号天天引流。那家里两位怎么办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039922986119991296",
+        "conversation_id": "2066909478969331768",
+        "created_at": "2026-06-16T18:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066948930903167325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066948930903167325",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066909478969331768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 引流故意这么说的🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 166,
+          "like_count": 653,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 549
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T04:28:47.000Z",
+        "description": "",
+        "id": "2039922986119991296",
+        "name": "sugar super",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039923042462130176/PKiQ65xr_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "sugar_supe99889",
+        "verified": false
+      }
+    ]
+  }
+}

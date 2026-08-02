@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2056650763976499343",
+    "created_at": "2026-05-19T08:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T09:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056654928517759392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2054189555784491008",
+          "start": 0,
+          "username": "Semi_iiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056654928517759392",
+    "in_reply_to_user_id": "2054189555784491008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056654402459709641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Semi_iiii 宝宝 你画这种特别特别合适呀😭😭😭😭。。。我不太适合这种烟熏妆风格所以觉得我画这种不好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2056650763976499343",
+        "created_at": "2026-05-19T08:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056654928517759392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2054189555784491008",
+              "start": 0,
+              "username": "Semi_iiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056654928517759392",
+        "in_reply_to_user_id": "2054189555784491008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056654402459709641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semi_iiii 宝宝 你画这种特别特别合适呀😭😭😭😭。。。我不太适合这种烟熏妆风格所以觉得我画这种不好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054189555784491008",
+        "conversation_id": "2056650763976499343",
+        "created_at": "2026-05-19T08:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056654402459709641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056654402459709641",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056650763976499343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 我现在还在画这种我不行了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056288615995728241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 194,
+          "like_count": 488,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 200
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T13:19:03.000Z",
+        "description": "我喜欢史尔特尔",
+        "id": "2054189555784491008",
+        "location": "希望峰学院",
+        "name": "Yuuki_",
+        "pinned_tweet_id": "2056539353170739211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056039906250801153/UdO7-vxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 53,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 55
+        },
+        "username": "Semi_iiii",
+        "verified": false
+      }
+    ]
+  }
+}

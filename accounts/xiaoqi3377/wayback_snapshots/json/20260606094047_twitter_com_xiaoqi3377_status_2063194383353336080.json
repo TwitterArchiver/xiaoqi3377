@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063194372611670016"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2063194383353336080",
+    "created_at": "2026-06-06T09:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063194383353336080"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8VqcbiUci6",
+          "end": 28,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2063194383353336080/photo/1",
+          "media_key": "3_2063194372611670016",
+          "start": 5,
+          "url": "https://t.co/8VqcbiUci6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063194383353336080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我很可爱 https://t.co/8VqcbiUci6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2063194372611670016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHwWcIagAAp-V0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063194372611670016"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2063194383353336080",
+        "created_at": "2026-06-06T09:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063194383353336080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8VqcbiUci6",
+              "end": 28,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2063194383353336080/photo/1",
+              "media_key": "3_2063194372611670016",
+              "start": 5,
+              "url": "https://t.co/8VqcbiUci6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063194383353336080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很可爱 https://t.co/8VqcbiUci6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 162,
+          "like_count": 614,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 407
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

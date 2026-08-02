@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2057126654011695356",
+    "created_at": "2026-05-20T15:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T16:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057126654011695356"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057126654011695356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我记得我第一次吃安眠药那会只有第一天有效果。再之后吃三四片还是睡不着。第二天还要上课硬是天亮了还在盯着天花板。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2057126654011695356",
+        "created_at": "2026-05-20T15:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057126654011695356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057126654011695356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我记得我第一次吃安眠药那会只有第一天有效果。再之后吃三四片还是睡不着。第二天还要上课硬是天亮了还在盯着天花板。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 209,
+          "like_count": 516,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 273
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

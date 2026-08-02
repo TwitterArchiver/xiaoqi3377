@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2057318867282915648",
+    "created_at": "2026-05-21T04:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T05:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057318867282915648"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057318867282915648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "讨厌大部分男人 他们突如其来毫无价值的 关心都是需要付出代价的。当他们意识到我无法成为他们的狩猎目标。就会直接转身离开。如果觉得只是动动嘴皮子安慰几句就能让一个有心理疾病的女生爱上自己。我也无话可说了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2057318867282915648",
+        "created_at": "2026-05-21T04:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057318867282915648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057318867282915648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌大部分男人 他们突如其来毫无价值的 关心都是需要付出代价的。当他们意识到我无法成为他们的狩猎目标。就会直接转身离开。如果觉得只是动动嘴皮子安慰几句就能让一个有心理疾病的女生爱上自己。我也无话可说了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 210,
+          "like_count": 520,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 285
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

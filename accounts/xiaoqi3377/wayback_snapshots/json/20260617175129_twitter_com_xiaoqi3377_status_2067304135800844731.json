@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2067304135800844731",
+    "created_at": "2026-06-17T17:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067304135800844731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1554936634139090944",
+          "start": 3,
+          "username": "tukesiwomenzou1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067304135800844731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066599812196417820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tukesiwomenzou1: 没有爱的性爱应该叫交配"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2067304135800844731",
+        "created_at": "2026-06-17T17:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067304135800844731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1554936634139090944",
+              "start": 3,
+              "username": "tukesiwomenzou1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067304135800844731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066599812196417820",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tukesiwomenzou1: 没有爱的性爱应该叫交配"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554936634139090944",
+        "conversation_id": "2066599812196417820",
+        "created_at": "2026-06-15T19:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T20:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066599812196417820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066599812196417820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 73563,
+          "like_count": 1198,
+          "quote_count": 10,
+          "reply_count": 222,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "没有爱的性爱应该叫交配"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 165,
+          "like_count": 659,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 564
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T21:06:08.000Z",
+        "description": "我本就是最干净纯粹光明正大的存在",
+        "id": "1554936634139090944",
+        "location": "距你-1m",
+        "name": "Coconut",
+        "pinned_tweet_id": "2055634228990394615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889040074643513344/08Ciy0ji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 77,
+          "like_count": 7212,
+          "listed_count": 1,
+          "media_count": 521,
+          "tweet_count": 3013
+        },
+        "username": "tukesiwomenzou1",
+        "verified": false
+      }
+    ]
+  }
+}

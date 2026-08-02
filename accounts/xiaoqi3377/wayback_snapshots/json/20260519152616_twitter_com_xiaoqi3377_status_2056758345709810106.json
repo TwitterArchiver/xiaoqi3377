@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056758332745256960"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2056758345709810106",
+    "created_at": "2026-05-19T15:26:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:26:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056758345709810106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1VXILCMFnS",
+          "end": 26,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2056758345709810106/photo/1",
+          "media_key": "3_2056758332745256960",
+          "start": 3,
+          "url": "https://t.co/1VXILCMFnS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056758345709810106",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呕吐 https://t.co/1VXILCMFnS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2056758332745256960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsSznQbEAAZrMD.jpg",
+        "width": 712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056758332745256960"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2056758345709810106",
+        "created_at": "2026-05-19T15:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056758345709810106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1VXILCMFnS",
+              "end": 26,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2056758345709810106/photo/1",
+              "media_key": "3_2056758332745256960",
+              "start": 3,
+              "url": "https://t.co/1VXILCMFnS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056758345709810106",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呕吐 https://t.co/1VXILCMFnS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 201,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 211
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

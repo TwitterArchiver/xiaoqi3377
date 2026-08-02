@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2064941662171004983",
+    "created_at": "2026-06-11T07:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064980117408129279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1574713115823874048",
+          "start": 0,
+          "username": "OxxAWkIh4kY00d0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064980117408129279",
+    "in_reply_to_user_id": "1574713115823874048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064946359959269617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OxxAWkIh4kY00d0 但是我花钱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2064941662171004983",
+        "created_at": "2026-06-11T07:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064980117408129279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1574713115823874048",
+              "start": 0,
+              "username": "OxxAWkIh4kY00d0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064980117408129279",
+        "in_reply_to_user_id": "1574713115823874048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064946359959269617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OxxAWkIh4kY00d0 但是我花钱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574713115823874048",
+        "conversation_id": "2064941662171004983",
+        "created_at": "2026-06-11T05:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064946359959269617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064946359959269617",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064941662171004983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 可爱喵可爱就足够了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 163,
+          "like_count": 647,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 506
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T10:50:45.000Z",
+        "description": "有一天我也会成为你的伞骨吗",
+        "id": "1574713115823874048",
+        "name": "大王大王大王！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061968368018808832/Us3zF39P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 43,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 428
+        },
+        "username": "OxxAWkIh4kY00d0",
+        "verified": false
+      }
+    ]
+  }
+}

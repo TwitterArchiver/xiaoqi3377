@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2079646486456156236",
+    "created_at": "2026-07-21T19:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T20:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079646486456156236"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079646486456156236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "能不能也热烈的爱我一次？ \n你对她也会这样吗？\n不愿意对我说的话你对她也说过吗？\n你只对她那样过吗？\n那些动听的话是觉得太肤浅不屑于说还是只是不想对我说？\n这样的话你对所有人都说过是吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2079646486456156236",
+        "created_at": "2026-07-21T19:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T20:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079646486456156236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079646486456156236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能不能也热烈的爱我一次？ \n你对她也会这样吗？\n不愿意对我说的话你对她也说过吗？\n你只对她那样过吗？\n那些动听的话是觉得太肤浅不屑于说还是只是不想对我说？\n这样的话你对所有人都说过是吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2079485954696561008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 171,
+          "like_count": 742,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 766
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

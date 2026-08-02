@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2073481390365295001",
+    "created_at": "2026-07-04T18:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T19:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073481390365295001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1469027102536380416",
+          "start": 3,
+          "username": "auesea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073481390365295001",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 365
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073393743445872765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @auesea: 안아주세요 모든 안 좋은 감정들이 생각도 안 날 정도로"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2073481390365295001",
+        "created_at": "2026-07-04T18:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073481390365295001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1469027102536380416",
+              "start": 3,
+              "username": "auesea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073481390365295001",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 365
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073393743445872765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @auesea: 안아주세요 모든 안 좋은 감정들이 생각도 안 날 정도로"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1469027102536380416",
+        "conversation_id": "2073393743445872765",
+        "created_at": "2026-07-04T13:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073393743445872765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073393743445872765",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 34482,
+          "like_count": 954,
+          "quote_count": 47,
+          "reply_count": 0,
+          "retweet_count": 365
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "안아주세요 모든 안 좋은 감정들이 생각도 안 날 정도로"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072015589296758784/wK2Ej_41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 162,
+          "like_count": 692,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 671
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-09T19:32:24.000Z",
+        "description": "",
+        "id": "1469027102536380416",
+        "name": "໊",
+        "pinned_tweet_id": "1862826866912231706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073017891579211776/tqAgFzO8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59641,
+          "following_count": 0,
+          "like_count": 100426,
+          "listed_count": 137,
+          "media_count": 1193,
+          "tweet_count": 16372
+        },
+        "url": "",
+        "username": "auesea",
+        "verified": false
+      }
+    ]
+  }
+}

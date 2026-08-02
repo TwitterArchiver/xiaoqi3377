@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067986101567119360"
+      ],
+      "media_source_tweet_id": [
+        "2067986107716047057"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2068027709822062618",
+    "created_at": "2026-06-19T17:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T18:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068027709822062618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1704603138773458944",
+          "start": 3,
+          "username": "bdemgmr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0kMFG4qgiV",
+          "end": 51,
+          "expanded_url": "https://x.com/bdemgmr/status/2067986107716047057/photo/1",
+          "media_key": "3_2067986101567119360",
+          "start": 28,
+          "url": "https://t.co/0kMFG4qgiV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068027709822062618",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26881
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067986107716047057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @bdemgmr: 오늘은 가나디의 생일입니다 https://t.co/0kMFG4qgiV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1409,
+        "media_key": "3_2067986101567119360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLL2ZxhaYAA4hNT.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067986101567119360"
+          ],
+          "media_source_tweet_id": [
+            "2067986107716047057"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2068027709822062618",
+        "created_at": "2026-06-19T17:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068027709822062618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1704603138773458944",
+              "start": 3,
+              "username": "bdemgmr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0kMFG4qgiV",
+              "end": 51,
+              "expanded_url": "https://x.com/bdemgmr/status/2067986107716047057/photo/1",
+              "media_key": "3_2067986101567119360",
+              "start": 28,
+              "url": "https://t.co/0kMFG4qgiV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068027709822062618",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26881
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067986107716047057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @bdemgmr: 오늘은 가나디의 생일입니다 https://t.co/0kMFG4qgiV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067986101567119360"
+          ]
+        },
+        "author_id": "1704603138773458944",
+        "conversation_id": "2067986107716047057",
+        "created_at": "2026-06-19T15:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067986107716047057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0kMFG4qgiV",
+              "end": 38,
+              "expanded_url": "https://x.com/bdemgmr/status/2067986107716047057/photo/1",
+              "media_key": "3_2067986101567119360",
+              "start": 15,
+              "url": "https://t.co/0kMFG4qgiV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067986107716047057",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1231,
+          "impression_count": 1317986,
+          "like_count": 42613,
+          "quote_count": 7196,
+          "reply_count": 0,
+          "retweet_count": 26882
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "오늘은 가나디의 생일입니다 https://t.co/0kMFG4qgiV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 164,
+          "like_count": 663,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 584
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T21:07:28.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bdemgmr",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/bdemgmr",
+                "start": 0,
+                "url": "https://t.co/eBkYrjPxaP"
+              }
+            ]
+          }
+        },
+        "id": "1704603138773458944",
+        "location": "bdemgmr@naver.com",
+        "name": "짤쓸사람",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907094996895055872/d20VmzdR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488963,
+          "following_count": 1,
+          "like_count": 177,
+          "listed_count": 331,
+          "media_count": 338,
+          "tweet_count": 388
+        },
+        "url": "https://t.co/eBkYrjPxaP",
+        "username": "bdemgmr",
+        "verified": false
+      }
+    ]
+  }
+}

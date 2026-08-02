@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076235418761326592"
+      ],
+      "media_source_tweet_id": [
+        "2076235425191231871"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2076701609078497339",
+    "created_at": "2026-07-13T16:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076701609078497339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2766725377",
+          "start": 3,
+          "username": "748cm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G8uvpwCuTD",
+          "end": 54,
+          "expanded_url": "https://x.com/748cm/status/2076235425191231871/photo/1",
+          "media_key": "3_2076235418761326592",
+          "start": 31,
+          "url": "https://t.co/G8uvpwCuTD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076701609078497339",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1096
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076235425191231871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @748cm: キミが死ぬときに思い出す女になりたい。 https://t.co/G8uvpwCuTD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_2076235418761326592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBFHO1acAAbYcH.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076235418761326592"
+          ],
+          "media_source_tweet_id": [
+            "2076235425191231871"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2076701609078497339",
+        "created_at": "2026-07-13T16:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076701609078497339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2766725377",
+              "start": 3,
+              "username": "748cm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G8uvpwCuTD",
+              "end": 54,
+              "expanded_url": "https://x.com/748cm/status/2076235425191231871/photo/1",
+              "media_key": "3_2076235418761326592",
+              "start": 31,
+              "url": "https://t.co/G8uvpwCuTD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076701609078497339",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1096
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076235425191231871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @748cm: キミが死ぬときに思い出す女になりたい。 https://t.co/G8uvpwCuTD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076235418761326592"
+          ]
+        },
+        "author_id": "2766725377",
+        "conversation_id": "2076235425191231871",
+        "created_at": "2026-07-12T09:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:01:15.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076230393943171186",
+          "2076235425191231871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G8uvpwCuTD",
+              "end": 43,
+              "expanded_url": "https://x.com/748cm/status/2076235425191231871/photo/1",
+              "media_key": "3_2076235418761326592",
+              "start": 20,
+              "url": "https://t.co/G8uvpwCuTD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076235425191231871",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1383,
+          "impression_count": 190714,
+          "like_count": 13615,
+          "quote_count": 58,
+          "reply_count": 15,
+          "retweet_count": 1096
+        },
+        "reply_settings": "everyone",
+        "text": "キミが死ぬときに思い出す女になりたい。 https://t.co/G8uvpwCuTD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073831418564849664/WAOIjmQ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 163,
+          "like_count": 699,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 715
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-25T15:18:15.000Z",
+        "description": "hate me🧸🔪 / DM Open https://t.co/IutnivpC2k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/Malice?fbclid=…",
+                "end": 43,
+                "expanded_url": "https://lit.link/Malice?fbclid=PAZXh0bgNhZW0CMT",
+                "start": 20,
+                "url": "https://t.co/IutnivpC2k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/MBOWQFP5QE0F?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/iAcwP4m5Yp"
+              }
+            ]
+          }
+        },
+        "id": "2766725377",
+        "location": "Created by \"AI\" 100%",
+        "name": "惡意",
+        "pinned_tweet_id": "2020760964371718331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925714997813932033/Uf7ZceDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126629,
+          "following_count": 208,
+          "like_count": 15398,
+          "listed_count": 632,
+          "media_count": 4197,
+          "tweet_count": 12957
+        },
+        "url": "https://t.co/iAcwP4m5Yp",
+        "username": "748cm",
+        "verified": true
+      }
+    ]
+  }
+}

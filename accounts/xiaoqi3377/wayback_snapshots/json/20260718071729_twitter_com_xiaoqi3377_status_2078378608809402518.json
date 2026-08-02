@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077710920164536322"
+      ],
+      "media_source_tweet_id": [
+        "2077710928733454582"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2078378608809402518",
+    "created_at": "2026-07-18T07:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T08:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078378608809402518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1686939573048446977",
+          "start": 3,
+          "username": "myntx__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ybBf8Fdbbn",
+          "end": 36,
+          "expanded_url": "https://x.com/myntx__/status/2077710928733454582/photo/1",
+          "media_key": "3_2077710920164536322",
+          "start": 13,
+          "url": "https://t.co/ybBf8Fdbbn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078378608809402518",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2063
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077710928733454582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @myntx__: https://t.co/ybBf8Fdbbn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2077710920164536322",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWDEt5bcAIhA8v.jpg",
+        "width": 3182
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077710920164536322"
+          ]
+        },
+        "author_id": "1686939573048446977",
+        "conversation_id": "2077710928733454582",
+        "created_at": "2026-07-16T11:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077710928733454582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ybBf8Fdbbn",
+              "end": 23,
+              "expanded_url": "https://x.com/myntx__/status/2077710928733454582/photo/1",
+              "media_key": "3_2077710920164536322",
+              "start": 0,
+              "url": "https://t.co/ybBf8Fdbbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077710928733454582",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1964,
+          "impression_count": 177063,
+          "like_count": 18533,
+          "quote_count": 20,
+          "reply_count": 15,
+          "retweet_count": 2063
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ybBf8Fdbbn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077710920164536322"
+          ],
+          "media_source_tweet_id": [
+            "2077710928733454582"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2078378608809402518",
+        "created_at": "2026-07-18T07:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078378608809402518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1686939573048446977",
+              "start": 3,
+              "username": "myntx__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ybBf8Fdbbn",
+              "end": 36,
+              "expanded_url": "https://x.com/myntx__/status/2077710928733454582/photo/1",
+              "media_key": "3_2077710920164536322",
+              "start": 13,
+              "url": "https://t.co/ybBf8Fdbbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078378608809402518",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2063
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077710928733454582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @myntx__: https://t.co/ybBf8Fdbbn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 166,
+          "like_count": 717,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 730
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-03T03:20:33.000Z",
+        "description": "myntx(みんてぃくす)です。食べものと女の子、風景などを描きます。ご連絡はメールにて✉️| 『ILLUSTRATION2026』掲載|Insta▶︎myntx__",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/myntx",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/myntx",
+                "start": 0,
+                "url": "https://t.co/Uhj3nrTdH9"
+              }
+            ]
+          }
+        },
+        "id": "1686939573048446977",
+        "location": "Japan",
+        "name": "myntx",
+        "pinned_tweet_id": "2071549132536455665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950694251508948992/a2tzW0T3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27462,
+          "following_count": 115,
+          "like_count": 1263,
+          "listed_count": 156,
+          "media_count": 116,
+          "tweet_count": 378
+        },
+        "url": "https://t.co/Uhj3nrTdH9",
+        "username": "myntx__",
+        "verified": false
+      }
+    ]
+  }
+}

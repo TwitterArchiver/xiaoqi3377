@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2078198504112128409",
+    "created_at": "2026-07-17T19:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T20:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078198504112128409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1709850251845378048",
+          "start": 3,
+          "username": "0lfy_37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078198504112128409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078050995628806383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0lfy_37: 私ってめんどくさいなって毎日思う"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2078198504112128409",
+        "created_at": "2026-07-17T19:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078198504112128409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1709850251845378048",
+              "start": 3,
+              "username": "0lfy_37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078198504112128409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078050995628806383",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0lfy_37: 私ってめんどくさいなって毎日思う"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709850251845378048",
+        "conversation_id": "2078050995628806383",
+        "created_at": "2026-07-17T09:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078050995628806383"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078050995628806383",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5971,
+          "like_count": 192,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "私ってめんどくさいなって毎日思う"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 166,
+          "like_count": 716,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 730
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T08:37:35.000Z",
+        "description": "@aitaic2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "aitaic2"
+              }
+            ]
+          }
+        },
+        "id": "1709850251845378048",
+        "name": "ْ",
+        "pinned_tweet_id": "2038664991340167272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953665665346547718/dFbRima7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2682,
+          "following_count": 511,
+          "like_count": 14454,
+          "listed_count": 22,
+          "media_count": 5,
+          "tweet_count": 8202
+        },
+        "url": "",
+        "username": "0lfy_37",
+        "verified": false
+      }
+    ]
+  }
+}

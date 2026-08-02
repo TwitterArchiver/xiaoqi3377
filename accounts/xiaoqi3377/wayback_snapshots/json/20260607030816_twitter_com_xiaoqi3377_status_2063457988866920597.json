@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2063213116671017135",
+    "created_at": "2026-06-07T03:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063457988866920597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1898386924529950720",
+          "start": 0,
+          "username": "jir1029941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063457988866920597",
+    "in_reply_to_user_id": "1898386924529950720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063266390971453529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jir1029941 呃。。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2063213116671017135",
+        "created_at": "2026-06-07T03:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063457988866920597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1898386924529950720",
+              "start": 0,
+              "username": "jir1029941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063457988866920597",
+        "in_reply_to_user_id": "1898386924529950720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063266390971453529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jir1029941 呃。。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898386924529950720",
+        "conversation_id": "2063213116671017135",
+        "created_at": "2026-06-06T14:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063266390971453529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063266390971453529",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063213116671017135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 哦，是这样啊，那看看逼吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 165,
+          "like_count": 620,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 428
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T14:54:58.000Z",
+        "description": "！https://t.co/kvSXcypjq0\n脑残不要私信我，脑子有问题就去治疗，自残门槛姐找一个地方上吊就行了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/3533483332",
+                "end": 24,
+                "expanded_url": "https://ngl.link/3533483332",
+                "start": 1,
+                "url": "https://t.co/kvSXcypjq0"
+              }
+            ]
+          }
+        },
+        "id": "1898386924529950720",
+        "name": "风止剩骨x",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946832619762597890/I0tJ9duD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 3,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 142
+        },
+        "username": "jir1029941",
+        "verified": false
+      }
+    ]
+  }
+}

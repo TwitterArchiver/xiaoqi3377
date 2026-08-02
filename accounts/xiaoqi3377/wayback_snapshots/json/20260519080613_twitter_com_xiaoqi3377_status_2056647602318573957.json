@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2056647602318573957",
+    "created_at": "2026-05-19T08:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T09:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056647602318573957"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056647602318573957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我活的某种意义上非常的亚健康 就算上大学去当了班委 进了学生会 什么活动都参加 现在马上就要当副部长了 表现的很正常人 也没有再吃药 但是其实每天晚上都给吃安眠药才能入睡 有的时候吃了也睡不着 平平淡淡又不太普通的活着。精神病发作了就躲在床上哭 在网上倒垃圾 我想当一个普通人 平淡的活着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2056647602318573957",
+        "created_at": "2026-05-19T08:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056647602318573957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056647602318573957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我活的某种意义上非常的亚健康 就算上大学去当了班委 进了学生会 什么活动都参加 现在马上就要当副部长了 表现的很正常人 也没有再吃药 但是其实每天晚上都给吃安眠药才能入睡 有的时候吃了也睡不着 平平淡淡又不太普通的活着。精神病发作了就躲在床上哭 在网上倒垃圾 我想当一个普通人 平淡的活着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056288615995728241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 192,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 193
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

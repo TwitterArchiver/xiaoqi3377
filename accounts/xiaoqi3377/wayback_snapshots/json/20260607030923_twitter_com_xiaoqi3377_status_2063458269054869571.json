@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2063194383353336080",
+    "created_at": "2026-06-07T03:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063458269054869571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1574713115823874048",
+          "start": 0,
+          "username": "OxxAWkIh4kY00d0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063458269054869571",
+    "in_reply_to_user_id": "1574713115823874048",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063439805736947738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OxxAWkIh4kY00d0 😽💖💖💖💖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2063194383353336080",
+        "created_at": "2026-06-07T03:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063458269054869571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1574713115823874048",
+              "start": 0,
+              "username": "OxxAWkIh4kY00d0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063458269054869571",
+        "in_reply_to_user_id": "1574713115823874048",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063439805736947738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OxxAWkIh4kY00d0 😽💖💖💖💖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574713115823874048",
+        "conversation_id": "2063194383353336080",
+        "created_at": "2026-06-07T01:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063439805736947738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063439805736947738",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063194383353336080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 没错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 165,
+          "like_count": 620,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 431
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T10:50:45.000Z",
+        "description": "有一天我也会成为你的伞骨吗",
+        "id": "1574713115823874048",
+        "name": "大王大王大王！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061968368018808832/Us3zF39P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 38,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 289
+        },
+        "username": "OxxAWkIh4kY00d0",
+        "verified": false
+      }
+    ]
+  }
+}

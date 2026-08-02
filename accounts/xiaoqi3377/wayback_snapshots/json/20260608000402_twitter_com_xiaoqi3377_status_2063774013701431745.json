@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2063562298502066554",
+    "created_at": "2026-06-08T00:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T01:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063774013701431745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781430276692103168",
+          "start": 0,
+          "username": "luna_tica20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063774013701431745",
+    "in_reply_to_user_id": "1781430276692103168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063646656256680431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luna_tica20 吃！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2063562298502066554",
+        "created_at": "2026-06-08T00:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T01:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063774013701431745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781430276692103168",
+              "start": 0,
+              "username": "luna_tica20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063774013701431745",
+        "in_reply_to_user_id": "1781430276692103168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063646656256680431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna_tica20 吃！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781430276692103168",
+        "conversation_id": "2063562298502066554",
+        "created_at": "2026-06-07T15:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063646656256680431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063646656256680431",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063562298502066554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 塞我嘴里!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 167,
+          "like_count": 631,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 460
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T21:11:05.000Z",
+        "description": "是个现在家里的游戏宅一枚～就想找点好朋友捏，严肃为bvvd服役（？）啊，是个男孩子，啊，在某种情况下是只修狗）",
+        "id": "1781430276692103168",
+        "name": "南雲十六",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916834166408425472/lV85vepg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 133,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 256
+        },
+        "username": "luna_tica20",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2070711286141448385",
+    "created_at": "2026-06-27T17:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T18:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070928057951772877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2035025566018281472",
+          "start": 0,
+          "username": "wyy7711"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070928057951772877",
+    "in_reply_to_user_id": "2035025566018281472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070711286141448385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyy7711 想要这个链接…！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2070711279325745152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyk7_ybEAAyev_.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2070711286141448385",
+        "created_at": "2026-06-27T17:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T18:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070928057951772877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2035025566018281472",
+              "start": 0,
+              "username": "wyy7711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070928057951772877",
+        "in_reply_to_user_id": "2035025566018281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070711286141448385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyy7711 想要这个链接…！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070711279325745152"
+          ]
+        },
+        "author_id": "2035025566018281472",
+        "conversation_id": "2070711286141448385",
+        "created_at": "2026-06-27T03:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070711286141448385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jtLAYvuz29",
+              "end": 28,
+              "expanded_url": "https://x.com/wyy7711/status/2070711286141448385/photo/1",
+              "media_key": "3_2070711279325745152",
+              "start": 5,
+              "url": "https://t.co/jtLAYvuz29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070711286141448385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "納尼？！ https://t.co/jtLAYvuz29"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 163,
+          "like_count": 677,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 626
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T16:09:41.000Z",
+        "description": "咕噜咕噜^我是南瓜。\n26年小嬰兒😭/小女男孩小男女孩/猴子/大海豹/小丑魚/喜歡你耶我是真的～～我是真的不能控制自我自己～\n從wx換到這裡發廢話好爽\n此人說話不會經過腦子",
+        "id": "2035025566018281472",
+        "name": "南呱呱呱",
+        "pinned_tweet_id": "2066939498362249598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051326649359323136/qkjT6Ne7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 62,
+          "like_count": 1540,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 818
+        },
+        "url": "",
+        "username": "wyy7711",
+        "verified": false
+      }
+    ]
+  }
+}

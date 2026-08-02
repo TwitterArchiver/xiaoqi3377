@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2067174500580384799",
+    "created_at": "2026-06-17T17:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067302978684584199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1871406845946146816",
+          "start": 0,
+          "username": "coconutpuppy037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067302978684584199",
+    "in_reply_to_user_id": "1871406845946146816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067174500580384799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coconutpuppy037 说的太好了。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2067174500580384799",
+        "created_at": "2026-06-17T17:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067302978684584199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1871406845946146816",
+              "start": 0,
+              "username": "coconutpuppy037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067302978684584199",
+        "in_reply_to_user_id": "1871406845946146816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067174500580384799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coconutpuppy037 说的太好了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871406845946146816",
+        "conversation_id": "2067174500580384799",
+        "created_at": "2026-06-17T09:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067174500580384799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067174500580384799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8639,
+          "like_count": 322,
+          "quote_count": 4,
+          "reply_count": 79,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀 胖女孩是圆润的漂亮 瘦女孩是苗条的漂亮 想漂亮就漂亮 不想漂亮也有不漂亮的权利 想拍胸就拍胸想拍腿就拍腿 不喜欢看就划走屏蔽一条龙 一味的攻击别人到底是活的有多不幸 厌女味都快扑出屏幕了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 165,
+          "like_count": 659,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 562
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T04:05:46.000Z",
+        "description": "这就是你想要的吗？欺负一个脑残",
+        "id": "1871406845946146816",
+        "name": "香菜小椰",
+        "pinned_tweet_id": "2033245533750345728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871409045581549568/0gL4C18B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2741,
+          "following_count": 59,
+          "like_count": 3202,
+          "listed_count": 7,
+          "media_count": 174,
+          "tweet_count": 3064
+        },
+        "username": "coconutpuppy037",
+        "verified": false
+      }
+    ]
+  }
+}

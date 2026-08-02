@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069317873441652736"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2069317885651304843",
+    "created_at": "2026-06-23T07:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069317885651304843"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aPydSQzqwt",
+          "end": 37,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2069317885651304843/photo/1",
+          "media_key": "3_2069317873441652736",
+          "start": 14,
+          "url": "https://t.co/aPydSQzqwt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069317885651304843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一切的一切都是因为这个贱人 https://t.co/aPydSQzqwt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1229,
+        "media_key": "3_2069317873441652736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLexpGXbQAAxUob.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069317873441652736"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2069317885651304843",
+        "created_at": "2026-06-23T07:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069317885651304843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aPydSQzqwt",
+              "end": 37,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2069317885651304843/photo/1",
+              "media_key": "3_2069317873441652736",
+              "start": 14,
+              "url": "https://t.co/aPydSQzqwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069317885651304843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一切的一切都是因为这个贱人 https://t.co/aPydSQzqwt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 165,
+          "like_count": 671,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 610
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

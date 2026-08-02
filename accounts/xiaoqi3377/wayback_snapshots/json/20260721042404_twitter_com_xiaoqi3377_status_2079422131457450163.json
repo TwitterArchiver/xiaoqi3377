@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2079254136001101856",
+    "created_at": "2026-07-21T04:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T05:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079422131457450163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1809857506480631808",
+          "start": 0,
+          "username": "li_sheng50142"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079422131457450163",
+    "in_reply_to_user_id": "1809857506480631808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079260021406457968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li_sheng50142 私信了也不约"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2079254136001101856",
+        "created_at": "2026-07-21T04:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079422131457450163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1809857506480631808",
+              "start": 0,
+              "username": "li_sheng50142"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079422131457450163",
+        "in_reply_to_user_id": "1809857506480631808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079260021406457968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li_sheng50142 私信了也不约"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809857506480631808",
+        "conversation_id": "2079254136001101856",
+        "created_at": "2026-07-20T17:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079260021406457968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079260021406457968",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079254136001101856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 为什么不能私信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 171,
+          "like_count": 726,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 740
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T07:50:47.000Z",
+        "description": "➕v：_WzShuai0722",
+        "id": "1809857506480631808",
+        "name": "不打飞机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078910352079589377/d75nQcbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 591,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "li_sheng50142",
+        "verified": false
+      }
+    ]
+  }
+}

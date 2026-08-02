@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2077754636162007040"
+      ],
+      "media_source_tweet_id": [
+        "2077754782115389455"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2078180534212280707",
+    "created_at": "2026-07-17T18:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T19:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078180534212280707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1936667354433490944",
+          "start": 3,
+          "username": "moka_0004"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xHZBzWIuhA",
+          "end": 53,
+          "expanded_url": "https://x.com/moka_0004/status/2077754782115389455/photo/1",
+          "media_key": "16_2077754636162007040",
+          "start": 30,
+          "url": "https://t.co/xHZBzWIuhA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078180534212280707",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1700
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077754782115389455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moka_0004: 最近はずっとこんな感じだよ… https://t.co/xHZBzWIuhA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_2077754636162007040",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNWq1UrbgAAICGj.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNWq1UrbgAAICGj.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2077754636162007040"
+          ]
+        },
+        "author_id": "1936667354433490944",
+        "conversation_id": "2077754782115389455",
+        "created_at": "2026-07-16T13:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077754782115389455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xHZBzWIuhA",
+              "end": 38,
+              "expanded_url": "https://x.com/moka_0004/status/2077754782115389455/photo/1",
+              "media_key": "16_2077754636162007040",
+              "start": 15,
+              "url": "https://t.co/xHZBzWIuhA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077754782115389455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 471,
+          "impression_count": 62374,
+          "like_count": 6239,
+          "quote_count": 31,
+          "reply_count": 8,
+          "retweet_count": 1700
+        },
+        "reply_settings": "everyone",
+        "text": "最近はずっとこんな感じだよ… https://t.co/xHZBzWIuhA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2077754636162007040"
+          ],
+          "media_source_tweet_id": [
+            "2077754782115389455"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2078180534212280707",
+        "created_at": "2026-07-17T18:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078180534212280707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1936667354433490944",
+              "start": 3,
+              "username": "moka_0004"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xHZBzWIuhA",
+              "end": 53,
+              "expanded_url": "https://x.com/moka_0004/status/2077754782115389455/photo/1",
+              "media_key": "16_2077754636162007040",
+              "start": 30,
+              "url": "https://t.co/xHZBzWIuhA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078180534212280707",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1700
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077754782115389455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moka_0004: 最近はずっとこんな感じだよ… https://t.co/xHZBzWIuhA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 166,
+          "like_count": 713,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 727
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T06:07:46.000Z",
+        "description": "私がみんなを助けるよ\nたまに低浮上￤ニディガ以外も好き￤今年で15歳♀￤何語でも翻訳可能\n私の神→@Lice0830 可愛い友→@Kzn1014RA\n251ちゃん♡→@moe___nyan_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "Lice0830"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Kzn1014RA"
+              },
+              {
+                "end": 95,
+                "start": 83,
+                "username": "moe___nyan_"
+              }
+            ]
+          }
+        },
+        "id": "1936667354433490944",
+        "location": "DM×",
+        "name": "もか",
+        "pinned_tweet_id": "2076689115966480680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073736176494919680/eelSCQ8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 967,
+          "like_count": 3159,
+          "listed_count": 9,
+          "media_count": 65,
+          "tweet_count": 1194
+        },
+        "url": "",
+        "username": "moka_0004",
+        "verified": false
+      }
+    ]
+  }
+}

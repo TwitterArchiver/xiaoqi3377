@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2079646842023969139",
+    "created_at": "2026-07-21T19:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T20:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079655248894009841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3057408519",
+          "start": 0,
+          "username": "MiHuoRL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079655248894009841",
+    "in_reply_to_user_id": "3057408519",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079651200258261468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiHuoRL 我去神医啊 我治好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2079646842023969139",
+        "created_at": "2026-07-21T19:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T20:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079655248894009841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3057408519",
+              "start": 0,
+              "username": "MiHuoRL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079655248894009841",
+        "in_reply_to_user_id": "3057408519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079651200258261468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiHuoRL 我去神医啊 我治好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3057408519",
+        "conversation_id": "2079646842023969139",
+        "created_at": "2026-07-21T19:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T20:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079651200258261468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079651200258261468",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079646842023969139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 因为你被索取了，你缺少的那部分也需要对方弥补"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2079485954696561008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 172,
+          "like_count": 742,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 769
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-23T22:43:26.000Z",
+        "description": "",
+        "id": "3057408519",
+        "name": "NAK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859263331061882880/xtmmJiUE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 794,
+          "like_count": 1977,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "MiHuoRL",
+        "verified": false
+      }
+    ]
+  }
+}

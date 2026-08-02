@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2074913589408969048",
+    "created_at": "2026-07-08T19:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T20:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074945167917027731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3057408519",
+          "start": 0,
+          "username": "LingRain0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074945167917027731",
+    "in_reply_to_user_id": "3057408519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074914698039009592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingRain0 被投厕被描图。感觉心好累"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2074913589408969048",
+        "created_at": "2026-07-08T19:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T20:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074945167917027731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3057408519",
+              "start": 0,
+              "username": "LingRain0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074945167917027731",
+        "in_reply_to_user_id": "3057408519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074914698039009592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingRain0 被投厕被描图。感觉心好累"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3057408519",
+        "conversation_id": "2074913589408969048",
+        "created_at": "2026-07-08T17:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074914698039009592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074914698039009592",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074913589408969048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 怎么了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073831418564849664/WAOIjmQ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 163,
+          "like_count": 696,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 708
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-23T22:43:26.000Z",
+        "description": "",
+        "id": "3057408519",
+        "name": "NAK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859263331061882880/xtmmJiUE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 788,
+          "like_count": 1920,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "LingRain0",
+        "verified": false
+      }
+    ]
+  }
+}

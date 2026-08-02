@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2063570220082680256",
+    "created_at": "2026-06-08T00:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T01:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063773923859411016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2029239987531579393",
+          "start": 0,
+          "username": "Schmoo_2003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063773923859411016",
+    "in_reply_to_user_id": "2029239987531579393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063640069404008489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Schmoo_2003 为啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2063570220082680256",
+        "created_at": "2026-06-08T00:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T01:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063773923859411016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029239987531579393",
+              "start": 0,
+              "username": "Schmoo_2003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063773923859411016",
+        "in_reply_to_user_id": "2029239987531579393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063640069404008489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Schmoo_2003 为啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029239987531579393",
+        "conversation_id": "2063570220082680256",
+        "created_at": "2026-06-07T15:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063640069404008489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063640069404008489",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063570220082680256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 看到这个就好难受好难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 167,
+          "like_count": 631,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 458
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T16:59:09.000Z",
+        "description": "",
+        "id": "2029239987531579393",
+        "name": "Schmoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052838485048856585/lYRd9xs0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 36,
+          "like_count": 1709,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 127
+        },
+        "username": "Schmoo_2003",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2059949909810565387",
+    "created_at": "2026-05-28T11:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059965098891051080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2055470024266256384",
+          "start": 0,
+          "username": "Zheng03t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059965098891051080",
+    "in_reply_to_user_id": "2055470024266256384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059960714404708767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zheng03t 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2059949909810565387",
+        "created_at": "2026-05-28T11:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059965098891051080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2055470024266256384",
+              "start": 0,
+              "username": "Zheng03t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059965098891051080",
+        "in_reply_to_user_id": "2055470024266256384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059960714404708767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zheng03t 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055470024266256384",
+        "conversation_id": "2059949909810565387",
+        "created_at": "2026-05-28T11:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059960714404708767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059960714404708767",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059949909810565387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 確實很萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 147,
+          "like_count": 604,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 359
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T02:08:13.000Z",
+        "description": "",
+        "id": "2055470024266256384",
+        "name": "呆萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059696856847003648/E9Oocg2H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 8,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 91
+        },
+        "username": "Zheng03t",
+        "verified": false
+      }
+    ]
+  }
+}

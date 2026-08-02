@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2066751163811459221",
+    "created_at": "2026-06-17T11:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067213015804792990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966105784728825856",
+          "start": 0,
+          "username": "fufu0829"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067213015804792990",
+    "in_reply_to_user_id": "1966105784728825856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067141776717287839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fufu0829 我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2066751163811459221",
+        "created_at": "2026-06-17T11:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067213015804792990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966105784728825856",
+              "start": 0,
+              "username": "fufu0829"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067213015804792990",
+        "in_reply_to_user_id": "1966105784728825856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067141776717287839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fufu0829 我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966105784728825856",
+        "conversation_id": "2066751163811459221",
+        "created_at": "2026-06-17T07:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067141776717287839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067141776717287839",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066751163811459221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 画师是谁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 166,
+          "like_count": 654,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 552
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T11:45:36.000Z",
+        "description": "爱吧",
+        "id": "1966105784728825856",
+        "name": "唯心说",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029134536928628736/XVE315zg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 125,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "fufu0829",
+        "verified": false
+      }
+    ]
+  }
+}

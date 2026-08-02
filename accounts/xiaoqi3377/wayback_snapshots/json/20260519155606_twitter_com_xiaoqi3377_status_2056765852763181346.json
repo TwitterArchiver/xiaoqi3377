@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056765843003117569"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2056765852763181346",
+    "created_at": "2026-05-19T15:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056765852763181346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eXhgQ00RNB",
+          "end": 160,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2056765852763181346/photo/1",
+          "media_key": "3_2056765843003117569",
+          "start": 137,
+          "url": "https://t.co/eXhgQ00RNB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056765852763181346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我前任蛮搞笑的。彻头彻尾的自私傻逼。一直跟我吵架一直闹的我不得安生。受不了提了分手就缠上我了 又要来我教室堵我又要杀了我 开了很多个小红书小号私信我 在所有社交平台上私信我 最后直接跟到我选修课上来。在我身后一直拉着我要跟我说话 我崩溃了 闹到了学校。警局 。这一切才结束 https://t.co/eXhgQ00RNB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_2056765843003117569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsZoxJbkAEEw0A.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056765843003117569"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2056765852763181346",
+        "created_at": "2026-05-19T15:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056765852763181346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eXhgQ00RNB",
+              "end": 160,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2056765852763181346/photo/1",
+              "media_key": "3_2056765843003117569",
+              "start": 137,
+              "url": "https://t.co/eXhgQ00RNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056765852763181346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我前任蛮搞笑的。彻头彻尾的自私傻逼。一直跟我吵架一直闹的我不得安生。受不了提了分手就缠上我了 又要来我教室堵我又要杀了我 开了很多个小红书小号私信我 在所有社交平台上私信我 最后直接跟到我选修课上来。在我身后一直拉着我要跟我说话 我崩溃了 闹到了学校。警局 。这一切才结束 https://t.co/eXhgQ00RNB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 202,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 221
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

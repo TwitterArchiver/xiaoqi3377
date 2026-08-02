@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2079456985045729395",
+    "created_at": "2026-07-21T08:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T09:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079484540154945947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1722904163476979712",
+          "start": 0,
+          "username": "tom415362445683"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079484540154945947",
+    "in_reply_to_user_id": "1722904163476979712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079456985045729395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tom415362445683 你说人生的意义是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2079456985045729395",
+        "created_at": "2026-07-21T08:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079484540154945947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1722904163476979712",
+              "start": 0,
+              "username": "tom415362445683"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079484540154945947",
+        "in_reply_to_user_id": "1722904163476979712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079456985045729395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tom415362445683 你说人生的意义是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722904163476979712",
+        "conversation_id": "2079456985045729395",
+        "created_at": "2026-07-21T06:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079456985045729395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079456985045729395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那天心血来潮想买个杯子，盯着购买页面时突然走神。\n好像突然想通了--快感就是快感而已。它不会和我接吻，没有洗完澡后湿漉漉的头发蹭在我颈窝的温度，不能陪我吃过饭后沿着运河慢慢散步，没法一起抱着手机规划以后要去的城市，更不能和我养一只会拆家的小狗。\n就算它吸得再紧，又有什么意思呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 171,
+          "like_count": 731,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 750
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T09:09:27.000Z",
+        "description": "秋嶂郁荫裁\n胧月茶阑舞女来\n影动袖霜白",
+        "id": "1722904163476979712",
+        "location": "你家床底下",
+        "name": "もペもペ",
+        "pinned_tweet_id": "2025596071217656109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051340340049965056/5L_eG8J9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 70,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "tom415362445683",
+        "verified": false
+      }
+    ]
+  }
+}

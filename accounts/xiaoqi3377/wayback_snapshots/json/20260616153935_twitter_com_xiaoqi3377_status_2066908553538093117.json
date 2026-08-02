@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2062763291303453151",
+    "created_at": "2026-06-16T15:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066908553538093117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "131699895",
+          "start": 0,
+          "username": "YunqSavaqe6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066908553538093117",
+    "in_reply_to_user_id": "131699895",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066815812187635760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunqSavaqe6 行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2062763291303453151",
+        "created_at": "2026-06-16T15:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066908553538093117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "131699895",
+              "start": 0,
+              "username": "YunqSavaqe6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066908553538093117",
+        "in_reply_to_user_id": "131699895",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066815812187635760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunqSavaqe6 行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "131699895",
+        "conversation_id": "2062763291303453151",
+        "created_at": "2026-06-16T09:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066815812187635760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066815812187635760",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062763291303453151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 我想看画"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 166,
+          "like_count": 650,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 538
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-11T02:25:58.000Z",
+        "description": "",
+        "id": "131699895",
+        "name": "抽爹大腚子",
+        "pinned_tweet_id": "2065979794517561491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066904554630004736/VN-EPKN2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 17,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 103
+        },
+        "username": "YunqSavaqe6",
+        "verified": false
+      }
+    ]
+  }
+}

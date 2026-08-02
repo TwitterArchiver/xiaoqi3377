@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2068637749268357239",
+    "created_at": "2026-06-21T10:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T11:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068637749268357239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1311048095334101003",
+          "start": 3,
+          "username": "cE6dWDa36zrqR4U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068637749268357239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068188854499295663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cE6dWDa36zrqR4U: 哎，我们来玩sm，就你在躺这里，然后我掐你就很爽啊，对，对对，你在躺这里，然后我现在掐你了啊，来。哎，我操你妈下的辈子吧见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2068637749268357239",
+        "created_at": "2026-06-21T10:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068637749268357239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1311048095334101003",
+              "start": 3,
+              "username": "cE6dWDa36zrqR4U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068637749268357239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068188854499295663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cE6dWDa36zrqR4U: 哎，我们来玩sm，就你在躺这里，然后我掐你就很爽啊，对，对对，你在躺这里，然后我现在掐你了啊，来。哎，我操你妈下的辈子吧见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1311048095334101003",
+        "conversation_id": "2068188854499295663",
+        "created_at": "2026-06-20T04:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068188854499295663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068188854499295663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 54840,
+          "like_count": 1120,
+          "quote_count": 20,
+          "reply_count": 37,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "哎，我们来玩sm，就你在躺这里，然后我掐你就很爽啊，对，对对，你在躺这里，然后我现在掐你了啊，来。哎，我操你妈下的辈子吧见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 164,
+          "like_count": 669,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 602
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-29T21:00:13.000Z",
+        "description": "奈何身为雀 于此借寒山",
+        "id": "1311048095334101003",
+        "location": "成都",
+        "name": "臣",
+        "pinned_tweet_id": "1785726513855238599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050276035540008960/Mgaq7eNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 125,
+          "like_count": 5579,
+          "listed_count": 7,
+          "media_count": 167,
+          "tweet_count": 1468
+        },
+        "url": "",
+        "username": "cE6dWDa36zrqR4U",
+        "verified": true
+      }
+    ]
+  }
+}

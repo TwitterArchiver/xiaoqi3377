@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2067304327417651241",
+    "created_at": "2026-06-17T17:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067304327417651241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1721454967419195392",
+          "start": 3,
+          "username": "Cybercaketest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067304327417651241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067124699453342123",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cybercaketest: 我感觉我的性癖和我的心智实在都很极端"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2067304327417651241",
+        "created_at": "2026-06-17T17:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067304327417651241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1721454967419195392",
+              "start": 3,
+              "username": "Cybercaketest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067304327417651241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067124699453342123",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cybercaketest: 我感觉我的性癖和我的心智实在都很极端"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721454967419195392",
+        "conversation_id": "2067124699453342123",
+        "created_at": "2026-06-17T05:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067124699453342123"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067124699453342123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 870,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我的性癖和我的心智实在都很极端"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 165,
+          "like_count": 659,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 566
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T09:10:41.000Z",
+        "description": "保存不当极易变质",
+        "id": "1721454967419195392",
+        "location": "网络超市",
+        "name": "Cybercake",
+        "pinned_tweet_id": "1836618844221386840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848799175393349633/CNqSB7lY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2007,
+          "following_count": 30,
+          "like_count": 1020,
+          "listed_count": 4,
+          "media_count": 59,
+          "tweet_count": 1369
+        },
+        "username": "Cybercaketest",
+        "verified": false
+      }
+    ]
+  }
+}

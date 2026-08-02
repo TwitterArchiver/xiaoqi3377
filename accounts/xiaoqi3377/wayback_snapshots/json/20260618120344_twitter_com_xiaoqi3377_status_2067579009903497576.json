@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2067213464016490585",
+    "created_at": "2026-06-18T12:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067579009903497576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900932148489842688",
+          "start": 0,
+          "username": "DespairEdmond"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067579009903497576",
+    "in_reply_to_user_id": "1900932148489842688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067563849084215387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DespairEdmond ラムのラブソング"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2067213464016490585",
+        "created_at": "2026-06-18T12:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067579009903497576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900932148489842688",
+              "start": 0,
+              "username": "DespairEdmond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067579009903497576",
+        "in_reply_to_user_id": "1900932148489842688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067563849084215387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DespairEdmond ラムのラブソング"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900932148489842688",
+        "conversation_id": "2067213464016490585",
+        "created_at": "2026-06-18T11:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067563849084215387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067563849084215387",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067213464016490585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 這什麼歌？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 165,
+          "like_count": 662,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 572
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T15:29:07.000Z",
+        "description": "Junko fan & Ame/Kangel fan https://t.co/RU6YwmvJrH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wplace.live/?lat=30.450265…",
+                "end": 50,
+                "expanded_url": "https://wplace.live/?lat=30.450265102077555&lng=-169.60719759697264&zoom=14.50175443653054",
+                "start": 27,
+                "url": "https://t.co/RU6YwmvJrH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "junko-fan-room.straw.page",
+                "end": 23,
+                "expanded_url": "https://junko-fan-room.straw.page",
+                "start": 0,
+                "url": "https://t.co/brlmLB1U8C"
+              }
+            ]
+          }
+        },
+        "id": "1900932148489842688",
+        "location": "𝑱𝒖𝒏𝒌𝒐 𝑳𝒂𝒏𝒅",
+        "name": "OMGkawaiiJunko",
+        "pinned_tweet_id": "1984654671697633592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041895596894924800/RPhRnOl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 1853,
+          "like_count": 15551,
+          "listed_count": 4,
+          "media_count": 4356,
+          "tweet_count": 17243
+        },
+        "url": "https://t.co/brlmLB1U8C",
+        "username": "DespairEdmond",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2059537625610895820",
+    "created_at": "2026-05-27T18:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059708180138213884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2049857276534820864",
+          "start": 0,
+          "username": "2871138265427X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059708180138213884",
+    "in_reply_to_user_id": "2049857276534820864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059707805070750060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2871138265427X 太可怕了。其实我们都是16岁的小女孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2059537625610895820",
+        "created_at": "2026-05-27T18:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059708180138213884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2049857276534820864",
+              "start": 0,
+              "username": "2871138265427X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059708180138213884",
+        "in_reply_to_user_id": "2049857276534820864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059707805070750060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2871138265427X 太可怕了。其实我们都是16岁的小女孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049857276534820864",
+        "conversation_id": "2059537625610895820",
+        "created_at": "2026-05-27T18:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059707805070750060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059707805070750060",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059537625610895820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 没事，很正常，我都快24了依旧觉得自己是16（也有可能是脑雾很多事想不起来了吧）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 145,
+          "like_count": 564,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 363
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T14:24:06.000Z",
+        "description": "主要时间都在画画，画原创角色，接稿还有喜欢的角色和主播\n感谢喜欢  ˗ˋˏᰔᩚˎˊ˗",
+        "id": "2049857276534820864",
+        "name": "xian面",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059430608103976960/RjgifWbu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 71,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 99
+        },
+        "username": "2871138265427X",
+        "verified": false
+      }
+    ]
+  }
+}

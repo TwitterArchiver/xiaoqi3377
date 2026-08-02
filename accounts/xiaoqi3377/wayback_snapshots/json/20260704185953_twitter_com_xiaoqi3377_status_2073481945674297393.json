@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2073481945674297393",
+    "created_at": "2026-07-04T18:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T19:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073481945674297393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1616050407612248064",
+          "start": 3,
+          "username": "__nana_forever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073481945674297393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073197231184753104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__nana_forever: たくさん涙を流した人はね、\n幸せになれるらしいよ。\nみんな幸せになろうね。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2073481945674297393",
+        "created_at": "2026-07-04T18:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073481945674297393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1616050407612248064",
+              "start": 3,
+              "username": "__nana_forever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073481945674297393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073197231184753104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__nana_forever: たくさん涙を流した人はね、\n幸せになれるらしいよ。\nみんな幸せになろうね。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616050407612248064",
+        "conversation_id": "2073197231184753104",
+        "created_at": "2026-07-04T00:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T01:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073197231184753104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073197231184753104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 6295,
+          "like_count": 288,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "たくさん涙を流した人はね、\n幸せになれるらしいよ。\nみんな幸せになろうね。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072015589296758784/wK2Ej_41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 162,
+          "like_count": 692,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 673
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-19T12:30:27.000Z",
+        "description": "忘れられない恋をした。",
+        "id": "1616050407612248064",
+        "name": "奈々",
+        "pinned_tweet_id": "1802274493550768358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620387336390598656/YQBCjoeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10642,
+          "following_count": 770,
+          "like_count": 4707,
+          "listed_count": 45,
+          "media_count": 18,
+          "tweet_count": 5226
+        },
+        "url": "",
+        "username": "__nana_forever",
+        "verified": false
+      }
+    ]
+  }
+}

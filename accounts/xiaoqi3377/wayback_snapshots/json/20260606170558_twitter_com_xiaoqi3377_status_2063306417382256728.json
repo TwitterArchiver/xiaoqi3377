@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2063306417382256728",
+    "created_at": "2026-06-06T17:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063306417382256728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1918274155092557830",
+          "start": 3,
+          "username": "JLtCJEX6ay79970"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063306417382256728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056729142075474249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JLtCJEX6ay79970: なんで私友達もいなくて学校も嫌いなのに毎日律儀に登校してんだろ、体が行くの拒んでくれればいいのに体に現れないと誰も苦しんでるとか分かってくれないし"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2063306417382256728",
+        "created_at": "2026-06-06T17:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063306417382256728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1918274155092557830",
+              "start": 3,
+              "username": "JLtCJEX6ay79970"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063306417382256728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056729142075474249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JLtCJEX6ay79970: なんで私友達もいなくて学校も嫌いなのに毎日律儀に登校してんだろ、体が行くの拒んでくれればいいのに体に現れないと誰も苦しんでるとか分かってくれないし"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274155092557830",
+        "conversation_id": "2056729142075474249",
+        "created_at": "2026-05-19T13:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056729142075474249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056729142075474249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 22355,
+          "like_count": 1035,
+          "quote_count": 9,
+          "reply_count": 1,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "なんで私友達もいなくて学校も嫌いなのに毎日律儀に登校してんだろ、体が行くの拒んでくれればいいのに体に現れないと誰も苦しんでるとか分かってくれないし"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 165,
+          "like_count": 621,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 422
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T11:59:52.000Z",
+        "description": "全日sjk ぼっち",
+        "id": "1918274155092557830",
+        "name": "🎵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918274461700366336/dmWsSZLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 189,
+          "like_count": 17223,
+          "listed_count": 5,
+          "media_count": 7,
+          "tweet_count": 2116
+        },
+        "username": "JLtCJEX6ay79970",
+        "verified": false
+      }
+    ]
+  }
+}

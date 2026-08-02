@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2056760740942672093",
+    "created_at": "2026-05-19T16:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056780453118713947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1801830745171800064",
+          "start": 0,
+          "username": "qfng194545"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056780453118713947",
+    "in_reply_to_user_id": "1801830745171800064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056780184603484447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qfng194545 我服了吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2056760740942672093",
+        "created_at": "2026-05-19T16:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056780453118713947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1801830745171800064",
+              "start": 0,
+              "username": "qfng194545"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056780453118713947",
+        "in_reply_to_user_id": "1801830745171800064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056780184603484447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qfng194545 我服了吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801830745171800064",
+        "conversation_id": "2056760740942672093",
+        "created_at": "2026-05-19T16:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056780184603484447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056780184603484447",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056779987810914650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 就让我晕倒在上面吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 203,
+          "like_count": 499,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 233
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T04:15:13.000Z",
+        "description": "非正常人",
+        "id": "1801830745171800064",
+        "location": "qingdao",
+        "name": "十二少",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056321628754288640/LRCdy1V9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 115,
+          "like_count": 16494,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 7997
+        },
+        "username": "qfng194545",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2058946633874788471",
+    "created_at": "2026-05-27T15:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059656986212581506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1831442024278470656",
+          "start": 0,
+          "username": "NERI03030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059656986212581506",
+    "in_reply_to_user_id": "1831442024278470656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058946633874788471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NERI03030 发自拍要给下半张脸打码呀！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2058946633874788471",
+        "created_at": "2026-05-27T15:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059656986212581506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831442024278470656",
+              "start": 0,
+              "username": "NERI03030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059656986212581506",
+        "in_reply_to_user_id": "1831442024278470656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058946633874788471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NERI03030 发自拍要给下半张脸打码呀！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831442024278470656",
+        "conversation_id": "2058946633874788471",
+        "created_at": "2026-05-25T16:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058946633874788471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058946633874788471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经过提醒，我不会再发自己正脸照片了，我感觉潜伏着可怕的东西，尤其是被个傻逼评论之后，我以后还是少骂人吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 208,
+          "like_count": 564,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 354
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T21:19:48.000Z",
+        "description": "Neri /ᐠ ｡‸ ｡ᐟ\\ Neri负能量，但是好人\n偶的朋友很少，想交朋友，聊黄拉黑",
+        "id": "1831442024278470656",
+        "name": "笼中鸟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038682687200804864/2jJa1ui0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 37,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 334
+        },
+        "username": "NERI03030",
+        "verified": false
+      }
+    ]
+  }
+}

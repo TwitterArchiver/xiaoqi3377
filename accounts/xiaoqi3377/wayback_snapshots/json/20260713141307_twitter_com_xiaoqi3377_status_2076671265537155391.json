@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076330909444542464"
+      ],
+      "media_source_tweet_id": [
+        "2076330929682051327"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2076671265537155391",
+    "created_at": "2026-07-13T14:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T15:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076671265537155391"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 21,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 53,
+          "start": 43,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1393471785471942656",
+          "start": 3,
+          "username": "Fox_Kikumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ARB2fzJrtz",
+          "end": 78,
+          "expanded_url": "https://x.com/Fox_Kikumi/status/2076330929682051327/photo/1",
+          "media_key": "3_2076330909444542464",
+          "start": 55,
+          "url": "https://t.co/ARB2fzJrtz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076671265537155391",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 969
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076330929682051327",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fox_Kikumi: 悬目\n [#NEEDY_GIRL_OVERDOSE \n#NEEDY_pic] https://t.co/ARB2fzJrtz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076330909444542464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCb9hWbEAAozUR.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076330909444542464"
+          ],
+          "media_source_tweet_id": [
+            "2076330929682051327"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2076671265537155391",
+        "created_at": "2026-07-13T14:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076671265537155391"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 21,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 53,
+              "start": 43,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1393471785471942656",
+              "start": 3,
+              "username": "Fox_Kikumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARB2fzJrtz",
+              "end": 78,
+              "expanded_url": "https://x.com/Fox_Kikumi/status/2076330929682051327/photo/1",
+              "media_key": "3_2076330909444542464",
+              "start": 55,
+              "url": "https://t.co/ARB2fzJrtz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076671265537155391",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 969
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076330929682051327",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fox_Kikumi: 悬目\n [#NEEDY_GIRL_OVERDOSE \n#NEEDY_pic] https://t.co/ARB2fzJrtz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076330909444542464"
+          ]
+        },
+        "author_id": "1393471785471942656",
+        "conversation_id": "2076330929682051327",
+        "created_at": "2026-07-12T15:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076330929682051327"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 5,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 37,
+              "start": 27,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARB2fzJrtz",
+              "end": 62,
+              "expanded_url": "https://x.com/Fox_Kikumi/status/2076330929682051327/photo/1",
+              "media_key": "3_2076330909444542464",
+              "start": 39,
+              "url": "https://t.co/ARB2fzJrtz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076330929682051327",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 386,
+          "impression_count": 34890,
+          "like_count": 5952,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 969
+        },
+        "reply_settings": "everyone",
+        "text": "悬目\n [#NEEDY_GIRL_OVERDOSE \n#NEEDY_pic] https://t.co/ARB2fzJrtz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073831418564849664/WAOIjmQ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 163,
+          "like_count": 696,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 713
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T07:42:30.000Z",
+        "description": "#苦米 /Kumi￤🎨 Illustration & Animation￤中文￤依赖于翻译器￤联络📩foxkikumi@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "苦米"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/HfKKMSw",
+                "end": 23,
+                "expanded_url": "https://b23.tv/HfKKMSw",
+                "start": 0,
+                "url": "https://t.co/adZh2cyd96"
+              }
+            ]
+          }
+        },
+        "id": "1393471785471942656",
+        "location": "(´,,•ω•,,)  bilibili➡️",
+        "name": "苦米🩵Fox-Kikumi",
+        "pinned_tweet_id": "1829182660385886650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045708311782453248/dWqKOUXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10095,
+          "following_count": 990,
+          "like_count": 20444,
+          "listed_count": 48,
+          "media_count": 524,
+          "tweet_count": 756
+        },
+        "url": "https://t.co/adZh2cyd96",
+        "username": "Fox_Kikumi",
+        "verified": true
+      }
+    ]
+  }
+}

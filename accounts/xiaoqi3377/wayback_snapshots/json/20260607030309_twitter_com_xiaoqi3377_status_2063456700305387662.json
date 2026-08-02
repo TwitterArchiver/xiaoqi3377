@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2063213116671017135",
+    "created_at": "2026-06-07T03:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063456700305387662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936856534396608512",
+          "start": 0,
+          "username": "Nora1226koi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063456700305387662",
+    "in_reply_to_user_id": "1936856534396608512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063449073932505201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nora1226koi 对没错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2063213116671017135",
+        "created_at": "2026-06-07T03:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063456700305387662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936856534396608512",
+              "start": 0,
+              "username": "Nora1226koi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063456700305387662",
+        "in_reply_to_user_id": "1936856534396608512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063449073932505201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nora1226koi 对没错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936856534396608512",
+        "conversation_id": "2063213116671017135",
+        "created_at": "2026-06-07T02:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063449073932505201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063449073932505201",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063213116671017135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 对的来黑叉就是为了发疯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 165,
+          "like_count": 620,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 427
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T18:39:36.000Z",
+        "description": "",
+        "id": "1936856534396608512",
+        "name": "Nora12.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062445213852057601/X6IijL4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 60,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 198
+        },
+        "username": "Nora1226koi",
+        "verified": false
+      }
+    ]
+  }
+}

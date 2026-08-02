@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062763282159808512"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2062763291303453151",
+    "created_at": "2026-06-05T05:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T06:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062763291303453151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T0uloCtYUT",
+          "end": 81,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2062763291303453151/photo/1",
+          "media_key": "3_2062763282159808512",
+          "start": 58,
+          "url": "https://t.co/T0uloCtYUT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062763291303453151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是七  \n此账号有大量发泄情绪 欲望言论 偶尔会画一些血图色图 欢迎和我聊天^_^\n互fo私信 查成分选择性回关 https://t.co/T0uloCtYUT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2062763282159808512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBoRrDasAA9rdv.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062763282159808512"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2062763291303453151",
+        "created_at": "2026-06-05T05:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062763291303453151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T0uloCtYUT",
+              "end": 81,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2062763291303453151/photo/1",
+              "media_key": "3_2062763282159808512",
+              "start": 58,
+              "url": "https://t.co/T0uloCtYUT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062763291303453151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是七  \n此账号有大量发泄情绪 欲望言论 偶尔会画一些血图色图 欢迎和我聊天^_^\n互fo私信 查成分选择性回关 https://t.co/T0uloCtYUT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062759450096934912/ncghQr9v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 151,
+          "like_count": 604,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 379
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059696451878522880"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2059696464260108475",
+    "created_at": "2026-05-27T18:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059696464260108475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xqTHFrJyOV",
+          "end": 31,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2059696464260108475/photo/1",
+          "media_key": "3_2059696451878522880",
+          "start": 8,
+          "url": "https://t.co/xqTHFrJyOV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059696464260108475",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想吃爆浆豆腐 https://t.co/xqTHFrJyOV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1537,
+        "media_key": "3_2059696451878522880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWDAp9aEAAmxxf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059696451878522880"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059696464260108475",
+        "created_at": "2026-05-27T18:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059696464260108475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xqTHFrJyOV",
+              "end": 31,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2059696464260108475/photo/1",
+              "media_key": "3_2059696451878522880",
+              "start": 8,
+              "url": "https://t.co/xqTHFrJyOV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059696464260108475",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想吃爆浆豆腐 https://t.co/xqTHFrJyOV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 145,
+          "like_count": 564,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 360
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

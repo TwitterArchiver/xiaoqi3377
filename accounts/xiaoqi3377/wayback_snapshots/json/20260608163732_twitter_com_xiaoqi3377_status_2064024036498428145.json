@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2064024036498428145",
+    "created_at": "2026-06-08T16:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T17:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064024036498428145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882937199735590912",
+          "start": 3,
+          "username": "mmng_yu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064024036498428145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 512
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063577303133896978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmng_yu: 「電話する？」より「電話したい」の方が、絶対に嬉しい。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2064024036498428145",
+        "created_at": "2026-06-08T16:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064024036498428145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882937199735590912",
+              "start": 3,
+              "username": "mmng_yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064024036498428145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 512
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063577303133896978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mmng_yu: 「電話する？」より「電話したい」の方が、絶対に嬉しい。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882937199735590912",
+        "conversation_id": "2063577303133896978",
+        "created_at": "2026-06-07T11:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063577303133896978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063577303133896978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 132158,
+          "like_count": 5681,
+          "quote_count": 98,
+          "reply_count": 22,
+          "retweet_count": 512
+        },
+        "reply_settings": "everyone",
+        "text": "「電話する？」より「電話したい」の方が、絶対に嬉しい。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 165,
+          "like_count": 634,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 470
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T23:43:13.000Z",
+        "description": "幸せになりたい人の味方🤍",
+        "id": "1882937199735590912",
+        "location": "報われたいね‎🤍🪄︎︎",
+        "name": "もも",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891779799380893696/wS2YIh5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22167,
+          "following_count": 1,
+          "like_count": 1375,
+          "listed_count": 34,
+          "media_count": 2,
+          "tweet_count": 1347
+        },
+        "username": "mmng_yu",
+        "verified": false
+      }
+    ]
+  }
+}

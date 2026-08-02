@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2058136619027468288"
+      ],
+      "media_source_tweet_id": [
+        "2058157518652924380"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2066466443580064075",
+    "created_at": "2026-06-15T10:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T11:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066466443580064075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597687295624491008",
+          "start": 3,
+          "username": "hp_0_nemui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0gQ7zow83a",
+          "end": 66,
+          "expanded_url": "https://x.com/hp_0_nemui/status/2058157518652924380/video/1",
+          "media_key": "13_2058136619027468288",
+          "start": 43,
+          "url": "https://t.co/0gQ7zow83a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066466443580064075",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2413
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058157518652924380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hp_0_nemui: 貴方が誰と結ばれていたって　永遠の愛と錯覚するんだよ https://t.co/0gQ7zow83a"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43643,
+        "height": 1080,
+        "media_key": "13_2058136619027468288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058136619027468288/img/SVjfx_CEGyZ7292D.jpg",
+        "public_metrics": {
+          "view_count": 153659
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058136619027468288/vid/avc1/480x270/hmw2MdUR-MnuDrXi.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058136619027468288/vid/avc1/640x360/CySV_I_pGGdKjQ-l.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058136619027468288/vid/avc1/1280x720/Qxu99o7gO7vk0NWJ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058136619027468288/pl/eZ_XMVkTAmiHVz25.m3u8?tag=14&v=afa"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058136619027468288"
+          ],
+          "media_source_tweet_id": [
+            "2058157518652924380"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2066466443580064075",
+        "created_at": "2026-06-15T10:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066466443580064075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597687295624491008",
+              "start": 3,
+              "username": "hp_0_nemui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0gQ7zow83a",
+              "end": 66,
+              "expanded_url": "https://x.com/hp_0_nemui/status/2058157518652924380/video/1",
+              "media_key": "13_2058136619027468288",
+              "start": 43,
+              "url": "https://t.co/0gQ7zow83a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066466443580064075",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2413
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058157518652924380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hp_0_nemui: 貴方が誰と結ばれていたって　永遠の愛と錯覚するんだよ https://t.co/0gQ7zow83a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058136619027468288"
+          ]
+        },
+        "author_id": "1597687295624491008",
+        "conversation_id": "2058157518652924380",
+        "created_at": "2026-05-23T12:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058157518652924380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0gQ7zow83a",
+              "end": 50,
+              "expanded_url": "https://x.com/hp_0_nemui/status/2058157518652924380/video/1",
+              "media_key": "13_2058136619027468288",
+              "start": 27,
+              "url": "https://t.co/0gQ7zow83a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058157518652924380",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5150,
+          "impression_count": 417012,
+          "like_count": 22269,
+          "quote_count": 72,
+          "reply_count": 2,
+          "retweet_count": 2413
+        },
+        "reply_settings": "everyone",
+        "text": "貴方が誰と結ばれていたって　永遠の愛と錯覚するんだよ https://t.co/0gQ7zow83a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 166,
+          "like_count": 650,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 530
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T20:21:57.000Z",
+        "description": "@me_me_hp0\n✉：nemuri10.y@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "me_me_hp0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCf1pQ…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCf1pQpvLkcDYv6qVNvcqBZA",
+                "start": 0,
+                "url": "https://t.co/TkEIcgNMf3"
+              }
+            ]
+          }
+        },
+        "id": "1597687295624491008",
+        "location": "i&h:友人くん",
+        "name": "灰色ねむり",
+        "pinned_tweet_id": "1978779037523726490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597690355851603968/Opmb8s7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10176,
+          "following_count": 99,
+          "like_count": 13022,
+          "listed_count": 57,
+          "media_count": 58,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/TkEIcgNMf3",
+        "username": "hp_0_nemui",
+        "verified": false
+      }
+    ]
+  }
+}

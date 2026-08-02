@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2063840414436864507",
+    "created_at": "2026-06-08T12:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063956140002877828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2062438957070290944",
+          "start": 0,
+          "username": "tanootonai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063956140002877828",
+    "in_reply_to_user_id": "2062438957070290944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063936136737874050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanootonai 这也是爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2063840414436864507",
+        "created_at": "2026-06-08T12:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063956140002877828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2062438957070290944",
+              "start": 0,
+              "username": "tanootonai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063956140002877828",
+        "in_reply_to_user_id": "2062438957070290944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063936136737874050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanootonai 这也是爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062438957070290944",
+        "conversation_id": "2063840414436864507",
+        "created_at": "2026-06-08T10:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063936136737874050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063936136737874050",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063840414436864507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 现实中如果有这种人真的很可悲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 167,
+          "like_count": 634,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 466
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T07:40:25.000Z",
+        "description": "",
+        "id": "2062438957070290944",
+        "name": "楽音奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062439666293571584/7XODlfsf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 45
+        },
+        "username": "tanootonai",
+        "verified": false
+      }
+    ]
+  }
+}

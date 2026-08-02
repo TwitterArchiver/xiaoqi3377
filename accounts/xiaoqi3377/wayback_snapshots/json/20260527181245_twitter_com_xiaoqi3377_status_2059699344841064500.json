@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2059696464260108475",
+    "created_at": "2026-05-27T18:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059699344841064500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2042966135490965504",
+          "start": 0,
+          "username": "monesy233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059699344841064500",
+    "in_reply_to_user_id": "2042966135490965504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059698685618033097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@monesy233 hh。加油哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 841,
+        "media_key": "3_2059698679347585024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWFCT7aoAA7Hr_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2059696464260108475",
+        "created_at": "2026-05-27T18:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059699344841064500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042966135490965504",
+              "start": 0,
+              "username": "monesy233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059699344841064500",
+        "in_reply_to_user_id": "2042966135490965504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059698685618033097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@monesy233 hh。加油哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059698679347585024"
+          ]
+        },
+        "author_id": "2042966135490965504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059696464260108475",
+        "created_at": "2026-05-27T18:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059698685618033097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5FI2FjOUP8",
+              "end": 54,
+              "expanded_url": "https://x.com/monesy233/status/2059698685618033097/photo/1",
+              "media_key": "3_2059698679347585024",
+              "start": 31,
+              "url": "https://t.co/5FI2FjOUP8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059698685618033097",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059697824091295955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 不要紧啊…我这个学校管的其实挺松的啦 https://t.co/5FI2FjOUP8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 145,
+          "like_count": 564,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 365
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T14:01:11.000Z",
+        "description": "生有涯，艺无涯(08高中牲 偶尔偷手机出来看推🤓)",
+        "id": "2042966135490965504",
+        "name": "Leon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045147730767708160/0rsMmth1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 18,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 61
+        },
+        "username": "monesy233",
+        "verified": false
+      }
+    ]
+  }
+}

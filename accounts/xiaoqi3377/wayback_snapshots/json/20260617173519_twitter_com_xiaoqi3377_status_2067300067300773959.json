@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2065097383462289464",
+    "created_at": "2026-06-17T17:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067300067300773959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2064301732465606656",
+          "start": 0,
+          "username": "unameeve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067300067300773959",
+    "in_reply_to_user_id": "2064301732465606656",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066203559754928361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unameeve ^_−☆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2065097383462289464",
+        "created_at": "2026-06-17T17:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067300067300773959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2064301732465606656",
+              "start": 0,
+              "username": "unameeve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067300067300773959",
+        "in_reply_to_user_id": "2064301732465606656",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066203559754928361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unameeve ^_−☆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064301732465606656",
+        "conversation_id": "2065097383462289464",
+        "created_at": "2026-06-14T16:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066203559754928361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066203559754928361",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065097383462289464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 I need this artstyle wth"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 165,
+          "like_count": 658,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 560
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-09T11:04:42.000Z",
+        "description": "-_-",
+        "id": "2064301732465606656",
+        "name": "unameeve",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065357710862761984/PFADTO0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 28,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "unameeve",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2081455721791827985",
+    "created_at": "2026-07-29T19:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T20:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082545247176048675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966105784728825856",
+          "start": 0,
+          "username": "fufu0829"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082545247176048675",
+    "in_reply_to_user_id": "1966105784728825856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082520577890513089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fufu0829 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2081455721791827985",
+        "created_at": "2026-07-29T19:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T20:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082545247176048675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966105784728825856",
+              "start": 0,
+              "username": "fufu0829"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082545247176048675",
+        "in_reply_to_user_id": "1966105784728825856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082520577890513089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fufu0829 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966105784728825856",
+        "conversation_id": "2081455721791827985",
+        "created_at": "2026-07-29T17:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082520577890513089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082520577890513089",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081455721791827985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 我爱你 去死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2079485954696561008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 173,
+          "like_count": 755,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 799
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T11:45:36.000Z",
+        "description": "爱吧",
+        "id": "1966105784728825856",
+        "name": "唯心说",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029134536928628736/XVE315zg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 182,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "fufu0829",
+        "verified": false
+      }
+    ]
+  }
+}

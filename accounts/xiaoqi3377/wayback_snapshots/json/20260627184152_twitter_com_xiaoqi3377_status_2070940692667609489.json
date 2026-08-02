@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070268260671799296"
+      ],
+      "media_source_tweet_id": [
+        "2070268273690923077"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2070940692667609489",
+    "created_at": "2026-06-27T18:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T19:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070940692667609489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2257809342",
+          "start": 3,
+          "username": "AS4KLA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GOmfMSB4ax",
+          "end": 35,
+          "expanded_url": "https://x.com/AS4KLA/status/2070268273690923077/photo/1",
+          "media_key": "3_2070268260671799296",
+          "start": 12,
+          "url": "https://t.co/GOmfMSB4ax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070940692667609489",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070268273690923077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AS4KLA: https://t.co/GOmfMSB4ax"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2727,
+        "media_key": "3_2070268260671799296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLsSA6sbwAAO_nk.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070268260671799296"
+          ],
+          "media_source_tweet_id": [
+            "2070268273690923077"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070940692667609489",
+        "created_at": "2026-06-27T18:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070940692667609489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2257809342",
+              "start": 3,
+              "username": "AS4KLA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GOmfMSB4ax",
+              "end": 35,
+              "expanded_url": "https://x.com/AS4KLA/status/2070268273690923077/photo/1",
+              "media_key": "3_2070268260671799296",
+              "start": 12,
+              "url": "https://t.co/GOmfMSB4ax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070940692667609489",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070268273690923077",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AS4KLA: https://t.co/GOmfMSB4ax"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070268260671799296"
+          ]
+        },
+        "author_id": "2257809342",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070268273690923077",
+        "created_at": "2026-06-25T22:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T23:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070268273690923077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GOmfMSB4ax",
+              "end": 23,
+              "expanded_url": "https://x.com/AS4KLA/status/2070268273690923077/photo/1",
+              "media_key": "3_2070268260671799296",
+              "start": 0,
+              "url": "https://t.co/GOmfMSB4ax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070268273690923077",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 16955,
+          "like_count": 830,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GOmfMSB4ax"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 163,
+          "like_count": 677,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 638
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-22T14:56:19.000Z",
+        "description": "B̸A̸D̸ ̸W̸E̸A̸T̸H̸E̸R̸ / Illustration, Design / CONTACT: DM or as4kla⦿https://t.co/4w8VI5kALP /新刊通販→  https://t.co/x5tnmAfT4x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 93,
+                "expanded_url": "http://gmail.com",
+                "start": 70,
+                "url": "https://t.co/4w8VI5kALP"
+              },
+              {
+                "display_url": "as4kla.booth.pm/items/6564268",
+                "end": 125,
+                "expanded_url": "https://as4kla.booth.pm/items/6564268",
+                "start": 102,
+                "url": "https://t.co/x5tnmAfT4x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "as4kla.tumblr.com",
+                "end": 23,
+                "expanded_url": "http://as4kla.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/iWPdn6XiiW"
+              }
+            ]
+          }
+        },
+        "id": "2257809342",
+        "location": "🌨",
+        "name": "AS4KLA",
+        "pinned_tweet_id": "1887103536011596230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1371318012452610049/7hdMKunx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32157,
+          "following_count": 524,
+          "like_count": 26292,
+          "listed_count": 457,
+          "media_count": 697,
+          "tweet_count": 10899
+        },
+        "url": "https://t.co/iWPdn6XiiW",
+        "username": "AS4KLA",
+        "verified": true
+      }
+    ]
+  }
+}

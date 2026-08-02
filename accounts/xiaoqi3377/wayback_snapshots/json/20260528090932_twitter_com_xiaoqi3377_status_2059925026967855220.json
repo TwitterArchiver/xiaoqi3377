@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2059871261493518714",
+    "created_at": "2026-05-28T09:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059925026967855220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1283722369123487744",
+          "start": 0,
+          "username": "xiaoyimiao1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059925026967855220",
+    "in_reply_to_user_id": "1283722369123487744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059901368203366861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyimiao1314 我去年是回避"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2059871261493518714",
+        "created_at": "2026-05-28T09:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059925026967855220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1283722369123487744",
+              "start": 0,
+              "username": "xiaoyimiao1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059925026967855220",
+        "in_reply_to_user_id": "1283722369123487744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059901368203366861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyimiao1314 我去年是回避"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1283722369123487744",
+        "conversation_id": "2059871261493518714",
+        "created_at": "2026-05-28T07:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059901368203366861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059901368203366861",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059871261493518714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 这么巧我也焦虑型……但是初期很上头 \n交往深了就变成回避了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 147,
+          "like_count": 564,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 352
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-16T11:17:24.000Z",
+        "description": "infp，想聊天的话可以DM（可互关。聊天请文明，色情禁止🚫，我是来看黄的，不是来当黄的）小号@HolyMiao7950",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 47,
+                "username": "HolyMiao7950"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/xiaoyimiao1…",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/xiaoyimiao1314/",
+                "start": 0,
+                "url": "https://t.co/udNatdLt1c"
+              }
+            ]
+          }
+        },
+        "id": "1283722369123487744",
+        "location": "山东省济南市",
+        "name": "錦依の柴郡（Cheshire）",
+        "pinned_tweet_id": "1704573364533346368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055340399171117056/p808wD-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 129,
+          "like_count": 1797,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 772
+        },
+        "url": "https://t.co/udNatdLt1c",
+        "username": "xiaoyimiao1314",
+        "verified": false
+      }
+    ]
+  }
+}

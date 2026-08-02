@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2075972794882428928"
+      ],
+      "media_source_tweet_id": [
+        "2075972856219906090"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2076611810439070101",
+    "created_at": "2026-07-13T10:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T11:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076611810439070101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1973729739555946496",
+          "start": 3,
+          "username": "br0k3nang3l_404"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1shqLV0KJK",
+          "end": 58,
+          "expanded_url": "https://x.com/br0k3nang3l_404/status/2075972856219906090/video/1",
+          "media_key": "13_2075972794882428928",
+          "start": 35,
+          "url": "https://t.co/1shqLV0KJK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076611810439070101",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1595
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075972856219906090",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @br0k3nang3l_404: how i feel rn https://t.co/1shqLV0KJK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17025,
+        "height": 372,
+        "media_key": "13_2075972794882428928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075972794882428928/img/-TL7dFJT0gB6fLOF.jpg",
+        "public_metrics": {
+          "view_count": 29681
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075972794882428928/vid/avc1/418x270/2w3xS518Z-w2pNR6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075972794882428928/vid/avc1/576x372/kCsv6djxc94g2miZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075972794882428928/pl/AIJPOKb-oBMSyCUd.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075972794882428928"
+          ],
+          "media_source_tweet_id": [
+            "2075972856219906090"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2076611810439070101",
+        "created_at": "2026-07-13T10:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076611810439070101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1973729739555946496",
+              "start": 3,
+              "username": "br0k3nang3l_404"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1shqLV0KJK",
+              "end": 58,
+              "expanded_url": "https://x.com/br0k3nang3l_404/status/2075972856219906090/video/1",
+              "media_key": "13_2075972794882428928",
+              "start": 35,
+              "url": "https://t.co/1shqLV0KJK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076611810439070101",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1595
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075972856219906090",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @br0k3nang3l_404: how i feel rn https://t.co/1shqLV0KJK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075972794882428928"
+          ]
+        },
+        "author_id": "1973729739555946496",
+        "conversation_id": "2075972856219906090",
+        "created_at": "2026-07-11T15:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075972856219906090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1shqLV0KJK",
+              "end": 37,
+              "expanded_url": "https://x.com/br0k3nang3l_404/status/2075972856219906090/video/1",
+              "media_key": "13_2075972794882428928",
+              "start": 14,
+              "url": "https://t.co/1shqLV0KJK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075972856219906090",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 779,
+          "impression_count": 64002,
+          "like_count": 5274,
+          "quote_count": 45,
+          "reply_count": 4,
+          "retweet_count": 1595
+        },
+        "reply_settings": "everyone",
+        "text": "how i feel rn https://t.co/1shqLV0KJK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073831418564849664/WAOIjmQ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 163,
+          "like_count": 696,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 711
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T12:40:25.000Z",
+        "description": "nana ౨ৎ˚⟡˖ 17 ౨ৎ˚⟡˖ diagnosed with bpd depression and schizo ౨ৎ˚⟡˖ lwky living my true self on this app :3 𓊆ྀི❤︎𓊇ྀི",
+        "id": "1973729739555946496",
+        "location": "bmi - 17.2.  wt - 52.3kg",
+        "name": "𝔫𝔞𝔫𝔞٠🔪ིྀ⭑",
+        "pinned_tweet_id": "2074630266321064302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035891901333897216/hGdgOCXu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 408,
+          "like_count": 2677,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 455
+        },
+        "url": "",
+        "username": "br0k3nang3l_404",
+        "verified": false
+      }
+    ]
+  }
+}

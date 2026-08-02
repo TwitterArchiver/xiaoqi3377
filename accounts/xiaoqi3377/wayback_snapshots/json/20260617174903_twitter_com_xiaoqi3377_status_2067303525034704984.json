@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067137278347210752"
+      ],
+      "media_source_tweet_id": [
+        "2067137285255258339"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2067303525034704984",
+    "created_at": "2026-06-17T17:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067303525034704984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1324943600929529857",
+          "start": 3,
+          "username": "chucaorenlei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A8cgrFPCoD",
+          "end": 41,
+          "expanded_url": "https://x.com/chucaorenlei/status/2067137285255258339/photo/1",
+          "media_key": "3_2067137278347210752",
+          "start": 18,
+          "url": "https://t.co/A8cgrFPCoD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067303525034704984",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067137285255258339",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chucaorenlei: https://t.co/A8cgrFPCoD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1097,
+        "media_key": "3_2067137278347210752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_yZwnacAAGkM6.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067137278347210752"
+          ],
+          "media_source_tweet_id": [
+            "2067137285255258339"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2067303525034704984",
+        "created_at": "2026-06-17T17:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067303525034704984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1324943600929529857",
+              "start": 3,
+              "username": "chucaorenlei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A8cgrFPCoD",
+              "end": 41,
+              "expanded_url": "https://x.com/chucaorenlei/status/2067137285255258339/photo/1",
+              "media_key": "3_2067137278347210752",
+              "start": 18,
+              "url": "https://t.co/A8cgrFPCoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067303525034704984",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067137285255258339",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chucaorenlei: https://t.co/A8cgrFPCoD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067137278347210752"
+          ]
+        },
+        "author_id": "1324943600929529857",
+        "conversation_id": "2067137285255258339",
+        "created_at": "2026-06-17T06:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067137285255258339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A8cgrFPCoD",
+              "end": 23,
+              "expanded_url": "https://x.com/chucaorenlei/status/2067137285255258339/photo/1",
+              "media_key": "3_2067137278347210752",
+              "start": 0,
+              "url": "https://t.co/A8cgrFPCoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067137285255258339",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2507,
+          "like_count": 129,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/A8cgrFPCoD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 165,
+          "like_count": 659,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 563
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-07T05:15:55.000Z",
+        "description": "重新自我介绍下吧💔爱哭脾气不好💔胆小💔强迫症💔喜欢自闭💔成绩差打游戏菜💔满口脏话💔矫情爱吃醋💔爱生气喜欢听歌💔睡觉吃东西缺乏安全感💔熬夜洁癖💔爱黏人话多不自信💔爱他脑子有病💔内向难以控制情绪💔 如果有天我变坏了💔善良也不在了💔就别把我往回拽了💔更别说你爱了💔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chucaorenlei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chucaorenlei",
+                "start": 0,
+                "url": "https://t.co/9MGsrQXWp4"
+              }
+            ]
+          }
+        },
+        "id": "1324943600929529857",
+        "location": "不会卖萌的不要跟我讲话 我看到冰冷的文字就聊不下去",
+        "name": "除草人类",
+        "pinned_tweet_id": "2005516941327524139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053175513053536260/JMOBufQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6104,
+          "following_count": 655,
+          "like_count": 1407,
+          "listed_count": 19,
+          "media_count": 192,
+          "tweet_count": 1614
+        },
+        "url": "https://t.co/9MGsrQXWp4",
+        "username": "chucaorenlei",
+        "verified": false
+      }
+    ]
+  }
+}

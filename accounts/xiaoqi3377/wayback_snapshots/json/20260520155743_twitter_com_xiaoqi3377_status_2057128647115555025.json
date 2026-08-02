@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2057128647115555025",
+    "created_at": "2026-05-20T15:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T16:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057128647115555025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoqi3377/sta…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/xiaoqi3377/status/2057128425564037225",
+          "start": 26,
+          "url": "https://t.co/dMB7bIKz4x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057128647115555025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057128425564037225",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "代价是我没法随便喝酒吃饭了。多喝一点多吃一点就会吐 https://t.co/dMB7bIKz4x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2057128647115555025",
+        "created_at": "2026-05-20T15:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057128647115555025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoqi3377/sta…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/xiaoqi3377/status/2057128425564037225",
+              "start": 26,
+              "url": "https://t.co/dMB7bIKz4x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057128647115555025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057128425564037225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "代价是我没法随便喝酒吃饭了。多喝一点多吃一点就会吐 https://t.co/dMB7bIKz4x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2057128425564037225",
+        "created_at": "2026-05-20T15:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057128425564037225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoqi3377/sta…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/xiaoqi3377/status/2057127932209070551",
+              "start": 80,
+              "url": "https://t.co/PN5090mczD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057128425564037225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057127932209070551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吐了一晚上整个人都虚脱了 根本没法上学 结果我爸妈灵机一动把我手机没收了。我崩溃之下拿切肉刀自杀威胁把手机要回来了。在家里昏睡了两天第三天就活蹦乱跳的去学校了 https://t.co/PN5090mczD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 209,
+          "like_count": 516,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 276
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

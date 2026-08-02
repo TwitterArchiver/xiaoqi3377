@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2064142932245098690",
+    "created_at": "2026-06-09T23:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T00:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064491483714195464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1862386446231121920",
+          "start": 0,
+          "username": "ht2997345372"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064491483714195464",
+    "in_reply_to_user_id": "1862386446231121920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064377841563914553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ht2997345372 可以可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2064142932245098690",
+        "created_at": "2026-06-09T23:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T00:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064491483714195464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1862386446231121920",
+              "start": 0,
+              "username": "ht2997345372"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064491483714195464",
+        "in_reply_to_user_id": "1862386446231121920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064377841563914553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ht2997345372 可以可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862386446231121920",
+        "conversation_id": "2064142932245098690",
+        "created_at": "2026-06-09T16:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064377841563914553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064377841563914553",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1007,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064142932245098690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 把Emil里面的7个爱心先屏蔽了能少一些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 165,
+          "like_count": 640,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 488
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T06:42:00.000Z",
+        "description": "……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E7%81%B0%E8%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E7%81%B0%E8%89%87",
+                "start": 0,
+                "url": "https://t.co/HNFUTgolOA"
+              }
+            ]
+          }
+        },
+        "id": "1862386446231121920",
+        "location": "China",
+        "name": "HFour",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052300017004883968/MeMU8dzy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 196,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/HNFUTgolOA",
+        "username": "ht2997345372",
+        "verified": true
+      }
+    ]
+  }
+}

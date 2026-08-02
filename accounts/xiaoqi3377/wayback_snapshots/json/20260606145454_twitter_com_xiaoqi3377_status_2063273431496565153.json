@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2063213116671017135",
+    "created_at": "2026-06-06T14:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063273431496565153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1940776901846720512",
+          "start": 0,
+          "username": "MsWordgs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063273431496565153",
+    "in_reply_to_user_id": "1940776901846720512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063273232195797388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MsWordgs 对。为了就是来这里发泄情绪 好的坏的 见得光见不得的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2063213116671017135",
+        "created_at": "2026-06-06T14:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063273431496565153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1940776901846720512",
+              "start": 0,
+              "username": "MsWordgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063273431496565153",
+        "in_reply_to_user_id": "1940776901846720512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063273232195797388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MsWordgs 对。为了就是来这里发泄情绪 好的坏的 见得光见不得的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940776901846720512",
+        "conversation_id": "2063213116671017135",
+        "created_at": "2026-06-06T14:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063273232195797388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063273232195797388",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063213116671017135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 这里很适合宣泄一下自己的情绪呢，摸摸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 165,
+          "like_count": 618,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 417
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T14:17:38.000Z",
+        "description": "话唠，社恐，自我为中心，缺爱，好奇心，长不大的小孩，温柔",
+        "id": "1940776901846720512",
+        "name": "光太",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057108584228630528/G6THikrF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 79,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 485
+        },
+        "username": "MsWordgs",
+        "verified": false
+      }
+    ]
+  }
+}

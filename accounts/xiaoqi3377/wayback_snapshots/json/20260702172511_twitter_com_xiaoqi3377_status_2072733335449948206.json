@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2072666732628779101",
+    "created_at": "2026-07-02T17:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T18:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072733335449948206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1456872541952229379",
+          "start": 0,
+          "username": "txqv3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072733335449948206",
+    "in_reply_to_user_id": "1456872541952229379",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072666732628779101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@txqv3 逆天"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1712,
+        "media_key": "3_2072666724164632578",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOXZ3ebAAIvHPR.jpg",
+        "width": 1432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2072666732628779101",
+        "created_at": "2026-07-02T17:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072733335449948206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1456872541952229379",
+              "start": 0,
+              "username": "txqv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072733335449948206",
+        "in_reply_to_user_id": "1456872541952229379",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072666732628779101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@txqv3 逆天"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072666724164632578"
+          ]
+        },
+        "author_id": "1456872541952229379",
+        "conversation_id": "2072666732628779101",
+        "created_at": "2026-07-02T13:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072666732628779101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A1zr1OLx5E",
+              "end": 110,
+              "expanded_url": "https://x.com/txqv3/status/2072666732628779101/photo/1",
+              "media_key": "3_2072666724164632578",
+              "start": 87,
+              "url": "https://t.co/A1zr1OLx5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072666732628779101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2276,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我想操这个性压抑宅女黑木智子，这骚货和我一样天天想着涩涩，我看直接上她的话，她简单就会同意了，这种死宅我可懂了，完全可以直接操的，反正她朋友估计就你一个，完全可以天天操到爽 https://t.co/A1zr1OLx5E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072015589296758784/wK2Ej_41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 162,
+          "like_count": 693,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 658
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-06T06:34:26.000Z",
+        "description": "",
+        "id": "1456872541952229379",
+        "location": "未知",
+        "name": "躲在被子里的梦梦",
+        "pinned_tweet_id": "2058423290138329200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975479370476363779/b9hRy7Qe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2329,
+          "following_count": 1288,
+          "like_count": 72579,
+          "listed_count": 7,
+          "media_count": 1669,
+          "tweet_count": 20678
+        },
+        "url": "",
+        "username": "txqv3",
+        "verified": true
+      }
+    ]
+  }
+}

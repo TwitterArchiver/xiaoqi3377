@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065089111653044225"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2065089128119894390",
+    "created_at": "2026-06-11T15:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065089128119894390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m8iE7L1EFx",
+          "end": 36,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2065089128119894390/photo/1",
+          "media_key": "3_2065089111653044225",
+          "start": 13,
+          "url": "https://t.co/m8iE7L1EFx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065089128119894390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别把我留在那个冬天可以吗 https://t.co/m8iE7L1EFx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2065089111653044225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKirmxGbUAEn5wG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065089111653044225"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2065089128119894390",
+        "created_at": "2026-06-11T15:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065089128119894390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m8iE7L1EFx",
+              "end": 36,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2065089128119894390/photo/1",
+              "media_key": "3_2065089111653044225",
+              "start": 13,
+              "url": "https://t.co/m8iE7L1EFx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065089128119894390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别把我留在那个冬天可以吗 https://t.co/m8iE7L1EFx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 163,
+          "like_count": 648,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 510
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

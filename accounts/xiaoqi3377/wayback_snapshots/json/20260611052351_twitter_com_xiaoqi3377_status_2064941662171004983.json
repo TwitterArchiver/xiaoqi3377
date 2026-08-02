@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064941649281900544"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2064941662171004983",
+    "created_at": "2026-06-11T05:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T06:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064941662171004983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h1gSP58qB2",
+          "end": 35,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2064941662171004983/photo/1",
+          "media_key": "3_2064941649281900544",
+          "start": 12,
+          "url": "https://t.co/h1gSP58qB2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064941662171004983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个很可爱 但是很难吃 https://t.co/h1gSP58qB2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064941649281900544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKglfU9bYAAaPmv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064941649281900544"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064941662171004983",
+        "created_at": "2026-06-11T05:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064941662171004983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h1gSP58qB2",
+              "end": 35,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2064941662171004983/photo/1",
+              "media_key": "3_2064941649281900544",
+              "start": 12,
+              "url": "https://t.co/h1gSP58qB2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064941662171004983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个很可爱 但是很难吃 https://t.co/h1gSP58qB2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 163,
+          "like_count": 645,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 503
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2067304188233830540",
+    "created_at": "2026-06-17T17:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067304188233830540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2027922685804552192",
+          "start": 3,
+          "username": "umiwasheree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067304188233830540",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5954
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066613725600129330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @umiwasheree: i need a hug or a gun"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2067304188233830540",
+        "created_at": "2026-06-17T17:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067304188233830540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2027922685804552192",
+              "start": 3,
+              "username": "umiwasheree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067304188233830540",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5954
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066613725600129330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @umiwasheree: i need a hug or a gun"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027922685804552192",
+        "conversation_id": "2066613725600129330",
+        "created_at": "2026-06-15T20:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T21:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066613725600129330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066613725600129330",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 595,
+          "impression_count": 308615,
+          "like_count": 12416,
+          "quote_count": 272,
+          "reply_count": 59,
+          "retweet_count": 5954
+        },
+        "reply_settings": "everyone",
+        "text": "i need a hug or a gun"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 165,
+          "like_count": 659,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 565
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T01:44:14.000Z",
+        "description": "20y | MDNI | yapper and nerd, who loves her cigarettes | banner by @zeliarine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "zeliarine"
+              }
+            ]
+          }
+        },
+        "id": "2027922685804552192",
+        "name": "umi",
+        "pinned_tweet_id": "2049528973176995893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049822671676768256/5YByOdLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 259,
+          "like_count": 16492,
+          "listed_count": 7,
+          "media_count": 112,
+          "tweet_count": 2853
+        },
+        "username": "umiwasheree",
+        "verified": false
+      }
+    ]
+  }
+}

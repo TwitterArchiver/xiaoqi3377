@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077597893465387009"
+      ],
+      "media_source_tweet_id": [
+        "2077597939879559553"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2078749415024791785",
+    "created_at": "2026-07-19T07:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T08:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078749415024791785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1716789138756939777",
+          "start": 3,
+          "username": "wyacole"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e6yzh0qeAh",
+          "end": 104,
+          "expanded_url": "https://x.com/wyacole/status/2077597939879559553/video/1",
+          "media_key": "13_2077597893465387009",
+          "start": 81,
+          "url": "https://t.co/e6yzh0qeAh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078749415024791785",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30038
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077597939879559553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wyacole: How it feels to have a gift for someone but you can't tell them yet https://t.co/e6yzh0qeAh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11771,
+        "height": 1244,
+        "media_key": "13_2077597893465387009",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077597893465387009/img/2hsPIYkRVt76KTPl.jpg",
+        "public_metrics": {
+          "view_count": 1291613
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077597893465387009/vid/avc1/278x270/f2GYMHRfDNPAhx00.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077597893465387009/vid/avc1/372x360/GHSQHA-U-zg1lD32.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077597893465387009/vid/avc1/1290x1244/cmTpgjo1XE5qwrFA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077597893465387009/pl/0TGz65BBs-S9wxs0.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077597893465387009/vid/avc1/746x720/xBJQVdSJlgOpoerw.mp4"
+          }
+        ],
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077597893465387009"
+          ]
+        },
+        "author_id": "1716789138756939777",
+        "conversation_id": "2077597939879559553",
+        "created_at": "2026-07-16T03:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077597939879559553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e6yzh0qeAh",
+              "end": 91,
+              "expanded_url": "https://x.com/wyacole/status/2077597939879559553/video/1",
+              "media_key": "13_2077597893465387009",
+              "start": 68,
+              "url": "https://t.co/e6yzh0qeAh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077597939879559553",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10791,
+          "impression_count": 3788026,
+          "like_count": 203500,
+          "quote_count": 1550,
+          "reply_count": 255,
+          "retweet_count": 30038
+        },
+        "reply_settings": "everyone",
+        "text": "How it feels to have a gift for someone but you can't tell them yet https://t.co/e6yzh0qeAh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077597893465387009"
+          ],
+          "media_source_tweet_id": [
+            "2077597939879559553"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2078749415024791785",
+        "created_at": "2026-07-19T07:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078749415024791785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1716789138756939777",
+              "start": 3,
+              "username": "wyacole"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e6yzh0qeAh",
+              "end": 104,
+              "expanded_url": "https://x.com/wyacole/status/2077597939879559553/video/1",
+              "media_key": "13_2077597893465387009",
+              "start": 81,
+              "url": "https://t.co/e6yzh0qeAh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078749415024791785",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30038
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077597939879559553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wyacole: How it feels to have a gift for someone but you can't tell them yet https://t.co/e6yzh0qeAh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 167,
+          "like_count": 720,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 734
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-24T12:10:11.000Z",
+        "description": "music   sports  memes",
+        "id": "1716789138756939777",
+        "name": "cole",
+        "pinned_tweet_id": "2077597939879559553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074016851810725888/tzTnoeGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 2112,
+          "like_count": 33725,
+          "listed_count": 9,
+          "media_count": 995,
+          "tweet_count": 1468
+        },
+        "url": "",
+        "username": "wyacole",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071569937324494849"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2071569949475402047",
+    "created_at": "2026-06-29T12:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T13:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071569949475402047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pagqBlaRaO",
+          "end": 23,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2071569949475402047/photo/1",
+          "media_key": "3_2071569937324494849",
+          "start": 0,
+          "url": "https://t.co/pagqBlaRaO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071569949475402047",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/pagqBlaRaO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071569937324494849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-x4eGa0AENkfq.jpg",
+        "width": 1544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071569937324494849"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2071569949475402047",
+        "created_at": "2026-06-29T12:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071569949475402047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pagqBlaRaO",
+              "end": 23,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2071569949475402047/photo/1",
+              "media_key": "3_2071569937324494849",
+              "start": 0,
+              "url": "https://t.co/pagqBlaRaO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071569949475402047",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pagqBlaRaO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 162,
+          "like_count": 681,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 647
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

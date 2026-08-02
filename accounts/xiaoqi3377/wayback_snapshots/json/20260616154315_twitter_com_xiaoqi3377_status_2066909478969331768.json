@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2066909478969331768",
+    "created_at": "2026-06-16T15:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066909478969331768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rwayne/status/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/rwayne/status/2066727968165204433",
+          "start": 19,
+          "url": "https://t.co/9peOXlm6P0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066909478969331768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066727968165204433",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你他妈上没上过大学。这他妈是大学教材 https://t.co/9peOXlm6P0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 160,
+        "media_key": "3_2066682678859190272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5U8lja0AAtP9r.png",
+        "width": 690
+      },
+      {
+        "height": 920,
+        "media_key": "3_2066682692171878400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5U9XJaUAA5QNS.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2066909478969331768",
+        "created_at": "2026-06-16T15:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066909478969331768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rwayne/status/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/rwayne/status/2066727968165204433",
+              "start": 19,
+              "url": "https://t.co/9peOXlm6P0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066909478969331768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066727968165204433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你他妈上没上过大学。这他妈是大学教材 https://t.co/9peOXlm6P0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066682678859190272",
+            "3_2066682692171878400"
+          ]
+        },
+        "author_id": "1664742004423794688",
+        "conversation_id": "2066727968165204433",
+        "created_at": "2026-06-16T03:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066727968165204433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BpOgmIAJAJ",
+              "end": 40,
+              "expanded_url": "https://x.com/rwayne/status/2066727968165204433/photo/1",
+              "media_key": "3_2066682678859190272",
+              "start": 17,
+              "url": "https://t.co/BpOgmIAJAJ"
+            },
+            {
+              "display_url": "pic.x.com/BpOgmIAJAJ",
+              "end": 40,
+              "expanded_url": "https://x.com/rwayne/status/2066727968165204433/photo/1",
+              "media_key": "3_2066682692171878400",
+              "start": 17,
+              "url": "https://t.co/BpOgmIAJAJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066727968165204433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 1373468,
+          "like_count": 501,
+          "quote_count": 6,
+          "reply_count": 433,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "女儿快高考了，在她书本上发现这些 https://t.co/BpOgmIAJAJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 166,
+          "like_count": 650,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 540
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "一切身份标签都是当下的自我逃避\n⭐ 订阅都是本人精华｜优先回复订阅者评论和私信👈",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2066159346090906044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51563,
+          "following_count": 765,
+          "like_count": 37170,
+          "listed_count": 268,
+          "media_count": 4436,
+          "tweet_count": 17951
+        },
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2078197010675708279",
+    "created_at": "2026-07-17T19:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T20:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078197010675708279"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miao_otvto_/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/miao_otvto_/status/2077680123671908513",
+          "start": 12,
+          "url": "https://t.co/iQOEFWiPi4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078197010675708279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077680123671908513",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你以为性欲就被解决了吗 https://t.co/iQOEFWiPi4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2078197010675708279",
+        "created_at": "2026-07-17T19:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078197010675708279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miao_otvto_/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/miao_otvto_/status/2077680123671908513",
+              "start": 12,
+              "url": "https://t.co/iQOEFWiPi4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078197010675708279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077680123671908513",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你以为性欲就被解决了吗 https://t.co/iQOEFWiPi4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841741161884504064",
+        "conversation_id": "2077680123671908513",
+        "created_at": "2026-07-16T09:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077680123671908513"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077680123671908513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 96191,
+          "like_count": 901,
+          "quote_count": 18,
+          "reply_count": 254,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "性欲很好解决 爱欲怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 166,
+          "like_count": 716,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 729
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T07:24:54.000Z",
+        "description": "这个世界好坏",
+        "id": "1841741161884504064",
+        "name": "泪池",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068708904092278784/EEF_HCqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13807,
+          "following_count": 92,
+          "like_count": 15660,
+          "listed_count": 24,
+          "media_count": 574,
+          "tweet_count": 9712
+        },
+        "url": "",
+        "username": "Miao_oTvTo_",
+        "verified": false
+      }
+    ]
+  }
+}

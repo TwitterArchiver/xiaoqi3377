@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068714003900342272"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2068714017242447938",
+    "created_at": "2026-06-21T15:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068714017242447938"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hpSjpwZJSw",
+          "end": 33,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2068714017242447938/photo/1",
+          "media_key": "3_2068714003900342272",
+          "start": 10,
+          "url": "https://t.co/hpSjpwZJSw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068714017242447938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想你 轻轻的亲亲我 https://t.co/hpSjpwZJSw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068714003900342272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWMbRBbIAAQYhA.jpg",
+        "width": 1423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068714003900342272"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2068714017242447938",
+        "created_at": "2026-06-21T15:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068714017242447938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hpSjpwZJSw",
+              "end": 33,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2068714017242447938/photo/1",
+              "media_key": "3_2068714003900342272",
+              "start": 10,
+              "url": "https://t.co/hpSjpwZJSw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068714017242447938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想你 轻轻的亲亲我 https://t.co/hpSjpwZJSw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 164,
+          "like_count": 669,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 603
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

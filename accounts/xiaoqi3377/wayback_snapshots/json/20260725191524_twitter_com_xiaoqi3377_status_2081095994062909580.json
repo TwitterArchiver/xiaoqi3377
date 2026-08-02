@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080227959189999616"
+      ],
+      "media_source_tweet_id": [
+        "2080228282830925950"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2081095994062909580",
+    "created_at": "2026-07-25T19:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T20:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081095994062909580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1251156701266337793",
+          "start": 3,
+          "username": "purplenipple4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uIYo7Y19E5",
+          "end": 51,
+          "expanded_url": "https://x.com/purplenipple4/status/2080228282830925950/photo/1",
+          "media_key": "3_2080227959189999616",
+          "start": 28,
+          "url": "https://t.co/uIYo7Y19E5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081095994062909580",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 191
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080228282830925950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @purplenipple4: rainless https://t.co/uIYo7Y19E5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2080227959189999616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN50Tq9bEAA-SkY.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080227959189999616"
+          ]
+        },
+        "author_id": "1251156701266337793",
+        "conversation_id": "2080228282830925950",
+        "created_at": "2026-07-23T09:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080228282830925950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uIYo7Y19E5",
+              "end": 32,
+              "expanded_url": "https://x.com/purplenipple4/status/2080228282830925950/photo/1",
+              "media_key": "3_2080227959189999616",
+              "start": 9,
+              "url": "https://t.co/uIYo7Y19E5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080228282830925950",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 252,
+          "impression_count": 17541,
+          "like_count": 1788,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 191
+        },
+        "reply_settings": "everyone",
+        "text": "rainless https://t.co/uIYo7Y19E5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080227959189999616"
+          ],
+          "media_source_tweet_id": [
+            "2080228282830925950"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2081095994062909580",
+        "created_at": "2026-07-25T19:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T20:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081095994062909580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1251156701266337793",
+              "start": 3,
+              "username": "purplenipple4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uIYo7Y19E5",
+              "end": 51,
+              "expanded_url": "https://x.com/purplenipple4/status/2080228282830925950/photo/1",
+              "media_key": "3_2080227959189999616",
+              "start": 28,
+              "url": "https://t.co/uIYo7Y19E5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081095994062909580",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 191
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080228282830925950",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @purplenipple4: rainless https://t.co/uIYo7Y19E5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2079485954696561008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 174,
+          "like_count": 749,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 782
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-17T14:38:38.000Z",
+        "description": "████████▓▒░  ∘  ░▒▓████████\n███████▓▒░  {零} ░▒▓███████\n█████▓▒░ THIS SPACE ░▒▓████\n███▓▒░  INTENTIONALLY ░▒▓███\n████▓▒░   LEFT BLANK  ░▒▓████",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "diu9you.straw.page",
+                "end": 23,
+                "expanded_url": "https://diu9you.straw.page",
+                "start": 0,
+                "url": "https://t.co/XBGHp0eXNb"
+              }
+            ]
+          }
+        },
+        "id": "1251156701266337793",
+        "location": "Secret Garden ",
+        "name": "diu9you ◕ _ ◕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080416767017644032/3wortKHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8800,
+          "following_count": 476,
+          "like_count": 9175,
+          "listed_count": 30,
+          "media_count": 194,
+          "tweet_count": 590
+        },
+        "url": "https://t.co/XBGHp0eXNb",
+        "username": "purplenipple4",
+        "verified": false
+      }
+    ]
+  }
+}

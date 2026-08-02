@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2063637271681896893",
+    "created_at": "2026-06-07T15:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T16:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063637271681896893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592935810785226752",
+          "start": 3,
+          "username": "mii_U_U3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063637271681896893",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063443009560338940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mii_U_U3: 同棲したら毎日えっちしそう"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2063637271681896893",
+        "created_at": "2026-06-07T15:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063637271681896893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592935810785226752",
+              "start": 3,
+              "username": "mii_U_U3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063637271681896893",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063443009560338940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mii_U_U3: 同棲したら毎日えっちしそう"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592935810785226752",
+        "conversation_id": "2063443009560338940",
+        "created_at": "2026-06-07T02:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063443009560338940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063443009560338940",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 174,
+          "impression_count": 1050867,
+          "like_count": 2926,
+          "quote_count": 46,
+          "reply_count": 54,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "同棲したら毎日えっちしそう"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 167,
+          "like_count": 631,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 457
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T17:41:20.000Z",
+        "description": "^- ·̫ -^⟡.·┊︎浮上≠返信➰",
+        "id": "1592935810785226752",
+        "location": "ねこになりたい",
+        "name": "にーな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865374193547919360/CktxnoxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 45,
+          "like_count": 291,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 160
+        },
+        "username": "mii_U_U3",
+        "verified": false
+      }
+    ]
+  }
+}

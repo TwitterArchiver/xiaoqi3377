@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2073482000330269014",
+    "created_at": "2026-07-04T19:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T20:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073482000330269014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567668955661144064",
+          "start": 3,
+          "username": "jxtsummer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073482000330269014",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12878
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073151640236892352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jxtsummer: you gotta learn to heal without venting to everyone"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2073482000330269014",
+        "created_at": "2026-07-04T19:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073482000330269014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567668955661144064",
+              "start": 3,
+              "username": "jxtsummer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073482000330269014",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12878
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073151640236892352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jxtsummer: you gotta learn to heal without venting to everyone"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567668955661144064",
+        "conversation_id": "2073151640236892352",
+        "created_at": "2026-07-03T21:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T22:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073151640236892352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073151640236892352",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3339,
+          "impression_count": 915911,
+          "like_count": 50556,
+          "quote_count": 1632,
+          "reply_count": 296,
+          "retweet_count": 12878
+        },
+        "reply_settings": "everyone",
+        "text": "you gotta learn to heal without venting to everyone"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072015589296758784/wK2Ej_41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 162,
+          "like_count": 692,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 674
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T00:19:53.000Z",
+        "description": "ɹǝsɐɥɔ ɯɐǝɹp || 𝚍𝚖 𝚏𝚘𝚛 𝚊𝚍𝚜 𝚊𝚗𝚍 𝚙𝚛📩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/jxtsummer_?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/jxtsummer_?igsh=MWZkMDNoMHpoNGdhYQ==",
+                "start": 0,
+                "url": "https://t.co/62rc7asXlE"
+              }
+            ]
+          }
+        },
+        "id": "1567668955661144064",
+        "name": "$",
+        "pinned_tweet_id": "2046214707464249396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019237494219329536/eOvPb-5N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7807,
+          "following_count": 531,
+          "like_count": 8158,
+          "listed_count": 10,
+          "media_count": 392,
+          "tweet_count": 6727
+        },
+        "url": "https://t.co/62rc7asXlE",
+        "username": "jxtsummer",
+        "verified": false
+      }
+    ]
+  }
+}

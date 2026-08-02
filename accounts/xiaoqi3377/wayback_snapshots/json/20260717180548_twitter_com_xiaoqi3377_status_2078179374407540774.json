@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078063585255981056",
+        "3_2078063585268477952"
+      ],
+      "media_source_tweet_id": [
+        "2078064158764081465",
+        "2078064158764081465"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10043651948",
+          "name": "Re:ゼロから始める異世界体験"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1229696070654889984",
+          "name": "Re:ゼロから始める異世界生活"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1296957403020189698",
+          "name": "Re:Zero − Starting Life in Another World"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296957403020189698",
+          "name": "Re:Zero − Starting Life in Another World"
+        }
+      }
+    ],
+    "conversation_id": "2078179374407540774",
+    "created_at": "2026-07-17T18:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T19:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078179374407540774"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 43,
+          "tag": "rezero"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "885164202121232386",
+          "start": 3,
+          "username": "happyfrogpopo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VSY7U1AtfT",
+          "end": 74,
+          "expanded_url": "https://x.com/happyfrogpopo/status/2078064158764081465/photo/1",
+          "media_key": "3_2078063585255981056",
+          "start": 51,
+          "url": "https://t.co/VSY7U1AtfT"
+        },
+        {
+          "display_url": "pic.x.com/VSY7U1AtfT",
+          "end": 74,
+          "expanded_url": "https://x.com/happyfrogpopo/status/2078064158764081465/photo/1",
+          "media_key": "3_2078063585268477952",
+          "start": 51,
+          "url": "https://t.co/VSY7U1AtfT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078179374407540774",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1191
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078064158764081465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @happyfrogpopo: ᴏʙsᴇssɪᴏɴ  \n\nスバエミ  强欲if #rezero https://t.co/VSY7U1AtfT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2078063585255981056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbD0hvbgAA4PVx.jpg",
+        "width": 3342
+      },
+      {
+        "height": 2508,
+        "media_key": "3_2078063585268477952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbD0hyaMAA5-z8.jpg",
+        "width": 4093
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078063585255981056",
+            "3_2078063585268477952"
+          ]
+        },
+        "author_id": "885164202121232386",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043651948",
+              "name": "Re:ゼロから始める異世界体験"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1229696070654889984",
+              "name": "Re:ゼロから始める異世界生活"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          }
+        ],
+        "conversation_id": "2078064158764081465",
+        "created_at": "2026-07-17T10:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078064158764081465"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "rezero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VSY7U1AtfT",
+              "end": 55,
+              "expanded_url": "https://x.com/happyfrogpopo/status/2078064158764081465/photo/1",
+              "media_key": "3_2078063585255981056",
+              "start": 32,
+              "url": "https://t.co/VSY7U1AtfT"
+            },
+            {
+              "display_url": "pic.x.com/VSY7U1AtfT",
+              "end": 55,
+              "expanded_url": "https://x.com/happyfrogpopo/status/2078064158764081465/photo/1",
+              "media_key": "3_2078063585268477952",
+              "start": 32,
+              "url": "https://t.co/VSY7U1AtfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078064158764081465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2397,
+          "impression_count": 613680,
+          "like_count": 12764,
+          "quote_count": 63,
+          "reply_count": 22,
+          "retweet_count": 1191
+        },
+        "reply_settings": "everyone",
+        "text": "ᴏʙsᴇssɪᴏɴ  \n\nスバエミ  强欲if #rezero https://t.co/VSY7U1AtfT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078063585255981056",
+            "3_2078063585268477952"
+          ],
+          "media_source_tweet_id": [
+            "2078064158764081465",
+            "2078064158764081465"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043651948",
+              "name": "Re:ゼロから始める異世界体験"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1229696070654889984",
+              "name": "Re:ゼロから始める異世界生活"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          }
+        ],
+        "conversation_id": "2078179374407540774",
+        "created_at": "2026-07-17T18:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078179374407540774"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 43,
+              "tag": "rezero"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "885164202121232386",
+              "start": 3,
+              "username": "happyfrogpopo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VSY7U1AtfT",
+              "end": 74,
+              "expanded_url": "https://x.com/happyfrogpopo/status/2078064158764081465/photo/1",
+              "media_key": "3_2078063585255981056",
+              "start": 51,
+              "url": "https://t.co/VSY7U1AtfT"
+            },
+            {
+              "display_url": "pic.x.com/VSY7U1AtfT",
+              "end": 74,
+              "expanded_url": "https://x.com/happyfrogpopo/status/2078064158764081465/photo/1",
+              "media_key": "3_2078063585268477952",
+              "start": 51,
+              "url": "https://t.co/VSY7U1AtfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078179374407540774",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1191
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078064158764081465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @happyfrogpopo: ᴏʙsᴇssɪᴏɴ  \n\nスバエミ  强欲if #rezero https://t.co/VSY7U1AtfT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 166,
+          "like_count": 713,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 726
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-12T15:49:26.000Z",
+        "description": "🇨🇳/20↑ 一只快乐的小青蛙🐸我支持所有爱",
+        "id": "885164202121232386",
+        "name": "帕金森坡",
+        "pinned_tweet_id": "1919937889879675373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068361685157765120/XDbQxi9j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 926,
+          "like_count": 4336,
+          "listed_count": 13,
+          "media_count": 170,
+          "tweet_count": 665
+        },
+        "url": "",
+        "username": "happyfrogpopo",
+        "verified": false
+      }
+    ]
+  }
+}

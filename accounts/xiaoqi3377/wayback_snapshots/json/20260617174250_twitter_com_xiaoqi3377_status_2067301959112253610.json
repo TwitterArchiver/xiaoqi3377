@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2067301959112253610",
+    "created_at": "2026-06-17T17:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067301959112253610"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/4nwcdskgf8/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/4nwcdskgf8/status/2066991501184516556",
+          "start": 9,
+          "url": "https://t.co/C0Qr7uiVyC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067301959112253610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066991501184516556",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这期有点回避型了 https://t.co/C0Qr7uiVyC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2066991490677833728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9tzzObgAAvSF6.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2067301959112253610",
+        "created_at": "2026-06-17T17:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067301959112253610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4nwcdskgf8/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/4nwcdskgf8/status/2066991501184516556",
+              "start": 9,
+              "url": "https://t.co/C0Qr7uiVyC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067301959112253610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066991501184516556",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这期有点回避型了 https://t.co/C0Qr7uiVyC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066991490677833728"
+          ]
+        },
+        "author_id": "1448886587895386113",
+        "conversation_id": "2066991501184516556",
+        "created_at": "2026-06-16T21:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T22:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066991501184516556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrzH5Cw90J",
+              "end": 35,
+              "expanded_url": "https://x.com/4nwcdskgf8/status/2066991501184516556/photo/1",
+              "media_key": "3_2066991490677833728",
+              "start": 12,
+              "url": "https://t.co/jrzH5Cw90J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066991501184516556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 16533,
+          "like_count": 662,
+          "quote_count": 7,
+          "reply_count": 20,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "占有欲会不会有点太小了 https://t.co/jrzH5Cw90J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 165,
+          "like_count": 658,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 561
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-15T05:41:08.000Z",
+        "description": "直男",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.tz86.vip/#/register?code=QerTWt6d",
+                "start": 0,
+                "url": "https://t.co/1oWYH3LFCz"
+              }
+            ]
+          }
+        },
+        "id": "1448886587895386113",
+        "location": "29元包年千G vpn👉",
+        "name": "忧郁的神",
+        "pinned_tweet_id": "2044102457308160333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992792344286908416/yWgtzLD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3152,
+          "following_count": 15,
+          "like_count": 3571,
+          "listed_count": 3,
+          "media_count": 41,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/1oWYH3LFCz",
+        "username": "4nwcdskgf8",
+        "verified": false
+      }
+    ]
+  }
+}

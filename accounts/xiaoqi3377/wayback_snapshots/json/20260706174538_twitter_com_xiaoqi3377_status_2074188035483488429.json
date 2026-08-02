@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073990302306631680"
+      ],
+      "media_source_tweet_id": [
+        "2073990315388629436"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2074188035483488429",
+    "created_at": "2026-07-06T17:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074188035483488429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1873628527955681280",
+          "start": 3,
+          "username": "pupitart"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sD5W87xAqR",
+          "end": 37,
+          "expanded_url": "https://x.com/pupitart/status/2073990315388629436/photo/1",
+          "media_key": "3_2073990302306631680",
+          "start": 14,
+          "url": "https://t.co/sD5W87xAqR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074188035483488429",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 309
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073990315388629436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pupitart: https://t.co/sD5W87xAqR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1020,
+        "media_key": "3_2073990302306631680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhLMQSXgAA85NJ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073990302306631680"
+          ],
+          "media_source_tweet_id": [
+            "2073990315388629436"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2074188035483488429",
+        "created_at": "2026-07-06T17:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074188035483488429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1873628527955681280",
+              "start": 3,
+              "username": "pupitart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sD5W87xAqR",
+              "end": 37,
+              "expanded_url": "https://x.com/pupitart/status/2073990315388629436/photo/1",
+              "media_key": "3_2073990302306631680",
+              "start": 14,
+              "url": "https://t.co/sD5W87xAqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074188035483488429",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 309
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073990315388629436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pupitart: https://t.co/sD5W87xAqR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073990302306631680"
+          ]
+        },
+        "author_id": "1873628527955681280",
+        "conversation_id": "2073990315388629436",
+        "created_at": "2026-07-06T04:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073990315388629436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sD5W87xAqR",
+              "end": 23,
+              "expanded_url": "https://x.com/pupitart/status/2073990315388629436/photo/1",
+              "media_key": "3_2073990302306631680",
+              "start": 0,
+              "url": "https://t.co/sD5W87xAqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073990315388629436",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 14053,
+          "like_count": 1390,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 309
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sD5W87xAqR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073831418564849664/WAOIjmQ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 163,
+          "like_count": 695,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 693
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T07:14:18.000Z",
+        "description": "",
+        "id": "1873628527955681280",
+        "name": "mwa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073281482102108160/_igAj1s6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 16,
+          "like_count": 1011,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "pupitart",
+        "verified": false
+      }
+    ]
+  }
+}

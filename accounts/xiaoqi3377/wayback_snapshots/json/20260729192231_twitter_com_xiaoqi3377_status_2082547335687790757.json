@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082547303811035136"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2082547335687790757",
+    "created_at": "2026-07-29T19:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T20:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082547335687790757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rjFvRZ9b5r",
+          "end": 25,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2082547335687790757/photo/1",
+          "media_key": "3_2082547303811035136",
+          "start": 2,
+          "url": "https://t.co/rjFvRZ9b5r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082547335687790757",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "葵 https://t.co/rjFvRZ9b5r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082547303811035136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaxvS-asAAy8Lo.jpg",
+        "width": 1423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082547303811035136"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2082547335687790757",
+        "created_at": "2026-07-29T19:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T20:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082547335687790757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rjFvRZ9b5r",
+              "end": 25,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2082547335687790757/photo/1",
+              "media_key": "3_2082547303811035136",
+              "start": 2,
+              "url": "https://t.co/rjFvRZ9b5r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082547335687790757",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "葵 https://t.co/rjFvRZ9b5r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2079485954696561008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 173,
+          "like_count": 755,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 801
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

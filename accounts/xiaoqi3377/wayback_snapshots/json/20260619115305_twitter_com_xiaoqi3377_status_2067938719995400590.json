@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2067684700232286253",
+    "created_at": "2026-06-19T11:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067938719995400590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1717498603265253376",
+          "start": 0,
+          "username": "Juyl946793"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067938719995400590",
+    "in_reply_to_user_id": "1717498603265253376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067903666041086104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Juyl946793 并不算吧。我觉得一个人只有在母亲肚子里时才是真正意义上的两个人。生下来那一刻和母亲分离开始。我就一直是一个人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2067684700232286253",
+        "created_at": "2026-06-19T11:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067938719995400590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1717498603265253376",
+              "start": 0,
+              "username": "Juyl946793"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067938719995400590",
+        "in_reply_to_user_id": "1717498603265253376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067903666041086104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Juyl946793 并不算吧。我觉得一个人只有在母亲肚子里时才是真正意义上的两个人。生下来那一刻和母亲分离开始。我就一直是一个人了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717498603265253376",
+        "conversation_id": "2067684700232286253",
+        "created_at": "2026-06-19T09:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067903666041086104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067903666041086104",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067903367041737180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 孤独的狼来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 164,
+          "like_count": 662,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 581
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T11:09:23.000Z",
+        "description": "看啥呢",
+        "id": "1717498603265253376",
+        "name": "July",
+        "pinned_tweet_id": "1935667928810049782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937893610298486784/vEcRuU6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 149,
+          "like_count": 312,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1427
+        },
+        "url": "",
+        "username": "Juyl946793",
+        "verified": false
+      }
+    ]
+  }
+}

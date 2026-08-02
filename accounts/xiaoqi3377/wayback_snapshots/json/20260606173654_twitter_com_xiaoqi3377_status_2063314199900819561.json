@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2063213116671017135",
+    "created_at": "2026-06-06T17:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063314199900819561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1928858487901270018",
+          "start": 0,
+          "username": "HuaiYvXia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063314199900819561",
+    "in_reply_to_user_id": "1928858487901270018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063313844043411930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuaiYvXia 对 必须刻薄 必须斤斤计较"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2063213116671017135",
+        "created_at": "2026-06-06T17:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063314199900819561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1928858487901270018",
+              "start": 0,
+              "username": "HuaiYvXia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063314199900819561",
+        "in_reply_to_user_id": "1928858487901270018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063313844043411930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuaiYvXia 对 必须刻薄 必须斤斤计较"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928858487901270018",
+        "conversation_id": "2063213116671017135",
+        "created_at": "2026-06-06T17:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063313844043411930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063313844043411930",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063213116671017135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 我都在外网了，还要保持友善\n那我不是白翻墙了？\n必须狠狠的攻击别人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 165,
+          "like_count": 621,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 423
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T16:58:13.000Z",
+        "description": "希望能博您一笑",
+        "id": "1928858487901270018",
+        "location": "互联网",
+        "name": "紫菊花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058529423352381440/Yg5PJtXJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 221,
+          "like_count": 907,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 224
+        },
+        "username": "HuaiYvXia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2056781128498090392",
+    "created_at": "2026-05-19T16:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056781673401135471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2042728144298201088",
+          "start": 0,
+          "username": "FengLu56073"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056781673401135471",
+    "in_reply_to_user_id": "2042728144298201088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056781638881939723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FengLu56073 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2056781128498090392",
+        "created_at": "2026-05-19T16:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056781673401135471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2042728144298201088",
+              "start": 0,
+              "username": "FengLu56073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056781673401135471",
+        "in_reply_to_user_id": "2042728144298201088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056781638881939723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FengLu56073 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042728144298201088",
+        "conversation_id": "2056781128498090392",
+        "created_at": "2026-05-19T16:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056781638881939723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056781638881939723",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056781128498090392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 就是性癖而已，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 203,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 236
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T22:15:30.000Z",
+        "description": "",
+        "id": "2042728144298201088",
+        "name": "feng lu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056669373868441600/jS6xDnTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 97,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 131
+        },
+        "username": "FengLu56073",
+        "verified": false
+      }
+    ]
+  }
+}

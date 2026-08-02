@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2072605146450681856"
+      ],
+      "media_source_tweet_id": [
+        "2072605216822751380"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073480485582561409",
+    "created_at": "2026-07-04T18:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T19:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073480485582561409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2006046385477697536",
+          "start": 3,
+          "username": "sonogatos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/meaQ6N9R7o",
+          "end": 38,
+          "expanded_url": "https://x.com/defensaccortar/status/2072605216822751380/video/1",
+          "media_key": "13_2072605146450681856",
+          "start": 15,
+          "url": "https://t.co/meaQ6N9R7o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073480485582561409",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2939
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073073139051905340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sonogatos: https://t.co/meaQ6N9R7o"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24311,
+        "height": 720,
+        "media_key": "13_2072605146450681856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072605146450681856/img/uE28x75Z6pSA0DBN.jpg",
+        "public_metrics": {
+          "view_count": 135349
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072605146450681856/vid/avc1/360x270/0Gf2z2AzFD2Bh-qE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072605146450681856/vid/avc1/480x360/l1jEMWLRX4QhVwDt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072605146450681856/vid/avc1/960x720/OqKTZOkhusv0hxks.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072605146450681856/pl/4wSZmHOP04AGg0P9.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072605146450681856"
+          ],
+          "media_source_tweet_id": [
+            "2072605216822751380"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073480485582561409",
+        "created_at": "2026-07-04T18:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073480485582561409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2006046385477697536",
+              "start": 3,
+              "username": "sonogatos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/meaQ6N9R7o",
+              "end": 38,
+              "expanded_url": "https://x.com/defensaccortar/status/2072605216822751380/video/1",
+              "media_key": "13_2072605146450681856",
+              "start": 15,
+              "url": "https://t.co/meaQ6N9R7o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073480485582561409",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2939
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073073139051905340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sonogatos: https://t.co/meaQ6N9R7o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072605146450681856"
+          ],
+          "media_source_tweet_id": [
+            "2072605216822751380"
+          ]
+        },
+        "author_id": "2006046385477697536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073073139051905340",
+        "created_at": "2026-07-03T15:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073073139051905340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/meaQ6N9R7o",
+              "end": 23,
+              "expanded_url": "https://x.com/defensaccortar/status/2072605216822751380/video/1",
+              "media_key": "13_2072605146450681856",
+              "start": 0,
+              "url": "https://t.co/meaQ6N9R7o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073073139051905340",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1258,
+          "impression_count": 177224,
+          "like_count": 10279,
+          "quote_count": 317,
+          "reply_count": 28,
+          "retweet_count": 2939
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/meaQ6N9R7o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072015589296758784/wK2Ej_41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 162,
+          "like_count": 692,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 670
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-30T16:55:13.000Z",
+        "description": "falo em kaomojis",
+        "id": "2006046385477697536",
+        "name": "hina",
+        "pinned_tweet_id": "2070370965524029485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028952566546219012/k4JpQ0yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 173,
+          "like_count": 4190,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 742
+        },
+        "url": "",
+        "username": "sonogatos",
+        "verified": false
+      }
+    ]
+  }
+}

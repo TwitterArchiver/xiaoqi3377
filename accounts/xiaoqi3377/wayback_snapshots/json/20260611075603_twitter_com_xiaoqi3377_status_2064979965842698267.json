@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2064940633169748125",
+    "created_at": "2026-06-11T07:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064979965842698267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374681196412559360",
+          "start": 0,
+          "username": "KoiShi79538682"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064979965842698267",
+    "in_reply_to_user_id": "1374681196412559360",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064951964715434003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KoiShi79538682 😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2064940633169748125",
+        "created_at": "2026-06-11T07:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064979965842698267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374681196412559360",
+              "start": 0,
+              "username": "KoiShi79538682"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064979965842698267",
+        "in_reply_to_user_id": "1374681196412559360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064951964715434003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KoiShi79538682 😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374681196412559360",
+        "conversation_id": "2064940633169748125",
+        "created_at": "2026-06-11T06:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064951964715434003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064951964715434003",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064940633169748125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 163,
+          "like_count": 646,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 505
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-24T11:15:20.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/6bLyhH",
+                "end": 23,
+                "expanded_url": "https://b23.tv/6bLyhH",
+                "start": 0,
+                "url": "https://t.co/A1shlGqsSc"
+              }
+            ]
+          }
+        },
+        "id": "1374681196412559360",
+        "name": "超级沙包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762433524450373632/ej3YeGuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 885,
+          "like_count": 2370,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 2964
+        },
+        "url": "https://t.co/A1shlGqsSc",
+        "username": "KoiShi79538682",
+        "verified": false
+      }
+    ]
+  }
+}

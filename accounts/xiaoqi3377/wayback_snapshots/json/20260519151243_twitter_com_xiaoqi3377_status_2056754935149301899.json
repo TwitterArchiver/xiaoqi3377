@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2056659702994669690",
+    "created_at": "2026-05-19T15:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056754935149301899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1910999270142144512",
+          "start": 0,
+          "username": "ishD571168"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056754935149301899",
+    "in_reply_to_user_id": "1910999270142144512",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056736509823467818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ishD571168 😭😭😭😿😿💖💖💖💖💖💖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2056659702994669690",
+        "created_at": "2026-05-19T15:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056754935149301899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1910999270142144512",
+              "start": 0,
+              "username": "ishD571168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056754935149301899",
+        "in_reply_to_user_id": "1910999270142144512",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056736509823467818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ishD571168 😭😭😭😿😿💖💖💖💖💖💖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910999270142144512",
+        "conversation_id": "2056659702994669690",
+        "created_at": "2026-05-19T13:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056736509823467818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056736509823467818",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056659702994669690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 太萌了太牛逼了呀！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 200,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 210
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T10:12:06.000Z",
+        "description": "ENTP|10|170|49kg\n讨厌无聊\n无🚪，私信经常看，随缘回",
+        "id": "1910999270142144512",
+        "name": "侃诺",
+        "pinned_tweet_id": "2048784695744422148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055510638940798977/rvSULT0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 21,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 146
+        },
+        "username": "ishD571168",
+        "verified": false
+      }
+    ]
+  }
+}

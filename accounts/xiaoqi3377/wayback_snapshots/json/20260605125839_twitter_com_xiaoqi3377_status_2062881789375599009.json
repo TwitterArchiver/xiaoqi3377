@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2062879468872700335",
+    "created_at": "2026-06-05T12:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062881789375599009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1623400414279503872",
+          "start": 0,
+          "username": "chn971982291"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062881789375599009",
+    "in_reply_to_user_id": "1623400414279503872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062881531191013858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chn971982291 招募中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2062879468872700335",
+        "created_at": "2026-06-05T12:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062881789375599009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1623400414279503872",
+              "start": 0,
+              "username": "chn971982291"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062881789375599009",
+        "in_reply_to_user_id": "1623400414279503872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062881531191013858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chn971982291 招募中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623400414279503872",
+        "conversation_id": "2062879468872700335",
+        "created_at": "2026-06-05T12:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062881531191013858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062881531191013858",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062880982513176666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 有储备岗吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 160,
+          "like_count": 615,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 401
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-08T19:16:43.000Z",
+        "description": "仿生人会梦见电子羊吗",
+        "id": "1623400414279503872",
+        "name": "爱丽丝在哪？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825251407718674432/1vIYhT6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 28,
+          "like_count": 503,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 780
+        },
+        "username": "chn971982291",
+        "verified": false
+      }
+    ]
+  }
+}

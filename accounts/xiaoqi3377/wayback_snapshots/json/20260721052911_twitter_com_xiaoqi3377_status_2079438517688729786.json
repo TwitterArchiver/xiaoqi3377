@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2078990333476737345",
+    "created_at": "2026-07-21T05:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T06:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079438517688729786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1409546044124262405",
+          "start": 0,
+          "username": "fsj9806"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079438517688729786",
+    "in_reply_to_user_id": "1409546044124262405",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078990333476737345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fsj9806 老公你别死啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2078990325440557056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNoOr59bsAA3naQ.jpg",
+        "width": 1208
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2078990333476737345",
+        "created_at": "2026-07-21T05:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079438517688729786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1409546044124262405",
+              "start": 0,
+              "username": "fsj9806"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079438517688729786",
+        "in_reply_to_user_id": "1409546044124262405",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078990333476737345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fsj9806 老公你别死啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078990325440557056"
+          ]
+        },
+        "author_id": "1409546044124262405",
+        "conversation_id": "2078990333476737345",
+        "created_at": "2026-07-19T23:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078990333476737345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tmft7JudHP",
+              "end": 43,
+              "expanded_url": "https://x.com/fsj9806/status/2078990333476737345/photo/1",
+              "media_key": "3_2078990325440557056",
+              "start": 20,
+              "url": "https://t.co/tmft7JudHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078990333476737345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自杀一定会被查手机吗，没有避免的方法吗 https://t.co/tmft7JudHP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 171,
+          "like_count": 727,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 745
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T16:15:59.000Z",
+        "description": "",
+        "id": "1409546044124262405",
+        "name": "零方",
+        "pinned_tweet_id": "1830440397098926144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063965602163941377/MRjx13Jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 817,
+          "like_count": 3053,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 200
+        },
+        "url": "",
+        "username": "fsj9806",
+        "verified": false
+      }
+    ]
+  }
+}

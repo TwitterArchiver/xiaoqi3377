@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2070930347794341922",
+    "created_at": "2026-06-27T18:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T19:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070930347794341922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1616050407612248064",
+          "start": 3,
+          "username": "__nana_forever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070930347794341922",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070851826056904774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__nana_forever: ふと思い出す、あなたのこと。\n思い出の中のあなたは、いつも笑っていて優しい。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2070930347794341922",
+        "created_at": "2026-06-27T18:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070930347794341922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1616050407612248064",
+              "start": 3,
+              "username": "__nana_forever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070930347794341922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070851826056904774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__nana_forever: ふと思い出す、あなたのこと。\n思い出の中のあなたは、いつも笑っていて優しい。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616050407612248064",
+        "conversation_id": "2070851826056904774",
+        "created_at": "2026-06-27T12:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070851826056904774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070851826056904774",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2096,
+          "like_count": 106,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "ふと思い出す、あなたのこと。\n思い出の中のあなたは、いつも笑っていて優しい。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 163,
+          "like_count": 677,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 632
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-19T12:30:27.000Z",
+        "description": "忘れられない恋をした。",
+        "id": "1616050407612248064",
+        "name": "奈々",
+        "pinned_tweet_id": "1802274493550768358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620387336390598656/YQBCjoeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10650,
+          "following_count": 771,
+          "like_count": 4660,
+          "listed_count": 45,
+          "media_count": 18,
+          "tweet_count": 5154
+        },
+        "url": "",
+        "username": "__nana_forever",
+        "verified": false
+      }
+    ]
+  }
+}

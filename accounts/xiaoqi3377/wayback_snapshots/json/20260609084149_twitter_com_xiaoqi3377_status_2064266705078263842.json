@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2064246587417833603",
+    "created_at": "2026-06-09T08:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064266705078263842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1717498603265253376",
+          "start": 0,
+          "username": "Juyl946793"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064266705078263842",
+    "in_reply_to_user_id": "1717498603265253376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064252156979642554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Juyl946793 穷逼不是不要脸的理由🤣🤣🤣 是他们一直欺负我用我东西好不。谁没事闲的欺负穷人玩啊。搞笑吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2064246587417833603",
+        "created_at": "2026-06-09T08:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064266705078263842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1717498603265253376",
+              "start": 0,
+              "username": "Juyl946793"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064266705078263842",
+        "in_reply_to_user_id": "1717498603265253376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064252156979642554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Juyl946793 穷逼不是不要脸的理由🤣🤣🤣 是他们一直欺负我用我东西好不。谁没事闲的欺负穷人玩啊。搞笑吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717498603265253376",
+        "conversation_id": "2064246587417833603",
+        "created_at": "2026-06-09T07:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064252156979642554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064252156979642554",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064246587417833603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 不要欺负穷人！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 165,
+          "like_count": 639,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 479
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T11:09:23.000Z",
+        "description": "看啥呢",
+        "id": "1717498603265253376",
+        "name": "July",
+        "pinned_tweet_id": "1935667928810049782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937893610298486784/vEcRuU6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 149,
+          "like_count": 280,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1400
+        },
+        "username": "Juyl946793",
+        "verified": false
+      }
+    ]
+  }
+}

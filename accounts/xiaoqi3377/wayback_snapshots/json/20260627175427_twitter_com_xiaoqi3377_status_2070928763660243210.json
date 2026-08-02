@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2070928763660243210",
+    "created_at": "2026-06-27T17:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T18:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070928763660243210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1276148275175755776",
+          "start": 3,
+          "username": "Haokuno_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070928763660243210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069462787307532691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Haokuno_0: 原来是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2070928763660243210",
+        "created_at": "2026-06-27T17:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T18:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070928763660243210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1276148275175755776",
+              "start": 3,
+              "username": "Haokuno_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070928763660243210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069462787307532691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Haokuno_0: 原来是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276148275175755776",
+        "conversation_id": "2069462787307532691",
+        "created_at": "2026-06-23T16:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069462787307532691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7uaryfnrp21641…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/7uaryfnrp216413/status/2069094549780361548",
+              "start": 6,
+              "url": "https://t.co/F2rNQZMeWW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069462787307532691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069094549780361548",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来是这样 https://t.co/F2rNQZMeWW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 163,
+          "like_count": 677,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 630
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 97,
+          "like_count": 1113,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1262
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

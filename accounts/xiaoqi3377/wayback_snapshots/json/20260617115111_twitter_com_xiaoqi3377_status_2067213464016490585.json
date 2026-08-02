@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067213398857961472"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2067213464016490585",
+    "created_at": "2026-06-17T11:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067213464016490585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N70oWIxjWb",
+          "end": 23,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2067213464016490585/video/1",
+          "media_key": "13_2067213398857961472",
+          "start": 0,
+          "url": "https://t.co/N70oWIxjWb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067213464016490585",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/N70oWIxjWb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10266,
+        "height": 720,
+        "media_key": "13_2067213398857961472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067213398857961472/img/pLv2qUZ1cg2ssqGS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067213398857961472/vid/avc1/388x270/HQdkxvTR-ugYq1qO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067213398857961472/vid/avc1/518x360/jbaVnWCkxY43H73l.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067213398857961472/vid/avc1/1036x720/SLiIrSANtCoVKxwv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067213398857961472/pl/KaE2GhSLhj0v1o4k.m3u8"
+          }
+        ],
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067213398857961472"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2067213464016490585",
+        "created_at": "2026-06-17T11:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067213464016490585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N70oWIxjWb",
+              "end": 23,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2067213464016490585/video/1",
+              "media_key": "13_2067213398857961472",
+              "start": 0,
+              "url": "https://t.co/N70oWIxjWb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067213464016490585",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/N70oWIxjWb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 166,
+          "like_count": 654,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 554
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

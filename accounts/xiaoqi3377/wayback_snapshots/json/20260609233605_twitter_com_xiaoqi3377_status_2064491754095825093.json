@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2064204996682637599",
+    "created_at": "2026-06-09T23:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T00:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064491754095825093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2052866997155971072",
+          "start": 0,
+          "username": "FreeSerica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064491754095825093",
+    "in_reply_to_user_id": "2052866997155971072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064331981282746470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeSerica 爱豆。。。是同类呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2064204996682637599",
+        "created_at": "2026-06-09T23:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T00:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064491754095825093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2052866997155971072",
+              "start": 0,
+              "username": "FreeSerica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064491754095825093",
+        "in_reply_to_user_id": "2052866997155971072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064331981282746470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeSerica 爱豆。。。是同类呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052866997155971072",
+        "conversation_id": "2064204996682637599",
+        "created_at": "2026-06-09T13:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064331981282746470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064331981282746470",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064204996682637599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 前辈，请和我交往吧！🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 165,
+          "like_count": 642,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 490
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T21:44:13.000Z",
+        "description": "自由之精神，独立之人格！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/freeserica",
+                "end": 23,
+                "expanded_url": "https://ngl.link/freeserica",
+                "start": 0,
+                "url": "https://t.co/edjWvCL0oI"
+              }
+            ]
+          }
+        },
+        "id": "2052866997155971072",
+        "location": "Minato-ku, Tokyo",
+        "name": "𝒜𝓉𝒽ℯ𝓃𝒶 𝒯𝒽ℯ𝓂𝒾𝓈❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761398310400000/3gCQkDnn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 385,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 496
+        },
+        "url": "https://t.co/edjWvCL0oI",
+        "username": "FreeSerica",
+        "verified": true
+      }
+    ]
+  }
+}
