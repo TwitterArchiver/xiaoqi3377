@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090730543730262016"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2090730670322794618",
+    "created_at": "2026-08-21T09:20:10.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T10:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090730670322794618"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Y4uqa8fNl",
+          "end": 23,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2090730670322794618/video/1",
+          "media_key": "13_2090730543730262016",
+          "start": 0,
+          "url": "https://t.co/5Y4uqa8fNl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090730670322794618",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2090730543730262016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/5Y4uqa8fNl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11678,
+        "height": 1036,
+        "media_key": "13_2090730543730262016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090730543730262016/img/bz6lxY21krSJTjcs.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090730543730262016/vid/avc1/320x460/lsx45nIuLXXI4Zla.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090730543730262016/vid/avc1/480x690/IU1Qn_zV1wm1JXbS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090730543730262016/vid/avc1/720x1036/qept8Bxh3LzR0etZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090730543730262016/pl/iRFH4SOc9BS5_Uqb.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090730543730262016"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2090730670322794618",
+        "created_at": "2026-08-21T09:20:10.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090730670322794618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Y4uqa8fNl",
+              "end": 23,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2090730670322794618/video/1",
+              "media_key": "13_2090730543730262016",
+              "start": 0,
+              "url": "https://t.co/5Y4uqa8fNl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090730670322794618",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2090730543730262016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5Y4uqa8fNl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090730670322794618",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2087610859300479283",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720585683184857088/1783959391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 165,
+          "like_count": 772,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 849
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

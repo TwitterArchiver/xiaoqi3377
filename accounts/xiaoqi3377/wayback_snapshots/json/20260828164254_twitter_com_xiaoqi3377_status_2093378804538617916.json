@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2093288838030581760"
+      ],
+      "media_source_tweet_id": [
+        "2093288850349347322"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2093378804538617916",
+    "created_at": "2026-08-28T16:42:54.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T17:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093378804538617916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2091876734664945664",
+          "start": 3,
+          "username": "xdic9t"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lt03HtJQ1C",
+          "end": 48,
+          "expanded_url": "https://x.com/xdic9t/status/2093288850349347322/video/1",
+          "media_key": "13_2093288838030581760",
+          "start": 25,
+          "url": "https://t.co/Lt03HtJQ1C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093378804538617916",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2093288838030581760"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093288850349347322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xdic9t: 熊出没未删减画面胆小误入 https://t.co/Lt03HtJQ1C"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9518,
+        "height": 480,
+        "media_key": "13_2093288838030581760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093288838030581760/img/f1dAe7SwuEd8tLNY.jpg",
+        "public_metrics": {
+          "view_count": 47487
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093288838030581760/vid/avc1/320x320/9TYHKszr52CM9gAN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093288838030581760/vid/avc1/480x480/0hb7a6qLw8F6odAq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093288838030581760/pl/K4OneAd_k7CPU0II.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093288838030581760"
+          ],
+          "media_source_tweet_id": [
+            "2093288850349347322"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2093378804538617916",
+        "created_at": "2026-08-28T16:42:54.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T17:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093378804538617916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2091876734664945664",
+              "start": 3,
+              "username": "xdic9t"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lt03HtJQ1C",
+              "end": 48,
+              "expanded_url": "https://x.com/xdic9t/status/2093288850349347322/video/1",
+              "media_key": "13_2093288838030581760",
+              "start": 25,
+              "url": "https://t.co/Lt03HtJQ1C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093378804538617916",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2093288838030581760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093288850349347322",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xdic9t: 熊出没未删减画面胆小误入 https://t.co/Lt03HtJQ1C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093288838030581760"
+          ]
+        },
+        "author_id": "2091876734664945664",
+        "conversation_id": "2093288850349347322",
+        "created_at": "2026-08-28T10:45:28.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T11:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093288850349347322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lt03HtJQ1C",
+              "end": 36,
+              "expanded_url": "https://x.com/xdic9t/status/2093288850349347322/video/1",
+              "media_key": "13_2093288838030581760",
+              "start": 13,
+              "url": "https://t.co/Lt03HtJQ1C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093288850349347322",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2093288838030581760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 253,
+          "impression_count": 99972,
+          "like_count": 1162,
+          "quote_count": 4,
+          "reply_count": 216,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "熊出没未删减画面胆小误入 https://t.co/Lt03HtJQ1C"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093378804538617916",
+        "name": "第七滴眼淚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720585683184857088/1783959391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 163,
+          "like_count": 774,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 886
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-24T13:14:49.000Z",
+        "description": "不处",
+        "id": "2091876734664945664",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093376663052759237",
+        "name": "冷风",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091876734664945664/1787714625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092452482652008448/uIedz4I8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 7,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "xdic9t",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

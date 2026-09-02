@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2085682338768568713",
+    "created_at": "2026-08-07T10:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T11:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085682338768568713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2040606403690209280",
+          "start": 3,
+          "username": "__bnni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085682338768568713",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5036
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084836761788707239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__bnni: ⠀⠀ ⠀⠀  ⠀⠀  ⠀ ⠀⠀  ⠀⠀  ⠀ ⠀⠀  ⠀⠀  ⠀ ⠀⠀  ⠀⠀  ⠀⠀⠀ 𓈒⠀𝗂 𝗄𝗂𝗌𝗌𝖾𝖽 𝗍𝗁𝖾 𝗌𝖼𝖺𝗋𝗌 𝗈𝗇 𝗁𝖾𝗋 𝗌𝗄𝗂𝗇 ⑅\n\n  ⠀ ⠀  ⠀⠀  ⠀ ⠀⠀  ⠀⠀  ⠀ ⠀⠀  ⠀⠀  ⠀ ⠀⠀  ⠀⠀  ⠀ htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2084836751747530752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO7T-tKXQAAzNxf.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2085682338768568713",
+        "created_at": "2026-08-07T10:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085682338768568713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2040606403690209280",
+              "start": 3,
+              "username": "__bnni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085682338768568713",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5036
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084836761788707239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__bnni: ⠀⠀ ⠀⠀  ⠀⠀  ⠀ ⠀⠀  ⠀⠀  ⠀ ⠀⠀  ⠀⠀  ⠀ ⠀⠀  ⠀⠀  ⠀⠀⠀ 𓈒⠀𝗂 𝗄𝗂𝗌𝗌𝖾𝖽 𝗍𝗁𝖾 𝗌𝖼𝖺𝗋𝗌 𝗈𝗇 𝗁𝖾𝗋 𝗌𝗄𝗂𝗇 ⑅\n\n  ⠀ ⠀  ⠀⠀  ⠀ ⠀⠀  ⠀⠀  ⠀ ⠀⠀  ⠀⠀  ⠀ ⠀⠀  ⠀⠀  ⠀ htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084836751747530752"
+          ]
+        },
+        "author_id": "2040606403690209280",
+        "conversation_id": "2084836761788707239",
+        "created_at": "2026-08-05T02:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T03:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084836761788707239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E99Got5oDX",
+              "end": 147,
+              "expanded_url": "https://x.com/__bnni/status/2084836761788707239/photo/1",
+              "media_key": "3_2084836751747530752",
+              "start": 124,
+              "url": "https://t.co/E99Got5oDX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084836761788707239",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2341,
+          "impression_count": 277352,
+          "like_count": 22619,
+          "quote_count": 395,
+          "reply_count": 56,
+          "retweet_count": 5036
+        },
+        "reply_settings": "everyone",
+        "text": "⠀⠀ ⠀⠀  ⠀⠀  ⠀ ⠀⠀  ⠀⠀  ⠀ ⠀⠀  ⠀⠀  ⠀ ⠀⠀  ⠀⠀  ⠀⠀⠀ 𓈒⠀𝗂 𝗄𝗂𝗌𝗌𝖾𝖽 𝗍𝗁𝖾 𝗌𝖼𝖺𝗋𝗌 𝗈𝗇 𝗁𝖾𝗋 𝗌𝗄𝗂𝗇 ⑅\n\n  ⠀ ⠀  ⠀⠀  ⠀ ⠀⠀  ⠀⠀  ⠀ ⠀⠀  ⠀⠀  ⠀ ⠀⠀  ⠀⠀  ⠀ https://t.co/E99Got5oDX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2079485954696561008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 174,
+          "like_count": 764,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 815
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T01:45:25.000Z",
+        "description": "⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀ ⠀⠀ ⠀ ⠀⠀ ⠀ ⠀⠀ ⠀⠀ ⠀ ⠀⠀ ⠀ ⠀⠀ ⠀ ⠀⠀ ⠀⠀ ⠀ ⠀⠀ ⠀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@__bnni?_",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@__bnni?_",
+                "start": 0,
+                "url": "https://t.co/k0Os3J8IsB"
+              }
+            ]
+          }
+        },
+        "id": "2040606403690209280",
+        "location": "¦ 𓐇          ໃ ۫⑅   ꩁ",
+        "name": "⏦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084829944358506496/Q9ECPaAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 34,
+          "like_count": 1009,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 98
+        },
+        "url": "https://t.co/k0Os3J8IsB",
+        "username": "__bnni",
+        "verified": false
+      }
+    ]
+  }
+}

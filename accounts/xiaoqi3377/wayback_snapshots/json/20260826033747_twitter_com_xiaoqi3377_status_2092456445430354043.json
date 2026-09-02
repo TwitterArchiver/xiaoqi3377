@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2092452991035232649",
+    "created_at": "2026-08-26T03:37:47.000Z",
+    "display_text_range": [
+      14,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T04:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092456445430354043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982132433450635264",
+          "start": 0,
+          "username": "skadi1114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092456445430354043",
+    "in_reply_to_user_id": "1982132433450635264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092455941048504444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skadi1114514 我去可以可以。严肃记下。我将去食用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2092452991035232649",
+        "created_at": "2026-08-26T03:37:47.000Z",
+        "display_text_range": [
+          14,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092456445430354043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982132433450635264",
+              "start": 0,
+              "username": "skadi1114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092456445430354043",
+        "in_reply_to_user_id": "1982132433450635264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092455941048504444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skadi1114514 我去可以可以。严肃记下。我将去食用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982132433450635264",
+        "conversation_id": "2092452991035232649",
+        "created_at": "2026-08-26T03:35:46.000Z",
+        "display_text_range": [
+          12,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092455941048504444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092455941048504444",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092452991035232649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 来南湖，你看哪家老头老太多就去哪家。推荐戴春华面馆，杨记面馆和南湖牛肉砂锅。还有南京特色的清真牛肉锅贴"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092456445430354043",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2087610859300479283",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720585683184857088/1783959391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 163,
+          "like_count": 772,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 865
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-25T17:09:46.000Z",
+        "description": "",
+        "id": "1982132433450635264",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092456241612410965",
+        "name": "skadi",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982135736980656128/yLW-htEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 292,
+          "like_count": 2060,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 305
+        },
+        "url": "",
+        "username": "skadi1114514",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

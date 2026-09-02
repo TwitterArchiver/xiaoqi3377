@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2094061316315271310",
+    "created_at": "2026-08-30T13:54:58.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T14:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094061316315271310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1167211366761009152",
+          "start": 3,
+          "username": "M2ziyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094061316315271310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093658765962948879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @M2ziyao: 毁掉自己会让你好受些吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2094061316315271310",
+        "created_at": "2026-08-30T13:54:58.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094061316315271310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1167211366761009152",
+              "start": 3,
+              "username": "M2ziyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094061316315271310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093658765962948879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @M2ziyao: 毁掉自己会让你好受些吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167211366761009152",
+        "conversation_id": "2093658765962948879",
+        "created_at": "2026-08-29T11:15:22.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T12:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093658765962948879"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093658765962948879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4855,
+          "like_count": 148,
+          "quote_count": 6,
+          "reply_count": 23,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "毁掉自己会让你好受些吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094061316315271310",
+        "name": "第七滴眼淚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720585683184857088/1783959391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 163,
+          "like_count": 775,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 894
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-29T23:04:28.000Z",
+        "description": "生活推，此亦拙者之为政也\nshe/they/他她伊\n@ziyaoM2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "ziyaoM2"
+              }
+            ]
+          }
+        },
+        "id": "1167211366761009152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094044797690581476",
+        "name": "水抱屈原是我",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1167211366761009152/1777125272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093596507199221760/LV2rQj5U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 279,
+          "like_count": 16647,
+          "listed_count": 1,
+          "media_count": 666,
+          "tweet_count": 6081
+        },
+        "url": "",
+        "username": "M2ziyao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087610830397624320"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2087610859300479283",
+    "created_at": "2026-08-12T18:43:09.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T19:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087610859300479283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xcZkqlFXag",
+          "end": 30,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2087610859300479283/video/1",
+          "media_key": "13_2087610830397624320",
+          "start": 7,
+          "url": "https://t.co/xcZkqlFXag"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087610859300479283",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2087610830397624320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想把你吃掉 https://t.co/xcZkqlFXag"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10541,
+        "height": 720,
+        "media_key": "13_2087610830397624320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087610830397624320/img/qW5h6XBN20wlv4Os.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087610830397624320/vid/avc1/390x270/0O3ds88PRPgV0Qde.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087610830397624320/vid/avc1/520x360/kEkcPkeRSeoXi_8k.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087610830397624320/vid/avc1/1040x720/gQB71Yg9XREMLMro.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087610830397624320/pl/ziYdteHXSDDmBHvy.m3u8"
+          }
+        ],
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087610830397624320"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2087610859300479283",
+        "created_at": "2026-08-12T18:43:09.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087610859300479283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xcZkqlFXag",
+              "end": 30,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2087610859300479283/video/1",
+              "media_key": "13_2087610830397624320",
+              "start": 7,
+              "url": "https://t.co/xcZkqlFXag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087610859300479283",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2087610830397624320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想把你吃掉 https://t.co/xcZkqlFXag"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087610859300479283",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2079485954696561008",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720585683184857088/1783959391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 171,
+          "like_count": 768,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 822
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
