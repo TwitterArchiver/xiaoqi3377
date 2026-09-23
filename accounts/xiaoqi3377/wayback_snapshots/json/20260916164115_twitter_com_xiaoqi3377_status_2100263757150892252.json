@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2100263757150892252",
+    "created_at": "2026-09-16T16:41:15.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T17:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100263757150892252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2011017944772591616",
+          "start": 3,
+          "username": "_2xllqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100263757150892252",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4546
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099907659046728022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_2xllqz: ╭━━━━━━━━╮\n╰┓╭━━╮╭━━╯ 　╭╮\n　┃╰━╮┃┗━╮ 　╭┛┗╮ ╭━╮　 ╭╮\n　┃  ★ ┃┃┏━╯　╰┓　╱　 ┃┃　 ｜｜\n　╰╯┃┃┃┃　 ╭╮ ╱　　╭━╮┃　 ｜｜\n╭ ━ ╯ ┃┃ ╰━╯┃ ╰┓┃┃★　┗╮ ╰╯\n╰…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2100263757150892252",
+        "created_at": "2026-09-16T16:41:15.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T17:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100263757150892252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2011017944772591616",
+              "start": 3,
+              "username": "_2xllqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100263757150892252",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4546
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099907659046728022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_2xllqz: ╭━━━━━━━━╮\n╰┓╭━━╮╭━━╯ 　╭╮\n　┃╰━╮┃┗━╮ 　╭┛┗╮ ╭━╮　 ╭╮\n　┃  ★ ┃┃┏━╯　╰┓　╱　 ┃┃　 ｜｜\n　╰╯┃┃┃┃　 ╭╮ ╱　　╭━╮┃　 ｜｜\n╭ ━ ╯ ┃┃ ╰━╯┃ ╰┓┃┃★　┗╮ ╰╯\n╰…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011017944772591616",
+        "conversation_id": "2099907659046728022",
+        "created_at": "2026-09-15T17:06:14.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T18:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099907659046728022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyanoeee_y/sta…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/nyanoeee_y/status/2099799852809117882",
+              "start": 148,
+              "url": "https://t.co/uQlbgqhXzL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099907659046728022",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8053,
+          "impression_count": 1218347,
+          "like_count": 44626,
+          "quote_count": 186,
+          "reply_count": 5,
+          "retweet_count": 4546
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099799852809117882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "╭━━━━━━━━╮\n╰┓╭━━╮╭━━╯ 　╭╮\n　┃╰━╮┃┗━╮ 　╭┛┗╮ ╭━╮　 ╭╮\n　┃  ★ ┃┃┏━╯　╰┓　╱　 ┃┃　 ｜｜\n　╰╯┃┃┃┃　 ╭╮ ╱　　╭━╮┃　 ｜｜\n╭ ━ ╯ ┃┃ ╰━╯┃ ╰┓┃┃★　┗╮ ╰╯\n╰━━━╯╰━━━╯　  ╰╯╰━╯￣　　★ https://t.co/uQlbgqhXzL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100263757150892252",
+        "name": "第七滴眼淚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720585683184857088/1783959391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 162,
+          "like_count": 777,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 909
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-13T10:10:31.000Z",
+        "description": "髪の長い男が好きです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/_2kokill_q",
+                "end": 23,
+                "expanded_url": "https://lit.link/_2kokill_q",
+                "start": 0,
+                "url": "https://t.co/iGP19mOPXa"
+              }
+            ]
+          }
+        },
+        "id": "2011017944772591616",
+        "is_identity_verified": false,
+        "location": "まこ",
+        "most_recent_tweet_id": "2100260496264081662",
+        "name": "𝔐❤︎",
+        "pinned_tweet_id": "2075343250500776267",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2011017944772591616/1778395226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083395689057533952/OV_c05Cn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 68,
+          "like_count": 20003,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/iGP19mOPXa",
+        "username": "_2xllqz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
