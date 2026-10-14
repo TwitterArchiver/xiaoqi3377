@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2103584514744213504"
+      ],
+      "media_source_tweet_id": [
+        "2105402309715058869"
+      ]
+    },
+    "author_id": "1720585683184857088",
+    "conversation_id": "2105692525784904120",
+    "created_at": "2026-10-01T16:13:14.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T17:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105692525784904120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1358539444362608641",
+          "start": 3,
+          "username": "mikasagrada"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kNcnkzEwbp",
+          "end": 104,
+          "expanded_url": "https://x.com/mikasagrada/status/2105402309715058869/video/1",
+          "media_key": "13_2103584514744213504",
+          "start": 81,
+          "url": "https://t.co/kNcnkzEwbp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105692525784904120",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "13_2103584514744213504"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2413
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105402309715058869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikasagrada: Eu tentando não me estressar por coisas que não posso controlar https://t.co/kNcnkzEwbp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10377,
+        "height": 1132,
+        "media_key": "13_2103584514744213504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103584514744213504/img/TClgk_gRrlhxlSto.jpg",
+        "public_metrics": {
+          "view_count": 40859
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103584514744213504/vid/avc1/278x270/iEnO4RWbmmRMJ-bW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103584514744213504/vid/avc1/372x360/MFPMjVwIClGn6tFW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103584514744213504/vid/avc1/744x720/6oYSN_SMDbo5qFVk.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103584514744213504/pl/ItvRYRJOL_HuT5Dp.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103584514744213504"
+          ],
+          "media_source_tweet_id": [
+            "2105402309715058869"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2105692525784904120",
+        "created_at": "2026-10-01T16:13:14.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T17:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105692525784904120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1358539444362608641",
+              "start": 3,
+              "username": "mikasagrada"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kNcnkzEwbp",
+              "end": 104,
+              "expanded_url": "https://x.com/mikasagrada/status/2105402309715058869/video/1",
+              "media_key": "13_2103584514744213504",
+              "start": 81,
+              "url": "https://t.co/kNcnkzEwbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105692525784904120",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2103584514744213504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2413
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105402309715058869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikasagrada: Eu tentando não me estressar por coisas que não posso controlar https://t.co/kNcnkzEwbp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103584514744213504"
+          ]
+        },
+        "author_id": "1358539444362608641",
+        "conversation_id": "2105402309715058869",
+        "created_at": "2026-09-30T21:00:01.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T22:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105402309715058869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kNcnkzEwbp",
+              "end": 87,
+              "expanded_url": "https://x.com/mikasagrada/status/2105402309715058869/video/1",
+              "media_key": "13_2103584514744213504",
+              "start": 64,
+              "url": "https://t.co/kNcnkzEwbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105402309715058869",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2103584514744213504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 205,
+          "impression_count": 112325,
+          "like_count": 6863,
+          "quote_count": 56,
+          "reply_count": 6,
+          "retweet_count": 2413
+        },
+        "reply_settings": "everyone",
+        "text": "Eu tentando não me estressar por coisas que não posso controlar https://t.co/kNcnkzEwbp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105692525784904120",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2087610859300479283",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720585683184857088/1783959391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104743588756344832/hRfwyxit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 162,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 956
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-07T22:13:49.000Z",
+        "description": "Tenho uma legião de divas | segue ae divas | contato dm 📩",
+        "id": "1358539444362608641",
+        "is_identity_verified": false,
+        "location": "Beverly Hills, CA",
+        "most_recent_tweet_id": "2105684161075786058",
+        "name": "mika",
+        "pinned_tweet_id": "2067636854963233171",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1358539444362608641/1773801866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034098419405574144/zB7RtS9O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86718,
+          "following_count": 6,
+          "like_count": 41393,
+          "listed_count": 46,
+          "media_count": 2502,
+          "tweet_count": 4629
+        },
+        "url": "",
+        "username": "mikasagrada",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

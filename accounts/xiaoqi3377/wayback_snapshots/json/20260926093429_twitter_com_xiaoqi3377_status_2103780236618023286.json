@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2103387535095583157",
+    "created_at": "2026-09-26T09:34:29.000Z",
+    "display_text_range": [
+      9,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T10:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103780236618023286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2092572756940296192",
+          "start": 0,
+          "username": "Yancvix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103780236618023286",
+    "in_reply_to_user_id": "2092572756940296192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103556561616646463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yancvix 太难了。我在试着不去理想化任何人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2103387535095583157",
+        "created_at": "2026-09-26T09:34:29.000Z",
+        "display_text_range": [
+          9,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T10:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103780236618023286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2092572756940296192",
+              "start": 0,
+              "username": "Yancvix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103780236618023286",
+        "in_reply_to_user_id": "2092572756940296192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103556561616646463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yancvix 太难了。我在试着不去理想化任何人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092572756940296192",
+        "conversation_id": "2103387535095583157",
+        "created_at": "2026-09-25T18:45:41.000Z",
+        "display_text_range": [
+          12,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T19:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103556561616646463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103556561616646463",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103387535095583157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 或许你可以钝化你的敏感点"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103780236618023286",
+        "name": "第七滴眼淚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720585683184857088/1783959391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 162,
+          "like_count": 782,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 928
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T11:20:32.000Z",
+        "description": "大二数学系，想学ALGC，英日语，自媒体，俄挺，真心交友，童叟无欺，适龄者可以做朋友吗",
+        "id": "2092572756940296192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103730338434261306",
+        "name": "Yan",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094421822171230208/0JhBsiJA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "Yancvix",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

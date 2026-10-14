@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2103505339853550007",
+    "created_at": "2026-09-25T15:22:08.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T16:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103505339853550007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2049270848968953856",
+          "start": 3,
+          "username": "gutcigahakitai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103505339853550007",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 555
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103021054394576911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gutcigahakitai: 死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にた…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2103505339853550007",
+        "created_at": "2026-09-25T15:22:08.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T16:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103505339853550007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2049270848968953856",
+              "start": 3,
+              "username": "gutcigahakitai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103505339853550007",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 555
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103021054394576911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gutcigahakitai: 死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にた…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049270848968953856",
+        "conversation_id": "2103021054394576911",
+        "created_at": "2026-09-24T07:17:46.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T08:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103021054394576911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103021054394576911",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 22364,
+          "like_count": 1602,
+          "quote_count": 14,
+          "reply_count": 13,
+          "retweet_count": 555
+        },
+        "reply_settings": "everyone",
+        "text": "死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103505339853550007",
+        "name": "第七滴眼淚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720585683184857088/1783959391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 162,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 920
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T23:36:12.000Z",
+        "description": "統合失調感情障害です。\nこの垢はメモです。",
+        "id": "2049270848968953856",
+        "is_identity_verified": false,
+        "location": "なんかどっか",
+        "most_recent_tweet_id": "2103363522352795742",
+        "name": "(/ _ ; )",
+        "pinned_tweet_id": "2067903757397241914",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049270848968953856/1782638176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049272914500059136/tdiNaRnM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 48,
+          "like_count": 8822,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1947
+        },
+        "url": "",
+        "username": "gutcigahakitai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

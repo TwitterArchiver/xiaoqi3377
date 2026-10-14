@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2105299896966504633",
+    "created_at": "2026-09-30T14:13:04.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T15:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105299896966504633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921233595957735427",
+          "start": 3,
+          "username": "biechiuuuu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105299896966504633",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104948162922442981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @biechiuuuu0: 你再牛逼你敢跟现生朋友互关推特？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2105299896966504633",
+        "created_at": "2026-09-30T14:13:04.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T15:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105299896966504633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921233595957735427",
+              "start": 3,
+              "username": "biechiuuuu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105299896966504633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104948162922442981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @biechiuuuu0: 你再牛逼你敢跟现生朋友互关推特？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921233595957735427",
+        "conversation_id": "2104948162922442981",
+        "created_at": "2026-09-29T14:55:24.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T15:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104948162922442981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104948162922442981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 196437,
+          "like_count": 2147,
+          "quote_count": 33,
+          "reply_count": 338,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "你再牛逼你敢跟现生朋友互关推特？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105299896966504633",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2087610859300479283",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720585683184857088/1783959391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104743588756344832/hRfwyxit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 161,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 945
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-10T15:59:33.000Z",
+        "description": "",
+        "id": "1921233595957735427",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105285890960773621",
+        "name": "恋痛癖",
+        "pinned_tweet_id": "2105177851251368011",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921233595957735427/1773841472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052675312698449921/gs0QpPIg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3586,
+          "following_count": 172,
+          "like_count": 4887,
+          "listed_count": 8,
+          "media_count": 35,
+          "tweet_count": 1428
+        },
+        "url": "",
+        "username": "biechiuuuu0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

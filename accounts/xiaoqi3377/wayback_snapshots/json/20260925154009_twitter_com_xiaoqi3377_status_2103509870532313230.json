@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2103509870532313230",
+    "created_at": "2026-09-25T15:40:09.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T16:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103509870532313230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1358539444362608641",
+          "start": 3,
+          "username": "mikasagrada"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103509870532313230",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28031
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102875654438199443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikasagrada: Eu segurando as vontades de fazer uma pergunta aleatória que me ocorreu e que não tem nada a ver com a conversa https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10377,
+        "height": 1132,
+        "media_key": "13_2101089553490812928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101089553490812928/img/1rhcfrzM8DRBFLLr.jpg",
+        "public_metrics": {
+          "view_count": 556338
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101089553490812928/vid/avc1/278x270/R6JTg_JSm8j18prw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101089553490812928/vid/avc1/372x360/S9xQz6b1Eq57H7Zt.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101089553490812928/vid/avc1/744x720/zPUE_fKe1Butdgy0.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101089553490812928/pl/DAIQTFFU90k5SiIb.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2103509870532313230",
+        "created_at": "2026-09-25T15:40:09.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T16:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103509870532313230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1358539444362608641",
+              "start": 3,
+              "username": "mikasagrada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103509870532313230",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28031
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102875654438199443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikasagrada: Eu segurando as vontades de fazer uma pergunta aleatória que me ocorreu e que não tem nada a ver com a conversa https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101089553490812928"
+          ]
+        },
+        "author_id": "1358539444362608641",
+        "conversation_id": "2102875654438199443",
+        "created_at": "2026-09-23T21:40:00.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T22:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102875654438199443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bI7oNjoL7N",
+              "end": 135,
+              "expanded_url": "https://x.com/mikasagrada/status/2102875654438199443/video/1",
+              "media_key": "13_2101089553490812928",
+              "start": 112,
+              "url": "https://t.co/bI7oNjoL7N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102875654438199443",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2101089553490812928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3790,
+          "impression_count": 1233577,
+          "like_count": 97393,
+          "quote_count": 846,
+          "reply_count": 128,
+          "retweet_count": 28031
+        },
+        "reply_settings": "everyone",
+        "text": "Eu segurando as vontades de fazer uma pergunta aleatória que me ocorreu e que não tem nada a ver com a conversa https://t.co/bI7oNjoL7N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103509870532313230",
+        "name": "第七滴眼淚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720585683184857088/1783959391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 162,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 928
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-07T22:13:49.000Z",
+        "description": "Tenho uma legião de divas | segue ae divas | contato dm 📩",
+        "id": "1358539444362608641",
+        "is_identity_verified": false,
+        "location": "Beverly Hills, CA",
+        "most_recent_tweet_id": "2103509833236517137",
+        "name": "mika",
+        "pinned_tweet_id": "2067636854963233171",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1358539444362608641/1773801866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034098419405574144/zB7RtS9O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86340,
+          "following_count": 6,
+          "like_count": 41403,
+          "listed_count": 45,
+          "media_count": 2414,
+          "tweet_count": 4545
+        },
+        "url": "",
+        "username": "mikasagrada",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

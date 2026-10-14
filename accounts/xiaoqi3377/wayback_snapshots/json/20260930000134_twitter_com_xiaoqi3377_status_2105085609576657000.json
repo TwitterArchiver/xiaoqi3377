@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2105085609576657000",
+    "created_at": "2026-09-30T00:01:34.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T01:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105085609576657000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921233595957735427",
+          "start": 3,
+          "username": "biechiuuuu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105085609576657000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 333
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104512237763477826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @biechiuuuu0: 你再牛逼你能在21岁不因为自己的未来崩溃？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2105085609576657000",
+        "created_at": "2026-09-30T00:01:34.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T01:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105085609576657000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921233595957735427",
+              "start": 3,
+              "username": "biechiuuuu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105085609576657000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 333
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104512237763477826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @biechiuuuu0: 你再牛逼你能在21岁不因为自己的未来崩溃？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921233595957735427",
+        "conversation_id": "2104512237763477826",
+        "created_at": "2026-09-28T10:03:12.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104512237763477826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104512237763477826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 195552,
+          "like_count": 4204,
+          "quote_count": 55,
+          "reply_count": 414,
+          "retweet_count": 333
+        },
+        "reply_settings": "everyone",
+        "text": "你再牛逼你能在21岁不因为自己的未来崩溃？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105085609576657000",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2087610859300479283",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720585683184857088/1783959391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104743588756344832/hRfwyxit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 162,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 944
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-10T15:59:33.000Z",
+        "description": "",
+        "id": "1921233595957735427",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104974060421886173",
+        "name": "恋痛癖",
+        "pinned_tweet_id": "2104827065300402410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921233595957735427/1773841472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052675312698449921/gs0QpPIg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3549,
+          "following_count": 172,
+          "like_count": 4754,
+          "listed_count": 8,
+          "media_count": 33,
+          "tweet_count": 1399
+        },
+        "url": "",
+        "username": "biechiuuuu0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

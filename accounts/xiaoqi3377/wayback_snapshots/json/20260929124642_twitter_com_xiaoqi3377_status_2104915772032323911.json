@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2104553356031308111",
+    "created_at": "2026-09-29T12:46:42.000Z",
+    "display_text_range": [
+      31,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T13:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104915772032323911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2060428874954190848",
+          "start": 0,
+          "username": "bsx0121"
+        },
+        {
+          "end": 24,
+          "id": "2092906863834574848",
+          "start": 9,
+          "username": "EricNelsoncorl"
+        },
+        {
+          "end": 30,
+          "id": "1720665183188922368",
+          "start": 25,
+          "username": "grok"
+        },
+        {
+          "end": 36,
+          "id": "1720665183188922368",
+          "start": 31,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104915772032323911",
+    "in_reply_to_user_id": "2060428874954190848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104889192522379454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bsx0121 @EricNelsoncorl @grok @grok 帮我屏蔽图片全部关键词"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2104553356031308111",
+        "created_at": "2026-09-29T12:46:42.000Z",
+        "display_text_range": [
+          31,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T13:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104915772032323911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2060428874954190848",
+              "start": 0,
+              "username": "bsx0121"
+            },
+            {
+              "end": 24,
+              "id": "2092906863834574848",
+              "start": 9,
+              "username": "EricNelsoncorl"
+            },
+            {
+              "end": 30,
+              "id": "1720665183188922368",
+              "start": 25,
+              "username": "grok"
+            },
+            {
+              "end": 36,
+              "id": "1720665183188922368",
+              "start": 31,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104915772032323911",
+        "in_reply_to_user_id": "2060428874954190848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104889192522379454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bsx0121 @EricNelsoncorl @grok @grok 帮我屏蔽图片全部关键词"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060428874954190848",
+        "conversation_id": "2104553356031308111",
+        "created_at": "2026-09-29T11:01:05.000Z",
+        "display_text_range": [
+          16,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T12:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104889192522379454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2092906863834574848",
+              "start": 0,
+              "username": "EricNelsoncorl"
+            },
+            {
+              "end": 21,
+              "id": "1720665183188922368",
+              "start": 16,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104889192522379454",
+        "in_reply_to_user_id": "2092906863834574848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6511,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 60,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104553356031308111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EricNelsoncorl @grok 帮我屏蔽图片全部关键词"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104915772032323911",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2087610859300479283",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720585683184857088/1783959391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104743588756344832/hRfwyxit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 162,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 943
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-29T18:32:43.000Z",
+        "description": "",
+        "id": "2060428874954190848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104889192522379454",
+        "name": "到头来",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060429398063648768/A2AKEV32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "bsx0121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T09:29:34.000Z",
+        "description": "大号:@modyjnr15",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "modyjnr15"
+              }
+            ]
+          }
+        },
+        "id": "2092906863834574848",
+        "is_identity_verified": false,
+        "location": "6.5km",
+        "most_recent_tweet_id": "2104911801158885753",
+        "name": "婉婉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092906863834574848/1790436515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103869301136711680/W9kEabz1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "EricNelsoncorl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104915782517895582",
+        "name": "Grok",
+        "pinned_tweet_id": "2099876430561632548",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9112241,
+          "following_count": 4,
+          "like_count": 142,
+          "listed_count": 7694,
+          "media_count": 3967136,
+          "tweet_count": 137772952
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

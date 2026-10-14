@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1720585683184857088",
+    "conversation_id": "2104215788194517047",
+    "created_at": "2026-09-29T01:10:08.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T02:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104740477685862885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1722904163476979712",
+          "start": 0,
+          "username": "tom415362445683"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104740477685862885",
+    "in_reply_to_user_id": "1722904163476979712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104257041108029448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tom415362445683 不会死的🤧🤧🤧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2104215788194517047",
+        "created_at": "2026-09-29T01:10:08.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T02:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104740477685862885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1722904163476979712",
+              "start": 0,
+              "username": "tom415362445683"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104740477685862885",
+        "in_reply_to_user_id": "1722904163476979712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104257041108029448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tom415362445683 不会死的🤧🤧🤧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722904163476979712",
+        "conversation_id": "2104215788194517047",
+        "created_at": "2026-09-27T17:09:08.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T18:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104257041108029448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104257041108029448",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104215788194517047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 补药啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "两颗心的距离是多远？",
+        "id": "1720585683184857088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104740477685862885",
+        "name": "第七滴眼淚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720585683184857088/1783959391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076702272864841728/ECtEP4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 162,
+          "like_count": 789,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 933
+        },
+        "url": "",
+        "username": "xiaoqi3377",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-10T09:09:27.000Z",
+        "description": "互fo欢迎，本人是乐子",
+        "id": "1722904163476979712",
+        "is_identity_verified": false,
+        "location": "你家床底下",
+        "most_recent_tweet_id": "2104596702367998085",
+        "name": "もペもペ",
+        "pinned_tweet_id": "2025596071217656109",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1722904163476979712/1732121375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051340340049965056/5L_eG8J9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 87,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 182
+        },
+        "url": "",
+        "username": "tom415362445683",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
